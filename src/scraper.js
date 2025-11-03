@@ -46,20 +46,38 @@ const fetchChannels = async (region) => {
     try {
       log(`Fetching channels for ${region.name} (${region.code})...`);
       
-      // Endpoint alternativo che funziona senza autenticazione complessa
-      const url = `https://i.mjh.nz/PlutoTV/${region.code.toUpperCase()}/epg.json`;
-      
-      const response = await axios.get(url, {
-        headers: {
-          'User-Agent': config.scraper.userAgent,
-          'Accept': 'application/json'
-        },
-        timeout: config.scraper.timeout
-      });
+      // Prova più endpoint in sequenza
+      const endpoints = [
+        `https://service-channels.clusters.pluto.tv/v1/guide/channels?region=${region.code.toLowerCase()}`,
+        `https://api.pluto.tv/v2/channels?territory=${region.code.toLowerCase()}`,
+        `https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channels?territory=${region.code.toLowerCase()}`
+      ];
 
-      if (response.data && response.data.channels && Array.isArray(response.data.channels)) {
-        log(`Found ${response.data.channels.length} channels for ${region.name}`, 'success');
-        return response.data.channels;
+      for (const url of endpoints) {
+        try {
+          const response = await axios.get(url, {
+            headers: {
+              'User-Agent': config.scraper.userAgent,
+              'Accept': 'application/json',
+              'Origin': 'https://pluto.tv',
+              'Referer': 'https://pluto.tv/'
+            },
+            timeout: config.scraper.timeout
+          });
+
+          if (response.data) {
+            const channels = Array.isArray(response.data) ? response.data : 
+                           response.data.channels ? response.data.channels : [];
+            
+            if (channels.length > 0) {
+              log(`Found ${channels.length} channels for ${region.name}`, 'success');
+              return channels;
+            }
+          }
+        } catch (endpointError) {
+          // Prova endpoint successivo
+          continue;
+        }
       }
 
       log(`No channels found for ${region.name}`, 'warning');
@@ -67,13 +85,6 @@ const fetchChannels = async (region) => {
 
     } catch (error) {
       attempt++;
-      
-      // Se è 404, la regione non esiste su questo endpoint
-      if (error.response && error.response.status === 404) {
-        log(`Region ${region.name} not available on this endpoint`, 'warning');
-        return [];
-      }
-      
       log(`Error fetching ${region.name} (attempt ${attempt}/${maxRetries}): ${error.message}`, 'error');
       
       if (attempt < maxRetries) {
@@ -85,25 +96,49 @@ const fetchChannels = async (region) => {
   return [];
 };
 
-// Processa dati canale
+// Processa dati canale (versione universale)
 const processChannel = (channel, regionCode) => {
   try {
-    // Formato dell'endpoint alternativo
-    const streamUrl = channel.url || channel.stream || null;
+    // Cerca URL stream in vari formati possibili
+    const streamUrl = channel.stitched?.urls?.[0]?.url || 
+                      channel.url || 
+                      channel.stream ||
+                      channel.streamUrl ||
+                      null;
 
     if (!streamUrl) return null;
 
+    // Nome canale da varie fonti
+    const name = channel.name || 
+                 channel.title ||
+                 channel.tvg?.name ||
+                 'Unknown Channel';
+
+    // Logo da varie fonti
+    const logo = channel.images?.[0]?.url || 
+                 channel.logo?.path || 
+                 channel.thumbnail?.path || 
+                 channel.logo ||
+                 channel.tvg?.logo ||
+                 '';
+
+    // Categoria
+    const category = channel.category || 
+                     channel.group || 
+                     channel.genre ||
+                     'General';
+
     return {
-      id: channel.id || channel.tvg?.id || uuidv4(),
-      name: channel.name || channel.tvg?.name || 'Unknown Channel',
+      id: channel._id || channel.id || channel.tvg?.id || uuidv4(),
+      name: name,
       number: channel.number || channel.tvg?.chno || 0,
-      category: channel.group || channel.category || 'General',
-      logo: channel.logo || channel.tvg?.logo || '',
+      category: category,
+      logo: logo,
       streamUrl: streamUrl,
       region: regionCode,
       language: channel.language || channel.tvg?.language || 'en',
-      summary: channel.summary || '',
-      featured: false
+      summary: channel.summary || channel.description || '',
+      featured: channel.featured || false
     };
   } catch (error) {
     log(`Error processing channel: ${error.message}`, 'error');
