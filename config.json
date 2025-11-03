@@ -11,21 +11,21 @@
       "code": "us",
       "name": "United States",
       "flag": "🇺🇸",
-      "apiUrl": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_pluto.m3u",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
       "active": true
     },
     {
       "code": "de",
       "name": "Germany",
       "flag": "🇩🇪",
-      "apiUrl": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/de_pluto.m3u",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
       "active": true
     },
     {
       "code": "it",
       "name": "Italy",
       "flag": "🇮🇹",
-      "apiUrl": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/it_pluto.m3u",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
       "active": true
     },
     {
