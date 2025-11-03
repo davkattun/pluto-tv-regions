@@ -1,0 +1,158 @@
+{
+  "project": {
+    "name": "Pluto TV Regions Tracker",
+    "version": "1.0.0",
+    "description": "Auto-updating Pluto TV regional links with Docker support",
+    "author": "davkattun",
+    "repository": "https://github.com/davkattun/pluto-tv-regions"
+  },
+  "regions": [
+    {
+      "code": "us",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "uk",
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "ca",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "de",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "at",
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "ch",
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "fr",
+      "name": "France",
+      "flag": "🇫🇷",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "it",
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "es",
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "se",
+      "name": "Sweden",
+      "flag": "🇸🇪",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "no",
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "dk",
+      "name": "Denmark",
+      "flag": "🇩🇰",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "mx",
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "br",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "ar",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    },
+    {
+      "code": "cl",
+      "name": "Chile",
+      "flag": "🇨🇱",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": true
+    }
+  ],
+  "scraper": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "timeout": 15000,
+    "retries": 3,
+    "delayBetweenRequests": 500
+  },
+  "output": {
+    "formats": ["m3u", "json"],
+    "directories": {
+      "m3u": "./output/m3u",
+      "json": "./output/json"
+    },
+    "m3uOptions": {
+      "includeEPG": true,
+      "includeLogo": true,
+      "groupByCategory": true
+    }
+  },
+  "automation": {
+    "enabled": true,
+    "schedule": "daily",
+    "cronExpression": "0 3 * * *",
+    "timezone": "UTC"
+  },
+  "features": {
+    "generateStats": true,
+    "createReadme": true,
+    "validateStreams": false,
+    "notifications": {
+      "enabled": false,
+      "discord": {
+        "webhookUrl": ""
+      }
+    }
+  }
+}
