@@ -46,36 +46,20 @@ const fetchChannels = async (region) => {
     try {
       log(`Fetching channels for ${region.name} (${region.code})...`);
       
-      // API Pluto TV con parametri corretti
-      const clientID = uuidv4();
-      const deviceID = uuidv4();
-      const sessionID = uuidv4();
-      
-      const params = {
-        appName: 'web',
-        appVersion: '6.0.0',
-        clientID: clientID,
-        clientModelNumber: '1.0.0',
-        deviceDNT: '0',
-        deviceId: deviceID,
-        deviceMake: 'Chrome',
-        deviceModel: 'web',
-        deviceType: 'web',
-        deviceVersion: 'unknown',
-        sid: sessionID
-      };
-
-      const url = `https://service-channels.clusters.pluto.tv/v1/guide/channels?region=${region.code}`;
+      // Endpoint alternativo che funziona senza autenticazione complessa
+      const url = `https://i.mjh.nz/PlutoTV/${region.code.toUpperCase()}/epg.json`;
       
       const response = await axios.get(url, {
-        params: params,
-        headers: generateHeaders(region.code),
+        headers: {
+          'User-Agent': config.scraper.userAgent,
+          'Accept': 'application/json'
+        },
         timeout: config.scraper.timeout
       });
 
-      if (response.data && Array.isArray(response.data)) {
-        log(`Found ${response.data.length} channels for ${region.name}`, 'success');
-        return response.data;
+      if (response.data && response.data.channels && Array.isArray(response.data.channels)) {
+        log(`Found ${response.data.channels.length} channels for ${region.name}`, 'success');
+        return response.data.channels;
       }
 
       log(`No channels found for ${region.name}`, 'warning');
@@ -83,10 +67,17 @@ const fetchChannels = async (region) => {
 
     } catch (error) {
       attempt++;
+      
+      // Se è 404, la regione non esiste su questo endpoint
+      if (error.response && error.response.status === 404) {
+        log(`Region ${region.name} not available on this endpoint`, 'warning');
+        return [];
+      }
+      
       log(`Error fetching ${region.name} (attempt ${attempt}/${maxRetries}): ${error.message}`, 'error');
       
       if (attempt < maxRetries) {
-        await sleep(2000 * attempt); // Backoff esponenziale
+        await sleep(2000 * attempt);
       }
     }
   }
@@ -97,27 +88,22 @@ const fetchChannels = async (region) => {
 // Processa dati canale
 const processChannel = (channel, regionCode) => {
   try {
-    // Estrai URL stream
-    const streamUrl = channel.stitched?.urls?.[0]?.url || 
-                      channel.url || 
-                      null;
+    // Formato dell'endpoint alternativo
+    const streamUrl = channel.url || channel.stream || null;
 
     if (!streamUrl) return null;
 
     return {
-      id: channel._id || channel.id || uuidv4(),
-      name: channel.name || 'Unknown Channel',
-      number: channel.number || 0,
-      category: channel.category || 'General',
-      logo: channel.images?.[0]?.url || 
-            channel.logo?.path || 
-            channel.thumbnail?.path || 
-            '',
+      id: channel.id || channel.tvg?.id || uuidv4(),
+      name: channel.name || channel.tvg?.name || 'Unknown Channel',
+      number: channel.number || channel.tvg?.chno || 0,
+      category: channel.group || channel.category || 'General',
+      logo: channel.logo || channel.tvg?.logo || '',
       streamUrl: streamUrl,
       region: regionCode,
-      language: channel.language || 'en',
+      language: channel.language || channel.tvg?.language || 'en',
       summary: channel.summary || '',
-      featured: channel.featured || false
+      featured: false
     };
   } catch (error) {
     log(`Error processing channel: ${error.message}`, 'error');
