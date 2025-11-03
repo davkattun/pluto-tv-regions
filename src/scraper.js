@@ -6,288 +6,100 @@ const { v4: uuidv4 } = require('uuid');
 const configPath = path.resolve(__dirname, '../config.json');
 const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
 
-const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 const formatDate = () => new Date().toISOString();
 
-const log = (message, type = 'info') => {
-  const timestamp = new Date().toISOString();
-  const prefix = { info: 'ℹ️', success: '✅', error: '❌', warning: '⚠️' }[type] || 'ℹ️';
-  console.log(`[${timestamp}] ${prefix} ${message}`);
+const log = (msg, type='info') => {
+  const ts = new Date().toISOString();
+  const prefix = {info:'ℹ️',success:'✅',error:'❌',warning:'⚠️'}[type] || 'ℹ️';
+  console.log(`[${ts}] ${prefix} ${msg}`);
 };
 
 const ensureDirectories = () => {
-  const dirs = [
-    path.resolve(__dirname, '../output/m3u'),
-    path.resolve(__dirname, '../output/json')
-  ];
-  dirs.forEach(dir => {
-    if (!fs.existsSync(dir)) {
-      fs.mkdirSync(dir, { recursive: true });
-      log(`Created directory: ${dir}`);
-    }
+  ['../output/m3u','../output/json'].forEach(dir => {
+    const abs = path.resolve(__dirname, dir);
+    if (!fs.existsSync(abs)) { fs.mkdirSync(abs,{recursive:true}); log(`Created: ${abs}`); }
   });
 };
 
-const parseM3U = (m3uContent, regionCode) => {
-  const channels = [];
-  const lines = m3uContent.split('\n');
-  let currentChannel = null;
-
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i].trim();
-
+// Parse M3U
+const parseM3U = (content, region) => {
+  const lines = content.split('\n'); const channels = []; let ch=null;
+  lines.forEach(line => {
+    line = line.trim();
     if (line.startsWith('#EXTINF:')) {
-      const tvgId = (line.match(/tvg-id="([^"]*)"/) || [])[1] || uuidv4();
-      const tvgName = (line.match(/tvg-name="([^"]*)"/) || [])[1] || '';
-      const tvgLogo = (line.match(/tvg-logo="([^"]*)"/) || [])[1] || '';
-      const groupTitle = (line.match(/group-title="([^"]*)"/) || [])[1] || 'General';
-      const name = (line.match(/,(.+)$/) || [])[1] || tvgName || 'Unknown';
-
-      currentChannel = {
-        id: tvgId,
-        name: name,
-        number: 0,
-        category: groupTitle,
-        logo: tvgLogo,
-        streamUrl: null,
-        region: regionCode,
-        language: 'en',
-        summary: '',
-        featured: false
-      };
-    } else if (line && !line.startsWith('#') && currentChannel) {
-      currentChannel.streamUrl = line;
-      channels.push(currentChannel);
-      currentChannel = null;
-    }
-  }
-
+      const tvgId = (line.match(/tvg-id="([^"]*)"/)||[])[1]||uuidv4();
+      const name = (line.match(/,(.+)$/)||[])[1]||'Unknown';
+      ch = { id:tvgId, name, region, category:'Pluto TV', logo:'', streamUrl:null };
+    } else if (line && ch && !line.startsWith('#')) { ch.streamUrl = line; channels.push(ch); ch=null; }
+  });
   return channels;
 };
 
-const fetchFromIPTVOrg = async (region) => {
-  const maxRetries = config.scraper?.retries || 3;
-  const timeout = config.scraper?.timeout || 15000;
-  let attempt = 0;
+// Pluto playlist custom mapping
+const plutoUrls = {
+  us: 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_pluto.m3u',
+  it: 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/it_pluto.m3u',
+  de: 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/de_pluto.m3u'
+};
 
-  while (attempt < maxRetries) {
-    try {
-      const url = `https://raw.githubusercontent.com/iptv-org/iptv/master/streams/${region.code.toLowerCase()}.m3u`;
-      
-      log(`🔗 Fetching: ${url}`);
-      
-      const response = await axios.get(url, {
-        headers: {
-          'User-Agent': config.scraper?.userAgent || 'Mozilla/5.0',
-          'Accept': 'text/plain'
-        },
-        timeout: timeout
-      });
-
-      log(`📥 Response: ${response.status} - ${response.data.length} bytes`);
-
-      if (response.data && response.data.includes('#EXTM3U')) {
-        const allChannels = parseM3U(response.data, region.code);
-        log(`📺 Parsed ${allChannels.length} total channels`);
-        
-        const plutoChannels = allChannels.filter(ch => 
-          ch.name.toLowerCase().includes('pluto') || 
-          ch.streamUrl.includes('pluto.tv') ||
-          ch.id.toLowerCase().includes('pluto')
-        );
-        
-        log(`🎯 Found ${plutoChannels.length} Pluto TV channels`);
-        
-        if (plutoChannels.length > 0) {
-          return plutoChannels;
-        } else {
-          log(`⚠️ No Pluto channels, using all ${allChannels.length} channels`);
-          return allChannels;
-        }
-      }
-
-      log(`Invalid M3U format`, 'warning');
-      return [];
-
-    } catch (error) {
-      attempt++;
-      
-      if (error.response && error.response.status === 404) {
-        log(`❌ 404 - Region ${region.name} (${region.code}) not found on iptv-org`, 'error');
-        return [];
-      }
-      
-      log(`Error attempt ${attempt}/${maxRetries}: ${error.message}`, 'error');
-      
-      if (attempt < maxRetries) {
-        await sleep(2000 * attempt);
-      }
+// Download and parse for each region
+const fetchPlutoM3U = async (region) => {
+  const url = plutoUrls[region.code];
+  if (!url) { log(`No Pluto playlist for ${region.name}`, 'warning'); return []; }
+  try {
+    log(`🔗 Fetching: ${url}`);
+    const res = await axios.get(url, {timeout:15000});
+    if (res.data && res.data.includes('#EXTM3U')) {
+      const channels = parseM3U(res.data, region.code);
+      log(`🎯 ${channels.length} Pluto TV channels found for ${region.name}`);
+      return channels;
     }
+    log('Invalid file format','warning');
+  } catch(e){
+    log(`Error fetching ${url}: ${e.message}`,'error');
   }
-  
   return [];
 };
 
-const generateM3U = (channels, region) => {
-  let m3u = '#EXTM3U\n';
-  m3u += '#EXTVLCOPT:network-caching=1000\n\n';
-
-  channels.forEach(channel => {
-    if (!channel || !channel.streamUrl) return;
-    const tvgId = channel.id;
-    const tvgName = channel.name.replace(/"/g, "'");
-    const tvgLogo = channel.logo;
-    const groupTitle = channel.category;
-    m3u += `#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" tvg-logo="${tvgLogo}" group-title="${groupTitle}",${channel.name}\n`;
-    m3u += `${channel.streamUrl}\n\n`;
+const generateM3U = (channels,region) => {
+  let m3u = '#EXTM3U\n#EXTVLCOPT:network-caching=1000\n\n';
+  channels.forEach(ch => {
+    m3u += `#EXTINF:-1 tvg-id="${ch.id}" tvg-name="${ch.name}" group-title="Pluto TV",${ch.name}\n`;
+    m3u += `${ch.streamUrl}\n\n`;
   });
-
   return m3u;
 };
 
 const saveM3U = (content, region) => {
-  try {
-    const filename = `pluto-${region.code}.m3u`;
-    const outputDir = path.resolve(__dirname, '../output/m3u');
-    const filepath = path.join(outputDir, filename);
-    fs.writeFileSync(filepath, content, 'utf8');
-    log(`M3U saved: ${filepath}`, 'success');
-  } catch (error) {
-    log(`Failed to save M3U: ${error.message}`, 'error');
-  }
+  const filename = `pluto-${region.code}.m3u`;
+  const out = path.resolve(__dirname, '../output/m3u', filename);
+  fs.writeFileSync(out, content, 'utf8');
+  log(`M3U saved: ${out}`);
 };
 
-const saveJSON = (data, region) => {
-  try {
-    const filename = `pluto-${region.code}.json`;
-    const outputDir = path.resolve(__dirname, '../output/json');
-    const filepath = path.join(outputDir, filename);
-    
-    const output = {
-      region: { code: region.code, name: region.name, flag: region.flag },
-      metadata: {
-        generatedAt: formatDate(),
-        totalChannels: data.length,
-        version: config.project?.version || '1.0.0',
-        source: 'iptv-org/iptv'
-      },
-      channels: data
-    };
-
-    fs.writeFileSync(filepath, JSON.stringify(output, null, 2), 'utf8');
-    log(`JSON saved: ${filepath}`, 'success');
-  } catch (error) {
-    log(`Failed to save JSON: ${error.message}`, 'error');
-  }
-};
-
-const generateStats = (allData) => {
-  return {
-    generatedAt: formatDate(),
-    totalRegions: allData.length,
-    totalChannels: allData.reduce((sum, r) => sum + r.channels.length, 0),
-    regions: allData.map(r => ({
-      code: r.region.code,
-      name: r.region.name,
-      flag: r.region.flag,
-      channels: r.channels.length,
-      categories: [...new Set(r.channels.map(c => c.category))].length
-    }))
-  };
-};
-
-const generateOutputReadme = (stats) => {
-  try {
-    let readme = '# Pluto TV Regional Links\n\n';
-    readme += `> Auto-generated on ${new Date().toUTCString()}\n\n`;
-    readme += '**Source**: [iptv-org/iptv](https://github.com/iptv-org/iptv)\n\n';
-    readme += '## 📊 Statistics\n\n';
-    readme += `- **Regions**: ${stats.totalRegions}\n`;
-    readme += `- **Channels**: ${stats.totalChannels}\n`;
-    readme += `- **Updated**: ${stats.generatedAt}\n\n`;
-    readme += '## 🌍 Regions\n\n';
-    readme += '| Region | Channels | M3U | JSON |\n';
-    readme += '|--------|----------|-----|------|\n';
-
-    stats.regions.forEach(region => {
-      const m3u = `[M3U](./m3u/pluto-${region.code}.m3u)`;
-      const json = `[JSON](./json/pluto-${region.code}.json)`;
-      readme += `| ${region.flag} ${region.name} | ${region.channels} | ${m3u} | ${json} |\n`;
-    });
-
-    readme += '\n---\n*Generated by [pluto-tv-regions](https://github.com/davkattun/pluto-tv-regions)*\n';
-
-    fs.writeFileSync(path.resolve(__dirname, '../output/README.md'), readme, 'utf8');
-    log('README generated', 'success');
-  } catch (error) {
-    log(`README error: ${error.message}`, 'error');
-  }
+const saveJSON = (channels,region) => {
+  const filename = `pluto-${region.code}.json`;
+  const out = path.resolve(__dirname, '../output/json', filename);
+  fs.writeFileSync(out, JSON.stringify(channels,null,2),'utf8');
+  log(`JSON saved: ${out}`);
 };
 
 const main = async () => {
-  log('🚀 Starting Pluto TV Scraper');
-  log('Source: iptv-org/iptv');
-
+  log('🚀 Pluto TV Regional Scraper START');
   ensureDirectories();
-
-  const activeRegions = config.regions?.filter(r => r.active) || [];
-  if (activeRegions.length === 0) {
-    log('No active regions', 'error');
-    process.exit(1);
-  }
-
-  log(`Processing ${activeRegions.length} regions`);
-
-  const allData = [];
-  let successCount = 0;
-
-  for (const region of activeRegions) {
-    try {
-      log(`\n▶️  ${region.name} (${region.code})`);
-      const channels = await fetchFromIPTVOrg(region);
-
-      if (channels.length === 0) {
-        log(`No channels for ${region.name}`, 'warning');
-        continue;
-      }
-
-      log(`✅ ${channels.length} channels ready`);
-
-      if (config.output?.formats?.includes('m3u')) {
-        saveM3U(generateM3U(channels, region), region);
-      }
-
-      if (config.output?.formats?.includes('json')) {
-        saveJSON(channels, region);
-      }
-
-      allData.push({
-        region: { code: region.code, name: region.name, flag: region.flag },
-        channels: channels
-      });
-
-      successCount++;
-      await sleep(config.scraper?.delayBetweenRequests || 500);
-
-    } catch (error) {
-      log(`Error: ${error.message}`, 'error');
+  const active = config.regions.filter(r => r.active);
+  for(const region of active){
+    const channels = await fetchPlutoM3U(region);
+    if(channels.length>0){
+      saveM3U(generateM3U(channels,region),region);
+      saveJSON(channels,region);
+    } else {
+      log(`No channels found for ${region.name}`, 'warning');
     }
+    await sleep(config.scraper?.delayBetweenRequests||500);
   }
-
-  if (allData.length > 0) {
-    if (config.features?.generateStats && config.features?.createReadme) {
-      generateOutputReadme(generateStats(allData));
-    }
-
-    const total = allData.reduce((sum, r) => sum + r.channels.length, 0);
-    log(`\n🎉 Complete! ${successCount}/${activeRegions.length} regions, ${total} channels`, 'success');
-  } else {
-    log('No data collected', 'error');
-    process.exit(1);
-  }
+  log('🎉 Done!');
 };
 
-main().catch(error => {
-  log(`Fatal: ${error.message}`, 'error');
-  process.exit(1);
-});
+main().catch(e => { log('Fatal: '+e.message,'error'); process.exit(1); });
