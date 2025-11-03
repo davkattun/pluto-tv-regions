@@ -26,18 +26,7 @@ const log = (message, type = 'info') => {
   console.log(`[${timestamp}] ${prefix} ${message}`);
 };
 
-// Genera headers per API Pluto TV
-const generateHeaders = (region) => {
-  return {
-    'User-Agent': config.scraper.userAgent,
-    'Accept': 'application/json',
-    'Accept-Language': 'en-US,en;q=0.9',
-    'Origin': 'https://pluto.tv',
-    'Referer': 'https://pluto.tv/',
-  };
-};
-
-// Fetch canali da API Pluto TV per una regione
+// Fetch canali da sorgente GitHub community-maintained
 const fetchChannels = async (region) => {
   const maxRetries = config.scraper.retries;
   let attempt = 0;
@@ -46,38 +35,28 @@ const fetchChannels = async (region) => {
     try {
       log(`Fetching channels for ${region.name} (${region.code})...`);
       
-      // Prova più endpoint in sequenza
-      const endpoints = [
-        `https://service-channels.clusters.pluto.tv/v1/guide/channels?region=${region.code.toLowerCase()}`,
-        `https://api.pluto.tv/v2/channels?territory=${region.code.toLowerCase()}`,
-        `https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channels?territory=${region.code.toLowerCase()}`
-      ];
+      // Usa repository GitHub che mantiene M3U aggiornati
+      const url = `https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pluto_${region.code}.m3u`;
+      
+      const response = await axios.get(url, {
+        headers: {
+          'User-Agent': config.scraper.userAgent,
+          'Accept': 'text/plain'
+        },
+        timeout: config.scraper.timeout
+      });
 
-      for (const url of endpoints) {
-        try {
-          const response = await axios.get(url, {
-            headers: {
-              'User-Agent': config.scraper.userAgent,
-              'Accept': 'application/json',
-              'Origin': 'https://pluto.tv',
-              'Referer': 'https://pluto.tv/'
-            },
-            timeout: config.scraper.timeout
-          });
+      if (response.data && response.data.includes('#EXTM3U')) {
+        const channels = parseM3U(response.data, region.code);
+        log(`Found ${channels.length} channels for ${region.name}`, 'success');
+        return channels;
+      }
 
-          if (response.data) {
-            const channels = Array.isArray(response.data) ? response.data : 
-                           response.data.channels ? response.data.channels : [];
-            
-            if (channels.length > 0) {
-              log(`Found ${channels.length} channels for ${region.name}`, 'success');
-              return channels;
-            }
-          }
-        } catch (endpointError) {
-          // Prova endpoint successivo
-          continue;
-        }
+      // Fallback: prova API diretta Pluto
+      log(`Trying direct Pluto API for ${region.name}...`);
+      const apiChannels = await fetchFromPlutoAPI(region);
+      if (apiChannels.length > 0) {
+        return apiChannels;
       }
 
       log(`No channels found for ${region.name}`, 'warning');
@@ -85,6 +64,15 @@ const fetchChannels = async (region) => {
 
     } catch (error) {
       attempt++;
+      
+      if (error.response && error.response.status === 404) {
+        log(`Trying direct Pluto API for ${region.name}...`);
+        const apiChannels = await fetchFromPlutoAPI(region);
+        if (apiChannels.length > 0) {
+          return apiChannels;
+        }
+      }
+      
       log(`Error fetching ${region.name} (attempt ${attempt}/${maxRetries}): ${error.message}`, 'error');
       
       if (attempt < maxRetries) {
@@ -96,52 +84,117 @@ const fetchChannels = async (region) => {
   return [];
 };
 
-// Processa dati canale (versione universale)
-const processChannel = (channel, regionCode) => {
+// Fetch direttamente da API Pluto TV
+const fetchFromPlutoAPI = async (region) => {
   try {
-    // Cerca URL stream in vari formati possibili
+    const endpoints = [
+      `https://service-channels.clusters.pluto.tv/v1/guide/channels`,
+      `https://api.pluto.tv/v2/channels`,
+    ];
+
+    for (const baseUrl of endpoints) {
+      try {
+        const params = {
+          territory: region.code.toLowerCase(),
+          region: region.code.toLowerCase()
+        };
+
+        const response = await axios.get(baseUrl, {
+          params: params,
+          headers: {
+            'User-Agent': config.scraper.userAgent,
+            'Accept': 'application/json',
+            'Origin': 'https://pluto.tv',
+            'Referer': 'https://pluto.tv/'
+          },
+          timeout: config.scraper.timeout
+        });
+
+        if (response.data) {
+          let channels = Array.isArray(response.data) ? response.data : 
+                        response.data.channels ? response.data.channels : [];
+          
+          if (channels.length > 0) {
+            return channels.map(ch => processPlutoChannel(ch, region.code)).filter(ch => ch !== null);
+          }
+        }
+      } catch (err) {
+        continue;
+      }
+    }
+  } catch (error) {
+    log(`API fetch failed: ${error.message}`, 'error');
+  }
+  
+  return [];
+};
+
+// Parse M3U file
+const parseM3U = (m3uContent, regionCode) => {
+  const channels = [];
+  const lines = m3uContent.split('\n');
+  
+  let currentChannel = null;
+  
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    
+    if (line.startsWith('#EXTINF:')) {
+      // Estrai metadata
+      const tvgIdMatch = line.match(/tvg-id="([^"]*)"/);
+      const tvgNameMatch = line.match(/tvg-name="([^"]*)"/);
+      const tvgLogoMatch = line.match(/tvg-logo="([^"]*)"/);
+      const groupTitleMatch = line.match(/group-title="([^"]*)"/);
+      const nameMatch = line.match(/,(.+)$/);
+      
+      currentChannel = {
+        id: tvgIdMatch ? tvgIdMatch[1] : uuidv4(),
+        name: nameMatch ? nameMatch[1].trim() : (tvgNameMatch ? tvgNameMatch[1] : 'Unknown'),
+        number: 0,
+        category: groupTitleMatch ? groupTitleMatch[1] : 'General',
+        logo: tvgLogoMatch ? tvgLogoMatch[1] : '',
+        streamUrl: null,
+        region: regionCode,
+        language: 'en',
+        summary: '',
+        featured: false
+      };
+    } else if (line && !line.startsWith('#') && currentChannel) {
+      // URL dello stream
+      currentChannel.streamUrl = line;
+      channels.push(currentChannel);
+      currentChannel = null;
+    }
+  }
+  
+  return channels;
+};
+
+// Processa canale da API Pluto
+const processPlutoChannel = (channel, regionCode) => {
+  try {
     const streamUrl = channel.stitched?.urls?.[0]?.url || 
                       channel.url || 
-                      channel.stream ||
-                      channel.streamUrl ||
                       null;
 
     if (!streamUrl) return null;
 
-    // Nome canale da varie fonti
-    const name = channel.name || 
-                 channel.title ||
-                 channel.tvg?.name ||
-                 'Unknown Channel';
-
-    // Logo da varie fonti
-    const logo = channel.images?.[0]?.url || 
-                 channel.logo?.path || 
-                 channel.thumbnail?.path || 
-                 channel.logo ||
-                 channel.tvg?.logo ||
-                 '';
-
-    // Categoria
-    const category = channel.category || 
-                     channel.group || 
-                     channel.genre ||
-                     'General';
-
     return {
-      id: channel._id || channel.id || channel.tvg?.id || uuidv4(),
-      name: name,
-      number: channel.number || channel.tvg?.chno || 0,
-      category: category,
-      logo: logo,
+      id: channel._id || channel.id || uuidv4(),
+      name: channel.name || 'Unknown Channel',
+      number: channel.number || 0,
+      category: channel.category || 'General',
+      logo: channel.images?.[0]?.url || 
+            channel.logo?.path || 
+            channel.thumbnail?.path || 
+            '',
       streamUrl: streamUrl,
       region: regionCode,
-      language: channel.language || channel.tvg?.language || 'en',
-      summary: channel.summary || channel.description || '',
+      language: channel.language || 'en',
+      summary: channel.summary || '',
       featured: channel.featured || false
     };
   } catch (error) {
-    log(`Error processing channel: ${error.message}`, 'error');
     return null;
   }
 };
@@ -239,7 +292,13 @@ const generateOutputReadme = (stats) => {
   readme += `1. Copy the M3U link for your region\n`;
   readme += `2. Add to your IPTV player (VLC, Kodi, TiviMate, etc.)\n`;
   readme += `3. Enjoy!\n\n`;
-  readme += `### JSON Data\n\n`;
+  readme += `### Direct Links (Raw)\n\n`;
+  
+  stats.regions.forEach(region => {
+    readme += `- **${region.flag} ${region.name}**: \`https://raw.githubusercontent.com/davkattun/pluto-tv-regions/main/output/m3u/pluto-${region.code}.m3u\`\n`;
+  });
+
+  readme += `\n### JSON Data\n\n`;
   readme += `Use JSON files for custom applications or parsing.\n\n`;
   readme += `---\n\n`;
   readme += `*Generated by [pluto-tv-regions](https://github.com/davkattun/pluto-tv-regions)*\n`;
@@ -261,12 +320,7 @@ const main = async () => {
   for (const region of activeRegions) {
     try {
       // Fetch canali
-      const rawChannels = await fetchChannels(region);
-      
-      // Processa canali
-      const processedChannels = rawChannels
-        .map(ch => processChannel(ch, region.code))
-        .filter(ch => ch !== null);
+      const processedChannels = await fetchChannels(region);
 
       if (processedChannels.length === 0) {
         log(`No valid channels for ${region.name}`, 'warning');
@@ -302,7 +356,7 @@ const main = async () => {
   }
 
   // Genera statistiche e README
-  if (config.features.generateStats && config.features.createReadme) {
+  if (allData.length > 0 && config.features.generateStats && config.features.createReadme) {
     const stats = generateStats(allData);
     generateOutputReadme(stats);
   }
