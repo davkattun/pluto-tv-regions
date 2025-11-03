@@ -46,8 +46,29 @@ const fetchChannels = async (region) => {
     try {
       log(`Fetching channels for ${region.name} (${region.code})...`);
       
-      const url = `${region.apiUrl}?region=${region.code}`;
+      // API Pluto TV con parametri corretti
+      const clientID = uuidv4();
+      const deviceID = uuidv4();
+      const sessionID = uuidv4();
+      
+      const params = {
+        appName: 'web',
+        appVersion: '6.0.0',
+        clientID: clientID,
+        clientModelNumber: '1.0.0',
+        deviceDNT: '0',
+        deviceId: deviceID,
+        deviceMake: 'Chrome',
+        deviceModel: 'web',
+        deviceType: 'web',
+        deviceVersion: 'unknown',
+        sid: sessionID
+      };
+
+      const url = `https://service-channels.clusters.pluto.tv/v1/guide/channels?region=${region.code}`;
+      
       const response = await axios.get(url, {
+        params: params,
         headers: generateHeaders(region.code),
         timeout: config.scraper.timeout
       });
