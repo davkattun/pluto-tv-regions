@@ -15,44 +15,9 @@
       "active": true
     },
     {
-      "code": "uk",
-      "name": "United Kingdom",
-      "flag": "🇬🇧",
-      "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
-    },
-    {
-      "code": "ca",
-      "name": "Canada",
-      "flag": "🇨🇦",
-      "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
-    },
-    {
       "code": "de",
       "name": "Germany",
       "flag": "🇩🇪",
-      "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
-    },
-    {
-      "code": "at",
-      "name": "Austria",
-      "flag": "🇦🇹",
-      "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
-    },
-    {
-      "code": "ch",
-      "name": "Switzerland",
-      "flag": "🇨🇭",
-      "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
-    },
-    {
-      "code": "fr",
-      "name": "France",
-      "flag": "🇫🇷",
       "apiUrl": "https://api.pluto.tv/v2/channels",
       "active": true
     },
@@ -64,60 +29,95 @@
       "active": true
     },
     {
+      "code": "uk",
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": false
+    },
+    {
+      "code": "ca",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": false
+    },
+    {
+      "code": "at",
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": false
+    },
+    {
+      "code": "ch",
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": false
+    },
+    {
+      "code": "fr",
+      "name": "France",
+      "flag": "🇫🇷",
+      "apiUrl": "https://api.pluto.tv/v2/channels",
+      "active": false
+    },
+    {
       "code": "es",
       "name": "Spain",
       "flag": "🇪🇸",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "se",
       "name": "Sweden",
       "flag": "🇸🇪",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "no",
       "name": "Norway",
       "flag": "🇳🇴",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "dk",
       "name": "Denmark",
       "flag": "🇩🇰",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "mx",
       "name": "Mexico",
       "flag": "🇲🇽",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "br",
       "name": "Brazil",
       "flag": "🇧🇷",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "ar",
       "name": "Argentina",
       "flag": "🇦🇷",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     },
     {
       "code": "cl",
       "name": "Chile",
       "flag": "🇨🇱",
       "apiUrl": "https://api.pluto.tv/v2/channels",
-      "active": true
+      "active": false
     }
   ],
   "scraper": {
