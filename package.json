@@ -1,0 +1,45 @@
+{
+  "name": "pluto-tv-regions",
+  "version": "1.0.0",
+  "description": "Auto-updating Pluto TV regional links tracker with Docker support",
+  "main": "src/scraper.js",
+  "scripts": {
+    "start": "node src/scraper.js",
+    "update": "node src/scraper.js",
+    "dev": "node src/scraper.js",
+    "test": "node --test",
+    "validate": "node -e \"console.log('Config valid:', !!require('./config.json'))\"",
+    "clean": "rm -rf output/m3u/* output/json/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davkattun/pluto-tv-regions.git"
+  },
+  "keywords": [
+    "pluto-tv",
+    "iptv",
+    "m3u",
+    "streaming",
+    "channels",
+    "docker",
+    "automation",
+    "github-actions",
+    "regional",
+    "multi-region"
+  ],
+  "author": "davkattun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davkattun/pluto-tv-regions/issues"
+  },
+  "homepage": "https://github.com/davkattun/pluto-tv-regions#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
