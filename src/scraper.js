@@ -72,7 +72,7 @@ const fetchFromPlutoAPI = async (region) => {
 
   while (attempt < maxRetries) {
     try {
-      const url = `https://raw.githubusercontent.com/iptv-org/iptv/master/streams/${region.code.toLowerCase()}.m3u`;
+      const url = `https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pluto${region.code.toLowerCase()}.m3u`;
       
       log(`🔗 URL: ${url}`);
       
