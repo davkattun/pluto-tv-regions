@@ -74,7 +74,7 @@ const fetchFromPlutoAPI = async (region) => {
     try {
       const url = `https://raw.githubusercontent.com/iptv-org/iptv/master/streams/${region.code.toLowerCase()}.m3u`;
       
-      log(`Fetching from iptv-org for ${region.name}: ${url}`);
+      log(`🔗 URL: ${url}`);
       
       const response = await axios.get(url, {
         headers: {
@@ -84,37 +84,45 @@ const fetchFromPlutoAPI = async (region) => {
         timeout: timeout
       });
 
+      log(`📥 Response status: ${response.status}`);
+      log(`📊 Response size: ${response.data.length} bytes`);
+
       if (response.data && response.data.includes('#EXTM3U')) {
         const allChannels = parseM3U(response.data, region.code);
+        log(`📺 Total channels parsed: ${allChannels.length}`);
         
-        const plutoChannels = allChannels.filter(ch => 
-          ch.name.toLowerCase().includes('pluto') || 
-          ch.streamUrl.includes('pluto.tv') ||
-          ch.id.toLowerCase().includes('pluto')
-        );
+        const plutoChannels = allChannels.filter(ch => {
+          const hasPluto = ch.name.toLowerCase().includes('pluto') || 
+                          ch.streamUrl.includes('pluto.tv') ||
+                          ch.id.toLowerCase().includes('pluto');
+          if (hasPluto) {
+            log(`  ✓ Pluto channel found: ${ch.name}`);
+          }
+          return hasPluto;
+        });
+        
+        log(`🎯 Pluto channels filtered: ${plutoChannels.length}`);
         
         if (plutoChannels.length > 0) {
-          log(`Found ${plutoChannels.length} Pluto TV channels (from ${allChannels.length} total)`);
           return plutoChannels;
         } else {
-          log(`No Pluto TV channels found, returning all ${allChannels.length} channels`);
+          log(`⚠️ No Pluto channels, returning all ${allChannels.length} channels`);
           return allChannels;
         }
       }
 
-      log(`Invalid M3U format for ${region.name}`, 'warning');
+      log(`Invalid M3U format`, 'warning');
       return [];
 
     } catch (error) {
       attempt++;
       
       if (error.response && error.response.status === 404) {
-        log(`Region ${region.name} (${region.code}) not available on iptv-org`, 'warning');
+        log(`❌ 404 Not Found for ${region.name}`, 'error');
         return [];
       }
       
-      const statusMsg = error.response ? `(HTTP ${error.response.status})` : '';
-      log(`Fetch failed for ${region.name} ${statusMsg} - attempt ${attempt}/${maxRetries}: ${error.message}`, 'error');
+      log(`Error: ${error.message}`, 'error');
       
       if (attempt < maxRetries) {
         await sleep(2000 * attempt);
