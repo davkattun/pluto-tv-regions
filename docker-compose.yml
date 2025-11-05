@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  pluto-scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pluto-tv-regions
+    volumes:
+      - ./output:/app/output
+      - ./config.json:/app/config.json:ro
+    environment:
+      - NODE_ENV=production
+    command: npm start
