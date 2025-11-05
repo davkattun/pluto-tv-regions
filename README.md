@@ -1,11 +1,3 @@
-# 📺 Pluto TV Regions Tracker
-
-[![Update Pluto TV](https://github.com/davkattun/pluto-tv-regions/actions/workflows/update-pluto.yml/badge.svg)](https://github.com/davkattun/pluto-tv-regions/actions/workflows/update-pluto.yml)
-[![Docker](https://github.com/davkattun/pluto-tv-regions/actions/workflows/docker-build.yml/badge.svg)](https://github.com/davkattun/pluto-tv-regions/actions/workflows/docker-build.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-> Auto-updating Pluto TV regional M3U playlists with Docker support
-
 ## 🌍 Available Regions
 
 | Region | Channels | M3U Playlist | JSON Data |
