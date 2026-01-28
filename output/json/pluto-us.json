@@ -1,6 +1,6 @@
 [
   {
-    "id": "52131d5e-bbe6-4cc6-8fe1-73a5c6866a4b",
+    "id": "75f3a76b-07fe-46ef-a019-22ece7a8d05e",
     "name": "00s Replay",
     "region": "us",
     "category": "Pluto TV",
@@ -40,7 +40,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0"
   },
   {
-    "id": "fc44792a-1b9f-4ac6-a9e9-1c1a5f4ac47a",
+    "id": "b2f723e8-c570-4e5b-9930-fa2a4b94c6a6",
     "name": "90's Kids",
     "region": "us",
     "category": "Pluto TV",
@@ -72,7 +72,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d"
   },
   {
-    "id": "f92e41c9-1f22-48ac-8c27-7191f9f3926a",
+    "id": "05313599-9eff-4f2e-a1cc-9ce8bfdd3cfe",
     "name": "Action Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -104,7 +104,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604"
   },
   {
-    "id": "940ae2f7-399e-4ed6-93e3-b301757bf68c",
+    "id": "87aef5d1-ef4e-4cf0-8158-3b54cd8bc1d1",
     "name": "American Crimes",
     "region": "us",
     "category": "Pluto TV",
@@ -144,7 +144,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795"
   },
   {
-    "id": "8607488c-cd12-4cff-99f3-0150b95a1066",
+    "id": "b555a922-ece0-477d-8ae2-918ec71c3ec9",
     "name": "Bad Girls Club",
     "region": "us",
     "category": "Pluto TV",
@@ -248,7 +248,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480"
   },
   {
-    "id": "1a7ec5b6-8ca4-4ce4-980b-bd0bd496ba4b",
+    "id": "6892c75e-599c-4151-9c65-229d76645ee0",
     "name": "Black Visionaries",
     "region": "us",
     "category": "Pluto TV",
@@ -256,7 +256,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66439ee041af640008ccaa98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7f3cba7-ccb6-4cd5-928e-0b45fd0f9223"
   },
   {
-    "id": "1bb7c3f4-ff9f-4705-8b05-8950faf6b4f1",
+    "id": "009010b8-19e9-4e21-8c38-4174071b5523",
     "name": "Black Visionaries",
     "region": "us",
     "category": "Pluto TV",
@@ -280,7 +280,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90859fb4-eb20-4022-bd6d-3413a8bf59c2"
   },
   {
-    "id": "a5b7b1e5-0c9e-4974-808c-62cedb42176d",
+    "id": "746406e6-b97e-4b98-99a3-e664196e4fb9",
     "name": "Blue Bloods",
     "region": "us",
     "category": "Pluto TV",
@@ -304,7 +304,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae"
   },
   {
-    "id": "e762b7fa-ce7c-4e3b-919f-d3f5934cb205",
+    "id": "d0ddb469-7a8e-4228-b383-b45e0b6f3c37",
     "name": "Bravo Vault",
     "region": "us",
     "category": "Pluto TV",
@@ -328,7 +328,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23022078-db68-4a8c-ad1c-683fb029b53d"
   },
   {
-    "id": "4ebcf4d5-cd1c-44fc-b9f3-d8644899e272",
+    "id": "61a3c7e1-eded-432e-b834-0efefaf1306c",
     "name": "Car Chase",
     "region": "us",
     "category": "Pluto TV",
@@ -336,7 +336,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65244c403fd33c0008ffff31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b790eeb8-966f-425a-869a-4f11201141e7"
   },
   {
-    "id": "faeeb564-60e5-400a-96a8-d2db6b0b345c",
+    "id": "7df960b2-ddea-415b-8b8d-c0a955c8f4b4",
     "name": "Casos de la Dra. Polo",
     "region": "us",
     "category": "Pluto TV",
@@ -480,7 +480,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d09dee4f-4202-48bd-b577-6544af5864e1"
   },
   {
-    "id": "e973d547-6159-411f-968b-4d928110803d",
+    "id": "d708b940-bc32-4e0d-aa5e-1c7e69cf7bb8",
     "name": "CBS News Texas",
     "region": "us",
     "category": "Pluto TV",
@@ -496,7 +496,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d"
   },
   {
-    "id": "9abf37ca-0c5d-408c-a5ec-ac0b0785d659",
+    "id": "abb27f4d-f9e6-42f4-a581-d0d3232835f9",
     "name": "Cine ¡¡jaja!!",
     "region": "us",
     "category": "Pluto TV",
@@ -560,7 +560,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e004-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=518ef377-f53a-4652-8bcc-2dc596ce4106"
   },
   {
-    "id": "feeb1d3e-0ecb-4e98-a938-2b70b981c7fa",
+    "id": "f09b359d-f701-4f29-8211-b2d4612cbd03",
     "name": "Classic TV Crime Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -600,7 +600,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109"
   },
   {
-    "id": "c3fb16f8-0d00-454e-a452-0b2c6d255500",
+    "id": "e5af628a-c5d2-4aec-b401-df1003a08ea3",
     "name": "Cold Case Files by A&E",
     "region": "us",
     "category": "Pluto TV",
@@ -624,7 +624,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef"
   },
   {
-    "id": "cfec5651-6538-452b-bf6e-2fcf2d581dc3",
+    "id": "80d54d64-9f7a-44e6-851e-ae313d76be7a",
     "name": "Confess by Nosey",
     "region": "us",
     "category": "Pluto TV",
@@ -648,7 +648,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbd92d33-fc8d-4cda-9f79-5f63b98b071a"
   },
   {
-    "id": "8f10db20-c222-42fd-a454-18b202063d49",
+    "id": "5c7e96ae-5d55-48e4-96b1-fe9c3bd5618c",
     "name": "Crime 360 by A&E",
     "region": "us",
     "category": "Pluto TV",
@@ -664,7 +664,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d8759e1-73d6-4b32-b216-07bf992c281a"
   },
   {
-    "id": "dbc75c95-28a2-4120-be0a-ce9ddd58588b",
+    "id": "c88d78e2-e906-4de1-aa3c-1cdb152ff9b0",
     "name": "Criminal Minds",
     "region": "us",
     "category": "Pluto TV",
@@ -672,7 +672,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b"
   },
   {
-    "id": "097cb68d-3307-4eaf-8c63-758cb79e8a3d",
+    "id": "52f9b75e-0bd4-4e7b-b98d-7d1934858b75",
     "name": "Crunchyroll",
     "region": "us",
     "category": "Pluto TV",
@@ -696,7 +696,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424"
   },
   {
-    "id": "46bb03f0-b2a7-4e0b-bbb6-f1ec7e2b0122",
+    "id": "a626c1d3-4f48-48bd-9833-e6259e3af741",
     "name": "CSI: Miami",
     "region": "us",
     "category": "Pluto TV",
@@ -704,7 +704,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8"
   },
   {
-    "id": "439808a7-77d8-4bbe-8e49-9bd001175e32",
+    "id": "0998402a-9cbf-4c0a-a346-27cbdb3ff99d",
     "name": "CSI: Miami en español",
     "region": "us",
     "category": "Pluto TV",
@@ -712,7 +712,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506"
   },
   {
-    "id": "6b5fc412-d7f0-4ca9-8e72-88147b039c31",
+    "id": "8b8fe9bc-a7fd-4b1c-b8f2-427eb3db4047",
     "name": "CSI: NY",
     "region": "us",
     "category": "Pluto TV",
@@ -720,7 +720,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5"
   },
   {
-    "id": "d6e0ff59-b40d-4253-91b7-e84894828c54",
+    "id": "fbbe8901-273d-4443-9277-a3778ff8154c",
     "name": "CSI: NY en español",
     "region": "us",
     "category": "Pluto TV",
@@ -744,7 +744,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637413d8531e0c0007442d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9854ee63-3920-417e-933f-bdf38a5a6444"
   },
   {
-    "id": "8bdf146f-a5cd-4ee8-9e04-788fffb9830d",
+    "id": "b5373e33-62d8-4e12-9e00-2d4989848545",
     "name": "Dating Disasters",
     "region": "us",
     "category": "Pluto TV",
@@ -752,7 +752,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651f239d9c7aeb0008286823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4fa373b-d26b-4a30-85f4-ef286a12ac31"
   },
   {
-    "id": "fe96f738-0525-499c-b8c0-3b108f19e655",
+    "id": "6b207c36-5273-4c67-b9fd-f8ad82819c98",
     "name": "DAZN Ringside",
     "region": "us",
     "category": "Pluto TV",
@@ -800,7 +800,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949"
   },
   {
-    "id": "f6200b92-a929-48c4-9f3c-fdb3d0679fd7",
+    "id": "fb11b21e-8e09-4b07-a142-8582b7d70750",
     "name": "Dynasty",
     "region": "us",
     "category": "Pluto TV",
@@ -808,7 +808,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a350-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4fb05d1-b382-4722-a7d5-66fbce6da394"
   },
   {
-    "id": "0460ed5b-1245-4f74-81ac-ef0d142a44ec",
+    "id": "721e6285-007d-4308-8525-7db93ccccda4",
     "name": "EarthDay 365",
     "region": "us",
     "category": "Pluto TV",
@@ -832,7 +832,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a"
   },
   {
-    "id": "b86600a5-3755-4c74-a374-19a747e2d1e6",
+    "id": "71823de4-65ca-4591-a03f-9ce709920794",
     "name": "ET",
     "region": "us",
     "category": "Pluto TV",
@@ -848,7 +848,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b"
   },
   {
-    "id": "40d7ec8a-b972-4c42-aa53-6ae710c83b7c",
+    "id": "5d2d069f-649d-44d2-8780-8697a23ed2f2",
     "name": "Family Feud Classic",
     "region": "us",
     "category": "Pluto TV",
@@ -864,7 +864,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1"
   },
   {
-    "id": "bd3dc7f5-382a-421f-b556-81699fe28227",
+    "id": "0593886c-49d7-4797-9c2f-210490f87631",
     "name": "FanDuel TV Extra",
     "region": "us",
     "category": "Pluto TV",
@@ -872,7 +872,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11de684-91ab-43d6-a2ba-b61881026b87"
   },
   {
-    "id": "c5e7d10c-5c99-46ca-8733-452264e40284",
+    "id": "62fb99bc-a880-4e1b-8261-27d6daad6d95",
     "name": "Feel Good Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -904,7 +904,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8"
   },
   {
-    "id": "9890177f-7dc8-4e08-8bcb-5619d774ff35",
+    "id": "288a685d-58fc-4542-b5ff-5c681693e60c",
     "name": "Formula 1 Channel",
     "region": "us",
     "category": "Pluto TV",
@@ -912,7 +912,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996"
   },
   {
-    "id": "6027ab85-0449-4c25-a3ff-81ca5eba6478",
+    "id": "f5840f65-0310-47f3-b3ea-a59c0082f4e1",
     "name": "Fox Sports",
     "region": "us",
     "category": "Pluto TV",
@@ -960,7 +960,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8"
   },
   {
-    "id": "4e8f881f-737b-4d67-bcb9-70ed2ac2111e",
+    "id": "7e7a89a8-7c1b-4e28-a049-af0713c3bd39",
     "name": "Golazo Network",
     "region": "us",
     "category": "Pluto TV",
@@ -968,7 +968,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44"
   },
   {
-    "id": "f93b7843-0be0-400e-816f-770f69bcdcb8",
+    "id": "a39b6005-a9ae-4a70-a0fb-23ea83b360d8",
     "name": "GolfPass",
     "region": "us",
     "category": "Pluto TV",
@@ -992,7 +992,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291884-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ba666b9-016a-4bca-b848-90fb25f5d54e"
   },
   {
-    "id": "02c64261-173d-46bc-a0eb-6785f70d4c3d",
+    "id": "43683658-800d-4020-b738-b03048adf0dc",
     "name": "Hallmark en español",
     "region": "us",
     "category": "Pluto TV",
@@ -1024,7 +1024,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f07513227feb00073ee6bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291888-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c0b4f02-0b37-467a-87a8-5f605cce8cba"
   },
   {
-    "id": "7b95e3fd-2de6-4501-9602-5d7f9d48b4f7",
+    "id": "02ead17c-f11f-4b3f-a94f-9bfc1a85a331",
     "name": "Home Crashers",
     "region": "us",
     "category": "Pluto TV",
@@ -1040,7 +1040,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d04cbed-3ba0-4e3b-9baf-dc4eb838fa1c"
   },
   {
-    "id": "5396d020-279b-4d33-bb5c-629c2e2dd7b8",
+    "id": "41f02e61-91a7-447b-97e8-6d436044c925",
     "name": "Hot Bench",
     "region": "us",
     "category": "Pluto TV",
@@ -1056,7 +1056,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f95-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fffd7f41-1254-485e-bf92-aa41b4b34c06"
   },
   {
-    "id": "48a44b58-0e8a-4b8f-abb8-91a638ae88e7",
+    "id": "5a5d63d1-b3f9-4af5-b33c-02b27fd2f94f",
     "name": "I Love Lucy",
     "region": "us",
     "category": "Pluto TV",
@@ -1120,7 +1120,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536"
   },
   {
-    "id": "d09c39f0-c882-41da-98d8-b842b00cf952",
+    "id": "fbaa911f-4faf-4d0f-8c41-ddb941044d2d",
     "name": "Let's Make A Deal",
     "region": "us",
     "category": "Pluto TV",
@@ -1128,7 +1128,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6267352efcf21c0007c76642/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=606453b2-4fb6-4739-81ef-896c15239d3e"
   },
   {
-    "id": "8af218b9-ce6a-4801-993e-3a6a5b3e3a86",
+    "id": "49769607-759c-4d39-8f01-9661ba28f13c",
     "name": "Little Angel's Playroom",
     "region": "us",
     "category": "Pluto TV",
@@ -1136,7 +1136,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=87da2eb1-308b-4018-9aeb-e6093b4de358"
   },
   {
-    "id": "beb88de6-4f93-4195-9203-4521d274c9d0",
+    "id": "97ac3ef4-b6e6-4760-bf06-63d2dbf695f2",
     "name": "Little House on the Prairie",
     "region": "us",
     "category": "Pluto TV",
@@ -1152,7 +1152,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b"
   },
   {
-    "id": "3227b5f5-5dc2-42b2-9a5f-dbcefbdfbb6f",
+    "id": "fb7e545e-60b4-46d6-a3d7-4fae4c1b1ca4",
     "name": "Live Music",
     "region": "us",
     "category": "Pluto TV",
@@ -1208,7 +1208,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246"
   },
   {
-    "id": "fe1cf103-03fc-435a-8c94-e1064c065527",
+    "id": "191a396d-c11e-45f2-a009-2bb2977a420b",
     "name": "Medical Incredible",
     "region": "us",
     "category": "Pluto TV",
@@ -1224,7 +1224,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f546308b-41b9-4d0b-92c6-9551f10e8b37"
   },
   {
-    "id": "159cb98e-3ed7-473f-bd22-9b0f846170a2",
+    "id": "8dba2379-e8e0-4d7e-a60b-726f502cfa3b",
     "name": "Million Dollar Listing Vault",
     "region": "us",
     "category": "Pluto TV",
@@ -1240,7 +1240,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ce20b90-25ae-42dc-84a6-734942b41041"
   },
   {
-    "id": "d3c7df23-e02f-41c1-ab09-71a290dc93bd",
+    "id": "367bab18-61e8-4925-9191-ef10029e1912",
     "name": "Mister Rogers' Neighborhood",
     "region": "us",
     "category": "Pluto TV",
@@ -1264,7 +1264,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a"
   },
   {
-    "id": "086e5b16-da1e-4358-84b2-62612c81a9ed",
+    "id": "d8ffd14b-e2dc-4b4e-a052-a6dce09de3d8",
     "name": "Modern Marvels Presented by HISTORY",
     "region": "us",
     "category": "Pluto TV",
@@ -1280,7 +1280,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959"
   },
   {
-    "id": "7894befc-0700-4628-90bc-861cd6cd2b65",
+    "id": "baace851-4876-4b19-bc87-1bbf2f281390",
     "name": "More True Crime",
     "region": "us",
     "category": "Pluto TV",
@@ -1312,7 +1312,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d"
   },
   {
-    "id": "dcaa4e86-5f88-4f17-9b24-335adc25d9c3",
+    "id": "21087bea-963d-45a5-818a-a495259f9c42",
     "name": "Movie Favorites By Lifetime",
     "region": "us",
     "category": "Pluto TV",
@@ -1360,7 +1360,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1"
   },
   {
-    "id": "4ff81b29-5e78-468b-a1f9-4acecbe26477",
+    "id": "6938b94b-6cfe-4f8d-a4c4-3b25342d0bc3",
     "name": "MTV Flow Latino",
     "region": "us",
     "category": "Pluto TV",
@@ -1392,7 +1392,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e048dd46-54cc-485e-b0d7-5ee578a0a861"
   },
   {
-    "id": "68a76982-3a42-4997-8c90-5f18c82698c6",
+    "id": "c06e9113-64e6-4561-b44a-23d7b9eacf9e",
     "name": "Murder She Wrote",
     "region": "us",
     "category": "Pluto TV",
@@ -1416,7 +1416,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd"
   },
   {
-    "id": "6e2c11d4-597b-436c-ad3b-748abdfa7451",
+    "id": "48a27387-f647-4722-b5ac-7b956d693b75",
     "name": "NBC New York News",
     "region": "us",
     "category": "Pluto TV",
@@ -1432,7 +1432,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b"
   },
   {
-    "id": "83ee8ebe-4459-47eb-9f20-aa29b157743c",
+    "id": "2e4d16f3-606c-412f-8139-c28f298bf3e4",
     "name": "NBC Sports",
     "region": "us",
     "category": "Pluto TV",
@@ -1480,7 +1480,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988"
   },
   {
-    "id": "06078625-9b33-4e29-9ee9-f4596fa2e0b3",
+    "id": "2c12eda2-b5d1-4b54-946e-51d4d46d470d",
     "name": "Nickelodeon Pluto TV",
     "region": "us",
     "category": "Pluto TV",
@@ -1512,7 +1512,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c"
   },
   {
-    "id": "029d6c55-6ab7-4383-a93a-62e6ae5eb686",
+    "id": "0055abb2-3c7f-4f48-8105-b07ef6d3e2c5",
     "name": "Oxygen True Crime Archives",
     "region": "us",
     "category": "Pluto TV",
@@ -1592,7 +1592,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78"
   },
   {
-    "id": "b1b60bb8-b84a-4f06-9fea-757ebcde1ae3",
+    "id": "75eb75ee-fb05-4306-9815-173d96a9676e",
     "name": "Pickers & Pawn",
     "region": "us",
     "category": "Pluto TV",
@@ -1632,7 +1632,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac635-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e10e6442-1bdd-450d-8be9-71cd95a40f10"
   },
   {
-    "id": "cd745f9f-ffc4-4fcf-ac53-5efd04187dd8",
+    "id": "9abc8bae-b27a-459e-9080-5f7b808a5b00",
     "name": "Pluto TV Christmas",
     "region": "us",
     "category": "Pluto TV",
@@ -1648,7 +1648,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4"
   },
   {
-    "id": "592906ad-cb3f-4044-98ad-1df834a122fd",
+    "id": "e1e303fd-a20c-456e-b5f0-409f49fab091",
     "name": "Pluto TV Competition",
     "region": "us",
     "category": "Pluto TV",
@@ -1720,7 +1720,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92"
   },
   {
-    "id": "502bba51-09d7-46a3-a5be-760a0433b92b",
+    "id": "25aa5d0a-e4f2-4428-9197-30c87bfa4ecd",
     "name": "Pluto TV Icons",
     "region": "us",
     "category": "Pluto TV",
@@ -1872,7 +1872,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bdcdf1e851dd5632e2c11d1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6276-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8b01914-939e-4170-9b97-5fc12ccb960d"
   },
   {
-    "id": "b96e1909-d6b2-4fc2-87f9-79b451a2faf2",
+    "id": "160adb17-5c38-48fc-a228-d9f5e9eedc39",
     "name": "Rawhide",
     "region": "us",
     "category": "Pluto TV",
@@ -1880,7 +1880,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393"
   },
   {
-    "id": "a7f98831-5978-4530-b56d-13b68ccae7d3",
+    "id": "cafa73c8-0771-4846-89ec-d6c791c1e8a8",
     "name": "Real Disaster Channel",
     "region": "us",
     "category": "Pluto TV",
@@ -1888,7 +1888,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6279-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=680bfa6f-fbaa-49ab-867d-ef3940cbe992"
   },
   {
-    "id": "4ebdfc4d-f692-41f5-b491-693189dbb69d",
+    "id": "2ecdc86c-0d3d-4c4e-888c-d81872ab32f5",
     "name": "Real Housewives Vault",
     "region": "us",
     "category": "Pluto TV",
@@ -1904,7 +1904,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8982-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ae8efba-578b-4c2b-a7a1-ec96f6d4bf26"
   },
   {
-    "id": "3a7a087b-9cce-4ff1-acf9-33b48ea1971d",
+    "id": "e80637f1-960a-4082-a044-8f6f86ec0a0b",
     "name": "Rustic Retreats",
     "region": "us",
     "category": "Pluto TV",
@@ -1920,7 +1920,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8984-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=674985cd-9104-489b-8677-79ffaee83405"
   },
   {
-    "id": "d97859f1-b4ca-48a7-9537-c08a7e586523",
+    "id": "ad7b8571-c323-40f5-9921-e22850f2547c",
     "name": "Sailor Moon",
     "region": "us",
     "category": "Pluto TV",
@@ -1944,7 +1944,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1202ea23-d955-4016-bac1-563ea6638683"
   },
   {
-    "id": "a6f8fb77-2fce-4bcf-88d8-7b0c9ebc2f89",
+    "id": "d27313e0-c2ca-476c-8006-dc586f5d629a",
     "name": "Sitcom Legends",
     "region": "us",
     "category": "Pluto TV",
@@ -1952,7 +1952,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb091-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=54f06638-b224-4723-bc88-9b4986c6cd72"
   },
   {
-    "id": "61af152c-28ce-4ac7-97c5-8e671693103f",
+    "id": "731c3df7-d4a6-498b-8993-13f80c54c90b",
     "name": "Sky News",
     "region": "us",
     "category": "Pluto TV",
@@ -2000,7 +2000,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5"
   },
   {
-    "id": "fd8ef076-fcc7-4761-bebc-bc0344b9df98",
+    "id": "b8480a8d-4c5d-46f3-89d7-92535a3c1c08",
     "name": "Star Trek 2",
     "region": "us",
     "category": "Pluto TV",
@@ -2008,7 +2008,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0"
   },
   {
-    "id": "a6f1dab6-29bc-4f6b-b311-be2f822499d3",
+    "id": "9ba390df-9e50-449e-9b3d-396a20b6b333",
     "name": "Star Trek Deep Space Nine",
     "region": "us",
     "category": "Pluto TV",
@@ -2016,7 +2016,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e"
   },
   {
-    "id": "7034c69f-7ef1-4f30-894d-78b488dbf067",
+    "id": "f056b819-d67f-4b68-9819-1c814512b673",
     "name": "Star Trek Voyager",
     "region": "us",
     "category": "Pluto TV",
@@ -2024,7 +2024,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7"
   },
   {
-    "id": "da8033a8-3d25-4ce1-be26-2172e41cad4b",
+    "id": "289ad124-dde4-40e9-bae2-9c74c7b95844",
     "name": "Stargate",
     "region": "us",
     "category": "Pluto TV",
@@ -2032,7 +2032,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5881254c-5290-452b-a946-d919b7bb1297"
   },
   {
-    "id": "dc1b88b5-b8d4-4bff-a81a-6e48b1200c92",
+    "id": "7f678a8f-385b-45c7-9f77-bf79b6bdd15f",
     "name": "StarTalk TV",
     "region": "us",
     "category": "Pluto TV",
@@ -2048,7 +2048,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845"
   },
   {
-    "id": "5dce59dd-9098-4b91-b67a-d664137b8c36",
+    "id": "ae17f7f4-6926-427f-8c73-0e0d466449af",
     "name": "Supermarket Sweep",
     "region": "us",
     "category": "Pluto TV",
@@ -2056,7 +2056,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649ddbfb6f29ec000874ca9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ad3c172a-bf6a-40fb-9cea-365b1ae9a63e"
   },
   {
-    "id": "e788a157-9cd6-4d35-9163-8ace1c3fa3d8",
+    "id": "0a677af8-b33f-4a68-8aca-8f2c58b088e0",
     "name": "Supernatural Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -2080,7 +2080,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e"
   },
   {
-    "id": "c99c7647-69e0-4bbc-bd30-9313063cada8",
+    "id": "5e8219ab-deb0-4a7d-ad51-565cd130fdd4",
     "name": "Telemundo Noticias Noreste",
     "region": "us",
     "category": "Pluto TV",
@@ -2144,7 +2144,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31789b15-8a7d-4ee8-8696-355fb8b5a8ee"
   },
   {
-    "id": "19873fd5-ee9a-469c-9e4f-15f4cac5cfdf",
+    "id": "d9d5d3d3-3b29-4c1e-bdce-ba3d6ea7ffbf",
     "name": "The Jack Hanna Channel",
     "region": "us",
     "category": "Pluto TV",
@@ -2168,7 +2168,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ff2c99b-7400-4062-9fa7-4705ef8ac8e2"
   },
   {
-    "id": "59bf4ef6-ed7d-4a58-bc2c-a4ad8a54c8d5",
+    "id": "8a135069-e150-4b1d-9db8-61eb7e85186c",
     "name": "The Lone Ranger",
     "region": "us",
     "category": "Pluto TV",
@@ -2288,7 +2288,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636adc255bcf470007d6e0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53184ebc-5f69-44c0-bf0c-94707d648913"
   },
   {
-    "id": "79a67e5d-f4f4-42dc-a55f-762bf4d2dafb",
+    "id": "c186e162-ddd2-4c52-8bb7-14bbaa8e321e",
     "name": "Top Rank Classics",
     "region": "us",
     "category": "Pluto TV",
@@ -2304,7 +2304,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86"
   },
   {
-    "id": "c57933d1-ee9f-4687-9f48-8b05d3f1a181",
+    "id": "f2e8bb94-a856-4f47-bebc-e26f71f67568",
     "name": "Totally Teen",
     "region": "us",
     "category": "Pluto TV",
@@ -2320,7 +2320,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339"
   },
   {
-    "id": "6081390f-9164-420f-9515-872f67404225",
+    "id": "f068c01e-422d-4f8f-9665-da9ce7ad081f",
     "name": "Tough Jobs",
     "region": "us",
     "category": "Pluto TV",
@@ -2328,7 +2328,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bf23ef47d0008583967/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d528c1a-18fe-40ef-bdaa-cfc0e490b48f"
   },
   {
-    "id": "9c8ca271-3799-44dc-b9bf-31f314143642",
+    "id": "d5a4d2a0-4ec4-46eb-90ab-00a58a477a0d",
     "name": "Transformers TV",
     "region": "us",
     "category": "Pluto TV",
@@ -2336,7 +2336,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef"
   },
   {
-    "id": "2db1cbb3-967f-4dd7-a784-04e7847024fe",
+    "id": "0e1d7817-14a6-4ee3-b0eb-59ae75b708e2",
     "name": "Triton Poker",
     "region": "us",
     "category": "Pluto TV",
@@ -2368,7 +2368,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a"
   },
   {
-    "id": "0c8ceb36-812f-48a2-a83e-9f33bd15fbd2",
+    "id": "f586dc7b-d1bf-411e-8f13-983babac59e1",
     "name": "Ultimate Builds",
     "region": "us",
     "category": "Pluto TV",
@@ -2376,7 +2376,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656542ae4261ca00082154a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1a08a4dc-ccfb-49ce-83dc-ee4040567b55"
   },
   {
-    "id": "cd012390-42c8-42ae-84ea-91e88e2cec90",
+    "id": "c683ee28-df2a-45c3-99ab-c519d44bf6f8",
     "name": "Universal Action",
     "region": "us",
     "category": "Pluto TV",
@@ -2392,7 +2392,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c"
   },
   {
-    "id": "29add529-4da4-4026-bcc2-54e8b051360d",
+    "id": "244b2b4f-23a8-44fe-ad69-ed59215e672e",
     "name": "Universal Monsters",
     "region": "us",
     "category": "Pluto TV",
@@ -2408,7 +2408,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910"
   },
   {
-    "id": "6f8cd338-6fe8-4f5f-a228-c443b5104b5b",
+    "id": "66e52ffe-a0fc-47bb-b3d4-f1fcb0c28403",
     "name": "UnXplained Zone",
     "region": "us",
     "category": "Pluto TV",
@@ -2456,7 +2456,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe"
   },
   {
-    "id": "3c1a84fd-588b-4621-ba95-43edecbfce32",
+    "id": "51f48218-836a-40da-833c-e7fd767b8e8e",
     "name": "Vevo Íconos Latinos",
     "region": "us",
     "category": "Pluto TV",
@@ -2488,7 +2488,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6d8e13af63d0008278715/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce914-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b303005a-9948-4dcf-9591-1e047fa47b4d"
   },
   {
-    "id": "9229774f-c134-40f5-aab9-7937a5f1e454",
+    "id": "3e648800-c4b1-47ce-b17d-1d471c2c92c6",
     "name": "Vevo Regional Mexicano",
     "region": "us",
     "category": "Pluto TV",
@@ -2512,7 +2512,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e"
   },
   {
-    "id": "2cad7a46-1929-42e9-a0bf-ea683018e741",
+    "id": "e2c86a4c-4391-49c8-8ca7-a72c0ce9c39d",
     "name": "Warner Bros. TV Say Yes to the Dress",
     "region": "us",
     "category": "Pluto TV",
@@ -2520,7 +2520,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e8342cf13100083b404c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1026-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f2a7d6f8-3ba5-4ec9-acb3-0ba652bd6b1a"
   },
   {
-    "id": "fbb45a4d-57be-49ff-af5d-472c37a094a1",
+    "id": "8dcf541b-dca9-4471-ad27-d4e08393bf12",
     "name": "Warner Bros. TV Sweet Escapes",
     "region": "us",
     "category": "Pluto TV",
@@ -2568,7 +2568,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3731-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=809b2f13-949f-46c5-9cc6-1f1375ea0626"
   },
   {
-    "id": "8e3477cd-e73d-49e9-a84e-a4bcd76c12df",
+    "id": "ba202514-2b6d-4e49-bc4e-8390f5250562",
     "name": "XITE Classic Country",
     "region": "us",
     "category": "Pluto TV",
@@ -2576,7 +2576,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3732-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9a2470b0-2c67-4210-9c3e-4f3cfd8315af"
   },
   {
-    "id": "46567070-6976-476a-8c6d-4744ba29f1ad",
+    "id": "830d4e4a-c921-4af1-bd50-8e0422dfbc23",
     "name": "XITE Gospel",
     "region": "us",
     "category": "Pluto TV",
@@ -2584,7 +2584,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3733-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4552432-fb18-4599-b869-34839da45a05"
   },
   {
-    "id": "06231876-1ba2-4881-af35-2f90e19a0d48",
+    "id": "c0eaa1f1-c227-4b5d-adf8-ca316a259836",
     "name": "XITE Rock",
     "region": "us",
     "category": "Pluto TV",
@@ -2592,7 +2592,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3735-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f428e683-63a3-4e04-a7ac-126caa2fda54"
   },
   {
-    "id": "837479f7-f019-4ea3-9376-5a73cfba3ee1",
+    "id": "6395b03f-4bca-43b5-9ac4-c9b12d4b4527",
     "name": "Xtreme Outdoor Presented by HISTORY",
     "region": "us",
     "category": "Pluto TV",
@@ -2616,7 +2616,7 @@
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0"
   },
   {
-    "id": "5f47c11f-773e-4249-975b-5c0441e55ad8",
+    "id": "a6b4edd8-3c7a-4cd1-b815-a610f661f61c",
     "name": "Zoom! Zoom!",
     "region": "us",
     "category": "Pluto TV",
