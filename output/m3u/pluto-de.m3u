@@ -1,73 +1,73 @@
 #EXTM3U
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="48b869be-fbc1-4c8a-95b7-b66ee0e12754" tvg-name="21 Jump Street" group-title="Pluto TV",21 Jump Street
+#EXTINF:-1 tvg-id="a39eb242-5b3b-4487-9f33-4bd75987d05d" tvg-name="21 Jump Street" group-title="Pluto TV",21 Jump Street
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686cffbf3ffa5e0c91cdcfb3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4300877c-dd64-4f89-b35d-2e05114efc00
 
-#EXTINF:-1 tvg-id="6e907139-4fee-43c8-b99b-28ec68c2b215" tvg-name="90210" group-title="Pluto TV",90210
+#EXTINF:-1 tvg-id="82e4a67e-caec-4854-ae82-a14f5d2d30dc" tvg-name="90210" group-title="Pluto TV",90210
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e8ba6507-b72a-429e-bd1c-feb575a81a37
 
-#EXTINF:-1 tvg-id="335541e5-266e-40fe-a76f-05e14e404b54" tvg-name="Alle hassen Chris" group-title="Pluto TV",Alle hassen Chris
+#EXTINF:-1 tvg-id="23acf68e-03c8-4041-817c-d354d62320fd" tvg-name="Alle hassen Chris" group-title="Pluto TV",Alle hassen Chris
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6e1e2792150007e0b2ff/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96d75057-ca00-41ab-bef0-01169167de98
 
-#EXTINF:-1 tvg-id="406d0d8b-6b5b-4151-93ea-5da55876c6d3" tvg-name="Andromeda" group-title="Pluto TV",Andromeda
+#EXTINF:-1 tvg-id="46a0b386-6bf8-4b37-bd12-1dbb9d70ff6b" tvg-name="Andromeda" group-title="Pluto TV",Andromeda
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663a163f8ea5560008a3f234/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8a22b832-ea4f-4f41-b747-a05256d9e762
 
-#EXTINF:-1 tvg-id="d6e001ec-1073-41b4-a56b-bb9cdc4f7a2e" tvg-name="Anger Management" group-title="Pluto TV",Anger Management
+#EXTINF:-1 tvg-id="d85323a0-6001-4126-8bfd-40551a44e7cf" tvg-name="Anger Management" group-title="Pluto TV",Anger Management
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=cfcba106-7f6d-4ff6-9c6f-23596e7f23ad
 
-#EXTINF:-1 tvg-id="2e4959f7-c6d3-4baa-973a-13f5e8830c39" tvg-name="Assassination Classroom" group-title="Pluto TV",Assassination Classroom
+#EXTINF:-1 tvg-id="ff65152b-30d2-4b8b-9788-77c4805c68fe" tvg-name="Assassination Classroom" group-title="Pluto TV",Assassination Classroom
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a7d99f4a10d800086083a9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d64f4010-3b10-4211-965c-40de129762b6
 
-#EXTINF:-1 tvg-id="a5ce7225-45e5-4487-86b2-83adff853158" tvg-name="Auction Hunters" group-title="Pluto TV",Auction Hunters
+#EXTINF:-1 tvg-id="d4670ff8-547b-4497-8d1c-60047bdf5041" tvg-name="Auction Hunters" group-title="Pluto TV",Auction Hunters
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a7ab2e6a-88b5-4aa6-87a2-693865be9985
 
-#EXTINF:-1 tvg-id="b98cd19f-264e-4829-acd7-be2aa540d5f8" tvg-name="Auf Achse" group-title="Pluto TV",Auf Achse
+#EXTINF:-1 tvg-id="0be63d71-d319-4ab8-956e-5f9099a6d722" tvg-name="Auf Achse" group-title="Pluto TV",Auf Achse
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbf91afb1b10000880dd08/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ce37225c-a4bf-4275-8070-fe5cb839ae4a
 
-#EXTINF:-1 tvg-id="cdf0ce04-bb5d-40cb-a6a8-e43e271bd78b" tvg-name="Auto Motor Sport" group-title="Pluto TV",Auto Motor Sport
+#EXTINF:-1 tvg-id="816a46fb-87be-4174-8f93-b011a014afc4" tvg-name="Auto Motor Sport" group-title="Pluto TV",Auto Motor Sport
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e5adfca1-5dc0-4510-a052-c9c0a8110fc3
 
 #EXTINF:-1 tvg-id="Avatar.us@Germany" tvg-name="Avatar" group-title="Pluto TV",Avatar
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=942fbd6a-2e59-4f33-aba3-b450b9fd1954
 
-#EXTINF:-1 tvg-id="99f8ef76-544b-4dca-90e9-d4956a10d599" tvg-name="Awkward" group-title="Pluto TV",Awkward
+#EXTINF:-1 tvg-id="23b80ac5-e631-444b-8486-75185a8c1aee" tvg-name="Awkward" group-title="Pluto TV",Awkward
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1784120ba80007935aaa/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=018254b6-2f21-4620-9bae-29866746595c
 
-#EXTINF:-1 tvg-id="7f9cdded-8829-42df-a497-70649c4c05b4" tvg-name="Ax Men Die Holzfäller" group-title="Pluto TV",Ax Men Die Holzfäller
+#EXTINF:-1 tvg-id="12da276d-0794-45c6-a13c-ebdbc4a00d1a" tvg-name="Ax Men Die Holzfäller" group-title="Pluto TV",Ax Men Die Holzfäller
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6914913274601d957ae35565/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b19b74dd-61cf-4c91-b43e-541f3ad09441
 
-#EXTINF:-1 tvg-id="c6245ced-9d84-4a34-ad0c-7ee712d52d39" tvg-name="Axel!" group-title="Pluto TV",Axel!
+#EXTINF:-1 tvg-id="785d5f03-458c-432f-8579-b31e2b6f424e" tvg-name="Axel!" group-title="Pluto TV",Axel!
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667d63d236a2f90008f72269/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4e6ec7f7-c314-4e84-a8a7-2b7def858bd5
 
-#EXTINF:-1 tvg-id="4e376dfa-000a-4351-8255-894d2647b9a9" tvg-name="Baywatch" group-title="Pluto TV",Baywatch
+#EXTINF:-1 tvg-id="1807b28d-efb1-4850-b38b-bb652b2d70bb" tvg-name="Baywatch" group-title="Pluto TV",Baywatch
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819e62b228b70008570e9f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8e23a5f8-df5a-4b0e-8069-2c6c7e782520
 
 #EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-name="BBC Travel" group-title="Pluto TV",BBC Travel
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9
 
-#EXTINF:-1 tvg-id="3da47a22-7f7a-490a-bc8d-59e64f3529b7" tvg-name="Becker" group-title="Pluto TV",Becker
+#EXTINF:-1 tvg-id="5d96cb7f-9d3a-4c6a-9c9a-0c5e91c9ac85" tvg-name="Becker" group-title="Pluto TV",Becker
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5ec4435a-a6fa-4cb0-8b6c-108742a46c66
 
-#EXTINF:-1 tvg-id="9e0b2d47-0e3c-4d93-8743-3aa053c756d3" tvg-name="Beelzebub" group-title="Pluto TV",Beelzebub
+#EXTINF:-1 tvg-id="a48ed3dc-34ff-4504-8237-04d333dfda10" tvg-name="Beelzebub" group-title="Pluto TV",Beelzebub
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67fe498f9ebfe4142424c55d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=32cae62d-fd0b-4235-8945-afd01cd7e585
 
 #EXTINF:-1 tvg-id="BeverlyHills90210.us@Germany" tvg-name="Beverly Hills 90210" group-title="Pluto TV",Beverly Hills 90210
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=455ef048-3f18-4ac4-85a5-3570e6637c73
 
-#EXTINF:-1 tvg-id="6d3108eb-d6be-4fa1-bda2-4b2e52e0399c" tvg-name="BIG BROTHER CLASSIC" group-title="Pluto TV",BIG BROTHER CLASSIC
+#EXTINF:-1 tvg-id="f4bc330a-6465-4337-a4ec-bb5781d5c6d5" tvg-name="BIG BROTHER CLASSIC" group-title="Pluto TV",BIG BROTHER CLASSIC
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663e09e4b18d700008e48dcf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b0bcdbbe-4dc1-4938-ab27-ee6c97468517
 
-#EXTINF:-1 tvg-id="2d882e9c-6f41-4695-8be1-34d563519ef0" tvg-name="Blue Mountain State" group-title="Pluto TV",Blue Mountain State
+#EXTINF:-1 tvg-id="0d21c24b-fce4-4985-89fb-1e1e8e2f966c" tvg-name="Blue Mountain State" group-title="Pluto TV",Blue Mountain State
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ff7dd84906b1acfad97330/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b11c2e13-7cde-49b7-97d8-2db9815cd82c
 
-#EXTINF:-1 tvg-id="34e31b0d-de54-4480-88c4-5a6df7cdbe9d" tvg-name="Bronco" group-title="Pluto TV",Bronco
+#EXTINF:-1 tvg-id="6256118c-2cb3-4650-b806-478e9f0a53e9" tvg-name="Bronco" group-title="Pluto TV",Bronco
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/684ac10236c9361b1977f7bc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6df9529c-45e1-4a3e-8242-5fda5b3183de
 
-#EXTINF:-1 tvg-id="be57f470-2838-4eae-9a8b-2779d4db8401" tvg-name="BVB-Frauen" group-title="Pluto TV",BVB-Frauen
+#EXTINF:-1 tvg-id="a049628b-4d2d-43d8-993f-82a1a999ea62" tvg-name="BVB-Frauen" group-title="Pluto TV",BVB-Frauen
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66337ea1307fa300082c28a0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=31a58759-89ba-48c6-8747-e04bd31d5dfd
 
-#EXTINF:-1 tvg-id="b85b529b-dfb0-4422-a424-5e79a3de514d" tvg-name="CBS News 24/7" group-title="Pluto TV",CBS News 24/7
+#EXTINF:-1 tvg-id="b40ab5f3-b7b9-4076-b1b8-58bfa10a1988" tvg-name="CBS News 24/7" group-title="Pluto TV",CBS News 24/7
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=07f2d305-a3c2-4aa5-b780-280d25c24f35
 
 #EXTINF:-1 tvg-id="CCPlutoTV.us@Germany" tvg-name="CC Pluto TV" group-title="Pluto TV",CC Pluto TV
@@ -82,97 +82,97 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Germany" tvg-name="Comedy Central South Park" group-title="Pluto TV",Comedy Central South Park
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c716084d842c00085f6e64/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=67569d04-c7ad-471a-93fc-19fd681657eb
 
-#EXTINF:-1 tvg-id="75e8cf5d-affc-413f-b4be-7705b595cd5f" tvg-name="DAZN Darts x Pluto TV" group-title="Pluto TV",DAZN Darts x Pluto TV
+#EXTINF:-1 tvg-id="eed42e54-5c94-4a2c-85b7-a29f3e3de497" tvg-name="DAZN Darts x Pluto TV" group-title="Pluto TV",DAZN Darts x Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=729cc7f6-4b6e-4dde-a8dd-78ab9d8e5d06
 
-#EXTINF:-1 tvg-id="39fd63d1-f6d5-41d2-a9f0-246b331010b6" tvg-name="DAZN Handball x Pluto TV" group-title="Pluto TV",DAZN Handball x Pluto TV
+#EXTINF:-1 tvg-id="93168d70-d7a2-4356-9686-829267795030" tvg-name="DAZN Handball x Pluto TV" group-title="Pluto TV",DAZN Handball x Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9d72eeb5-eab2-4af5-a152-c8d363ed6c73
 
-#EXTINF:-1 tvg-id="e425d3a2-3d75-4d80-94c1-dfe9993c2492" tvg-name="DAZN Heldinnen x Pluto TV" group-title="Pluto TV",DAZN Heldinnen x Pluto TV
+#EXTINF:-1 tvg-id="6a550fb7-78b3-41f1-ac59-03776eed5267" tvg-name="DAZN Heldinnen x Pluto TV" group-title="Pluto TV",DAZN Heldinnen x Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c8bbb33a-c6a0-4fe2-a190-b474690004b5
 
-#EXTINF:-1 tvg-id="b8d0c60a-5aa7-46f6-a94d-825b7443e070" tvg-name="Der Chef" group-title="Pluto TV",Der Chef
+#EXTINF:-1 tvg-id="7d17c38b-d5a2-4552-8353-07f5e227f19f" tvg-name="Der Chef" group-title="Pluto TV",Der Chef
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67dc21ce5a15c0759a07ee19/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=341a90e1-b628-4b88-ba2e-a3ccbe71461b
 
-#EXTINF:-1 tvg-id="da5057f3-f46b-4cea-b773-2fa8df5a5396" tvg-name="Der Denver-Clan" group-title="Pluto TV",Der Denver-Clan
+#EXTINF:-1 tvg-id="25083dea-a7c3-4f5f-a4cd-a046652cbc86" tvg-name="Der Denver-Clan" group-title="Pluto TV",Der Denver-Clan
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5dbf220d-0635-46f2-b63d-716f35ca5911
 
-#EXTINF:-1 tvg-id="836cc078-150e-4814-980e-69e03e36c1bd" tvg-name="Die fliegenden Ärzte" group-title="Pluto TV",Die fliegenden Ärzte
+#EXTINF:-1 tvg-id="7fccbe9e-e6eb-49e1-a535-cbd3acc239f2" tvg-name="Die fliegenden Ärzte" group-title="Pluto TV",Die fliegenden Ärzte
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/688734b9035d6ef9c34aac16/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=167d5dd7-6c16-4927-aaf9-80d5219093ba
 
-#EXTINF:-1 tvg-id="f78eaacb-3457-42be-8fa7-15f6ee7d8339" tvg-name="Die Nanny" group-title="Pluto TV",Die Nanny
+#EXTINF:-1 tvg-id="79d3abc2-d12f-4173-a754-55417bef9f1b" tvg-name="Die Nanny" group-title="Pluto TV",Die Nanny
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c6fc06489bab0008b6f9da/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=84a7a130-ad2f-4549-ac3c-8bb9ec5eeaaf
 
-#EXTINF:-1 tvg-id="27d25ff5-61ef-44be-9555-24f5640e1681" tvg-name="Die Sieben-Millionen-Dollar-Frau" group-title="Pluto TV",Die Sieben-Millionen-Dollar-Frau
+#EXTINF:-1 tvg-id="891fc4ec-a2cd-4083-8579-eef3a2a2f1d9" tvg-name="Die Sieben-Millionen-Dollar-Frau" group-title="Pluto TV",Die Sieben-Millionen-Dollar-Frau
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677fb078a4af36ad50111032/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=af925239-c41c-460f-9c06-13807b96003a
 
-#EXTINF:-1 tvg-id="dd2951b8-1803-45e1-aa43-431c7de336e3" tvg-name="Die Thundermans" group-title="Pluto TV",Die Thundermans
+#EXTINF:-1 tvg-id="8f7a8f73-fbf5-4ede-89cd-64550a848325" tvg-name="Die Thundermans" group-title="Pluto TV",Die Thundermans
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447df8cd3fdde0008f1f627/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9a214411-a916-43ba-9505-98b4426840a0
 
-#EXTINF:-1 tvg-id="369fa4a3-1af9-4d5a-b123-eb3d232ea4eb" tvg-name="Dominance FC TV" group-title="Pluto TV",Dominance FC TV
+#EXTINF:-1 tvg-id="adeda7d7-c95f-4937-ac8e-cf072416e64e" tvg-name="Dominance FC TV" group-title="Pluto TV",Dominance FC TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/685aaec481c345899e4458bb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=65b072de-76b9-48f8-9607-894351df9e9c
 
-#EXTINF:-1 tvg-id="cf592164-b427-4993-ad06-970e417e43e1" tvg-name="Don Matteo" group-title="Pluto TV",Don Matteo
+#EXTINF:-1 tvg-id="5dd6cf35-a307-44cf-8c09-bc7c0f444b52" tvg-name="Don Matteo" group-title="Pluto TV",Don Matteo
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686d004094a028da3aac8cb0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=36da4cc8-b999-4c03-a3ad-3fc46a9d2f48
 
-#EXTINF:-1 tvg-id="4578f9e2-e963-470b-ac27-77d26b05bc60" tvg-name="Drake & Josh" group-title="Pluto TV",Drake & Josh
+#EXTINF:-1 tvg-id="03e0b36b-bc09-4f10-875b-80d1dbc9e19f" tvg-name="Drake & Josh" group-title="Pluto TV",Drake & Josh
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c494a10d800085cab06/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=eb6e8980-7aa4-465d-9127-24d0e7bc39e2
 
-#EXTINF:-1 tvg-id="e67358e9-edfe-4e97-9464-8f122acbcec1" tvg-name="Dyn Sport Mix" group-title="Pluto TV",Dyn Sport Mix
+#EXTINF:-1 tvg-id="d2907565-ab4f-4983-a94b-bb4eade001f1" tvg-name="Dyn Sport Mix" group-title="Pluto TV",Dyn Sport Mix
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6866525c8a412a0e95c438b4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4c80067f-b7ac-424e-b845-62806f906d06
 
-#EXTINF:-1 tvg-id="f18954ca-511b-498d-a546-520c19457359" tvg-name="Ein Engel auf Erden" group-title="Pluto TV",Ein Engel auf Erden
+#EXTINF:-1 tvg-id="5383ada6-d7eb-41cb-9f7d-c9ac05a194b0" tvg-name="Ein Engel auf Erden" group-title="Pluto TV",Ein Engel auf Erden
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f487722d9d400075f74dd/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=177db03e-9da7-433f-87e9-594fe53ce43f
 
-#EXTINF:-1 tvg-id="8a5632b0-4b2a-4fa1-a296-8147121c04a2" tvg-name="Eine himmlische Familie" group-title="Pluto TV",Eine himmlische Familie
+#EXTINF:-1 tvg-id="605ad01c-1b4a-4f77-b82f-5309a7355502" tvg-name="Eine himmlische Familie" group-title="Pluto TV",Eine himmlische Familie
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a244d5cd0d3100083b1e47/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ec5ae333-0feb-4ae5-9780-27f5f1c65e7d
 
-#EXTINF:-1 tvg-id="ead1e0d9-ca6b-45fd-aeee-2963124b5ae7" tvg-name="Eine schrecklich nette Familie" group-title="Pluto TV",Eine schrecklich nette Familie
+#EXTINF:-1 tvg-id="4f27ed5a-008b-486d-b241-c7ecdff9b7c9" tvg-name="Eine schrecklich nette Familie" group-title="Pluto TV",Eine schrecklich nette Familie
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a324d221af380008105d6f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=63a2aebd-135b-4dd5-a4c2-bf5c162bd242
 
 #EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews" group-title="Pluto TV",Euronews
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4222d24a-9969-4795-bd9a-859590453570
 
-#EXTINF:-1 tvg-id="448de06a-fdbd-468e-992a-25148518edd2" tvg-name="F.B.I. Files" group-title="Pluto TV",F.B.I. Files
+#EXTINF:-1 tvg-id="ef9eadf4-fb0c-41fa-bfbb-457e28d6516a" tvg-name="F.B.I. Files" group-title="Pluto TV",F.B.I. Files
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=0221715a-61a6-424b-828b-3adddcfa5418
 
-#EXTINF:-1 tvg-id="8733fc94-c629-4b62-8e60-653b77000fb0" tvg-name="Familie Dr. Kleist" group-title="Pluto TV",Familie Dr. Kleist
+#EXTINF:-1 tvg-id="0a382286-317e-47ae-a09f-b84bc984b394" tvg-name="Familie Dr. Kleist" group-title="Pluto TV",Familie Dr. Kleist
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819f14b9adc4000813ee39/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=27a1d5db-141d-42a2-875b-13dbe93965c3
 
-#EXTINF:-1 tvg-id="505ff61e-7e76-4daf-bce3-62ee0a586866" tvg-name="Farmland TV" group-title="Pluto TV",Farmland TV
+#EXTINF:-1 tvg-id="e6c81e9f-6c3f-43aa-90b1-8b0484ac9812" tvg-name="Farmland TV" group-title="Pluto TV",Farmland TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663a15d7cb3ea10008edac88/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=afee9493-a3cb-4b05-910f-9a44c20a6230
 
-#EXTINF:-1 tvg-id="3a642fa1-15c6-4fb1-8a66-2431a7ea52ea" tvg-name="FIFA+" group-title="Pluto TV",FIFA+
+#EXTINF:-1 tvg-id="5313fa9e-4221-4e0a-b200-a665f83cd082" tvg-name="FIFA+" group-title="Pluto TV",FIFA+
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660bfc032433010008def35a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=57b1d107-c200-43be-a4fc-efdc7f97a39d
 
-#EXTINF:-1 tvg-id="47aeaeb9-fe05-4530-861d-da36e7157543" tvg-name="Filmgold" group-title="Pluto TV",Filmgold
+#EXTINF:-1 tvg-id="85f79119-2f13-45ba-991b-2ebb3ef7dde7" tvg-name="Filmgold" group-title="Pluto TV",Filmgold
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f024ed9-a853-4628-9d99-eddbb9f34fa6
 
-#EXTINF:-1 tvg-id="d408e59f-07c2-4bbb-bd55-c5b1d73eb2d0" tvg-name="Flipper" group-title="Pluto TV",Flipper
+#EXTINF:-1 tvg-id="e2c06741-90b2-4172-860d-8d37b5d06a13" tvg-name="Flipper" group-title="Pluto TV",Flipper
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68d277fb12bf71eaaed3e9f1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e6f76515-caf2-4d7a-8a73-f01d93a341e4
 
-#EXTINF:-1 tvg-id="349e5ca3-77e0-4530-a9d7-8da913756c30" tvg-name="Fluss-Monster" group-title="Pluto TV",Fluss-Monster
+#EXTINF:-1 tvg-id="bbb95ce2-37a6-4a1f-9329-71b8ca4d8200" tvg-name="Fluss-Monster" group-title="Pluto TV",Fluss-Monster
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a0b2aff4cf470007e47e29/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a4c7fbc2-29a1-4d2f-b00d-2e69e90a8df4
 
-#EXTINF:-1 tvg-id="500282d8-f8b2-407a-97e3-28d10971bc3f" tvg-name="Frasier" group-title="Pluto TV",Frasier
+#EXTINF:-1 tvg-id="78ca44f8-3eb1-4ebb-85be-a214eb2256c7" tvg-name="Frasier" group-title="Pluto TV",Frasier
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebf042ffc6d0007c4e59a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8ad726ca-4afd-4097-a462-c49a434209dd
 
-#EXTINF:-1 tvg-id="7ba4db8b-26c9-4529-807b-e4c55c5b1cad" tvg-name="Frasier VIDAA TEST" group-title="Pluto TV",Frasier VIDAA TEST
+#EXTINF:-1 tvg-id="6a8c2d71-ed91-467f-9eb5-fc3821715f05" tvg-name="Frasier VIDAA TEST" group-title="Pluto TV",Frasier VIDAA TEST
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d4572a8d8dc3d775aa4428/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=12dd23b0-6c0b-4ee6-82a5-add2be482a20
 
-#EXTINF:-1 tvg-id="5abe8400-256a-4f7a-a6e2-af38d99aa158" tvg-name="Germany Shore" group-title="Pluto TV",Germany Shore
+#EXTINF:-1 tvg-id="5ed7af46-d1a7-4b69-b7f6-69313ddb3eaf" tvg-name="Germany Shore" group-title="Pluto TV",Germany Shore
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=822c3dac-13c8-4829-849e-37406de6e2b5
 
-#EXTINF:-1 tvg-id="38980807-45e4-44e6-80de-74b17baacbf7" tvg-name="Gigolos" group-title="Pluto TV",Gigolos
+#EXTINF:-1 tvg-id="1909acf2-956f-4ad2-8c81-3824940ec2bc" tvg-name="Gigolos" group-title="Pluto TV",Gigolos
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68d27437e6767bdeb23f0336/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=915567ab-3dd2-418b-bfa0-f6dd2e9508c8
 
-#EXTINF:-1 tvg-id="f7d3c7cb-fe35-44b1-8da7-af3a1bb91fbd" tvg-name="Hausmeister Krause" group-title="Pluto TV",Hausmeister Krause
+#EXTINF:-1 tvg-id="006f314f-0d12-410e-9b1a-8974e3093972" tvg-name="Hausmeister Krause" group-title="Pluto TV",Hausmeister Krause
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6faf65be650007f57aab/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=67944aaa-f87c-4429-bb79-7556e4eaa12f
 
-#EXTINF:-1 tvg-id="3bad16ee-bbfb-4a58-8ddd-87ce6df93d11" tvg-name="Heartland" group-title="Pluto TV",Heartland
+#EXTINF:-1 tvg-id="2d4993de-0c1d-4a8c-a2a3-728d6fb9c596" tvg-name="Heartland" group-title="Pluto TV",Heartland
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680f375e6798ccd1185b58f9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c51f46fc-d89a-48e1-a948-72d649057cca
 
-#EXTINF:-1 tvg-id="53e73068-e531-4fb0-8264-3b0313780c8e" tvg-name="Hell's Kitchen" group-title="Pluto TV",Hell's Kitchen
+#EXTINF:-1 tvg-id="9345d229-6a3a-4074-b9ea-ee613a45cc4c" tvg-name="Hell's Kitchen" group-title="Pluto TV",Hell's Kitchen
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/644257fe7cb4b100081ed874/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f5fd2cea-bdf4-4b24-9c1d-6307135b254c
 
 #EXTINF:-1 tvg-id="iCarly.us@Germany" tvg-name="iCarly" group-title="Pluto TV",iCarly
@@ -181,67 +181,67 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="IcePilots.us@Germany" tvg-name="Ice Pilots" group-title="Pluto TV",Ice Pilots
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6fdd4861-b657-4637-8a68-0290474a3b2f
 
-#EXTINF:-1 tvg-id="16bf0da4-4768-4e22-8273-84a6bc5871a1" tvg-name="Ice Pilots VIDAA TEST" group-title="Pluto TV",Ice Pilots VIDAA TEST
+#EXTINF:-1 tvg-id="13cfd864-32ad-40f7-9b66-51cccd0d15a1" tvg-name="Ice Pilots VIDAA TEST" group-title="Pluto TV",Ice Pilots VIDAA TEST
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d4586be979b84e78f064d0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c1b5b7b8-e94e-46ad-9e0e-a7aa040e950b
 
-#EXTINF:-1 tvg-id="704b4a72-0d96-42c2-8803-9dbf23d599e4" tvg-name="Jackie Chan Adventures" group-title="Pluto TV",Jackie Chan Adventures
+#EXTINF:-1 tvg-id="25bbcb1c-22ec-46a1-a713-b28bdc0ad59d" tvg-name="Jackie Chan Adventures" group-title="Pluto TV",Jackie Chan Adventures
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a2367e9a300a00086f2688/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2e5cceee-64bf-4fb9-9a04-166781acb1c6
 
-#EXTINF:-1 tvg-id="63521ad0-173a-4ee1-8a7c-71e6f8370244" tvg-name="Just.fishing" group-title="Pluto TV",Just.fishing
+#EXTINF:-1 tvg-id="99805391-bc5c-4750-955a-d10b3940e430" tvg-name="Just.fishing" group-title="Pluto TV",Just.fishing
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5e7d0f82-b5ff-4208-87b9-aabc56e0c936
 
-#EXTINF:-1 tvg-id="33163e54-5c28-4f96-9736-5745091c13ef" tvg-name="KultKrimi" group-title="Pluto TV",KultKrimi
+#EXTINF:-1 tvg-id="d09dd8d9-fb0b-45c1-b601-75b75532ae2b" tvg-name="KultKrimi" group-title="Pluto TV",KultKrimi
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5cfe5caf83414128f209e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b038c9ce-1ae7-454c-855e-a68fe6ac6aa0
 
-#EXTINF:-1 tvg-id="f36f9a40-0f5a-41a0-a1f1-1002ccbd2483" tvg-name="KultKrimi: Der Alte" group-title="Pluto TV",KultKrimi: Der Alte
+#EXTINF:-1 tvg-id="099c1f24-b4e3-4447-9464-607d0a6b7527" tvg-name="KultKrimi: Der Alte" group-title="Pluto TV",KultKrimi: Der Alte
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5ef28730900089af7cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=878bcc5c-9467-461c-a5c7-cd9723b5399a
 
-#EXTINF:-1 tvg-id="fc37c11e-3198-4bb1-bc19-acffdaa85997" tvg-name="KultKrimi: Der Kommissar" group-title="Pluto TV",KultKrimi: Der Kommissar
+#EXTINF:-1 tvg-id="7ce3fe0c-d631-4399-93b9-95a8a4919016" tvg-name="KultKrimi: Der Kommissar" group-title="Pluto TV",KultKrimi: Der Kommissar
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde626ec9fda0008b3dc89/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c0995973-b56c-4043-96d1-c94019d1d19f
 
-#EXTINF:-1 tvg-id="37503c14-4d23-489f-b5aa-32f4fa698c98" tvg-name="KultKrimi: Derrick" group-title="Pluto TV",KultKrimi: Derrick
+#EXTINF:-1 tvg-id="49975198-d68c-4b28-8f14-b06f3e946120" tvg-name="KultKrimi: Derrick" group-title="Pluto TV",KultKrimi: Derrick
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5848145cb00083277f6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=436981fb-d14d-477e-b6a2-e98e86eabd2a
 
-#EXTINF:-1 tvg-id="bc5284a1-8c02-4452-a722-21de75d19f03" tvg-name="KultKrimi: Die Rettungsflieger" group-title="Pluto TV",KultKrimi: Die Rettungsflieger
+#EXTINF:-1 tvg-id="45603ba9-1c7f-4ba2-845b-c71da5744292" tvg-name="KultKrimi: Die Rettungsflieger" group-title="Pluto TV",KultKrimi: Die Rettungsflieger
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed0c86f7c5d70b90889a51/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4a0ddede-944a-420f-b288-3998017705e0
 
-#EXTINF:-1 tvg-id="b52d73f7-2886-428e-a28b-55bdf4e6db2a" tvg-name="KultKrimi: Ein Fall für zwei" group-title="Pluto TV",KultKrimi: Ein Fall für zwei
+#EXTINF:-1 tvg-id="f5dfbf6c-2aeb-40d1-87e9-c5cecb5fe521" tvg-name="KultKrimi: Ein Fall für zwei" group-title="Pluto TV",KultKrimi: Ein Fall für zwei
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68590366010ddd78ef837d29/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ca10efaa-372b-4294-9f33-0bb1957c8b67
 
-#EXTINF:-1 tvg-id="8172bcae-4a8a-4be4-82fc-5a6fb0c5cab1" tvg-name="KultKrimi: Küstenwache" group-title="Pluto TV",KultKrimi: Küstenwache
+#EXTINF:-1 tvg-id="4397bb33-0efc-48ae-883d-31f56438b5d4" tvg-name="KultKrimi: Küstenwache" group-title="Pluto TV",KultKrimi: Küstenwache
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ebbdced2832b463faa1e79/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e39fe5d8-5957-4580-9720-8a78cfaf0c1f
 
-#EXTINF:-1 tvg-id="d42b991d-add9-4960-a527-0beb0189d05a" tvg-name="Ladykracher" group-title="Pluto TV",Ladykracher
+#EXTINF:-1 tvg-id="0940ec4f-8eb4-41c0-aced-16e2ca5ed8d9" tvg-name="Ladykracher" group-title="Pluto TV",Ladykracher
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667d3534ca74680008696051/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=86b9d43c-5583-4e86-8e7d-c52c97479b0d
 
-#EXTINF:-1 tvg-id="2bc45550-0292-4f8a-9b78-e73e7a3b50a3" tvg-name="Liebe Sünde" group-title="Pluto TV",Liebe Sünde
+#EXTINF:-1 tvg-id="92fb1b13-8bfe-4dba-9232-d19d3ce079b4" tvg-name="Liebe Sünde" group-title="Pluto TV",Liebe Sünde
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68d276ce59fd82da32267d0d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f12ee807-9d70-433c-841d-35f28f8fdbca
 
-#EXTINF:-1 tvg-id="397d0ad6-d054-40e1-9772-6cd12a2d9efa" tvg-name="Love Boat" group-title="Pluto TV",Love Boat
+#EXTINF:-1 tvg-id="e29f5f6e-7ef1-4b9d-8c3b-eade0d95bcaf" tvg-name="Love Boat" group-title="Pluto TV",Love Boat
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3d1fbc15b00081f1186/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8ad27066-6b4d-4541-8c18-cf9967e3c398
 
-#EXTINF:-1 tvg-id="5ca92185-c74a-444e-9964-52f330891450" tvg-name="McLeods Töchter" group-title="Pluto TV",McLeods Töchter
+#EXTINF:-1 tvg-id="7954ffed-4eb1-4201-900b-7db41fb0f9c4" tvg-name="McLeods Töchter" group-title="Pluto TV",McLeods Töchter
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c6fcfc6838ee00085beb1a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=50e96def-075e-4d33-938f-d974f9b0638c
 
-#EXTINF:-1 tvg-id="964431f5-d1ca-467e-b061-3a1d76e8b4e2" tvg-name="Melrose Place" group-title="Pluto TV",Melrose Place
+#EXTINF:-1 tvg-id="25f9a8f4-ffec-4a46-9dde-36c324481b4d" tvg-name="Melrose Place" group-title="Pluto TV",Melrose Place
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be745340962900080b55e7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f6707a35-842c-49b1-a68e-1ef90fb1fac9
 
-#EXTINF:-1 tvg-id="bcd38e94-6006-4d5a-9698-1e811f1cb845" tvg-name="Merhaba Türkische Serien" group-title="Pluto TV",Merhaba Türkische Serien
+#EXTINF:-1 tvg-id="bc326ae1-97b9-4bb2-a2d1-933ad32ea708" tvg-name="Merhaba Türkische Serien" group-title="Pluto TV",Merhaba Türkische Serien
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6864e8f264d94c1425fb4563/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c868528d-4bdd-4792-a0e4-a979ef743dd2
 
-#EXTINF:-1 tvg-id="5c12bf88-f00c-438c-b70c-151258451e05" tvg-name="Mission Impossible" group-title="Pluto TV",Mission Impossible
+#EXTINF:-1 tvg-id="b44d87e4-2993-4187-b3a7-bb4a74432443" tvg-name="Mission Impossible" group-title="Pluto TV",Mission Impossible
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe5afece2e60007c9d8b8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=868be534-a569-4926-b496-fe3d0fd17cb3
 
-#EXTINF:-1 tvg-id="d661c1b8-5b5f-4e3b-9813-16f266dec8bb" tvg-name="Missions" group-title="Pluto TV",Missions
+#EXTINF:-1 tvg-id="e94dfe01-652f-450b-8031-ef90199213af" tvg-name="Missions" group-title="Pluto TV",Missions
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824539e1295f98347e95242/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d0f81788-7a85-47b1-8fc7-0001b603bcf8
 
-#EXTINF:-1 tvg-id="c6272619-e3e6-4db1-8ede-8e2ed8dd151f" tvg-name="MODUS Super Series Darts" group-title="Pluto TV",MODUS Super Series Darts
+#EXTINF:-1 tvg-id="61f8f63d-590c-43df-b62c-d85ce9fe8bfc" tvg-name="MODUS Super Series Darts" group-title="Pluto TV",MODUS Super Series Darts
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66337e6ba0a74e000889563b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e0039425-0d5b-44b4-aff1-0ddf827930bb
 
 #EXTINF:-1 tvg-id="Moviedome.us@Germany" tvg-name="MOVIEDOME" group-title="Pluto TV",MOVIEDOME
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ff1af0f9-0233-4cce-be6f-dcc983244edf
 
-#EXTINF:-1 tvg-id="97943f7c-f756-4d21-ac8a-f5e139b25449" tvg-name="Moviepilot TV mit Pluto TV" group-title="Pluto TV",Moviepilot TV mit Pluto TV
+#EXTINF:-1 tvg-id="8688cc34-ff24-4aec-ab11-8d78bd1ed64c" tvg-name="Moviepilot TV mit Pluto TV" group-title="Pluto TV",Moviepilot TV mit Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e4b9545a-bb8d-4eaf-ac24-f759851475a4
 
 #EXTINF:-1 tvg-id="MTVCatfishTVShow.us@Germany" tvg-name="MTV Catfish TV Show" group-title="Pluto TV",MTV Catfish TV Show
@@ -253,7 +253,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@Germany" tvg-name="MTV Pluto TV" group-title="Pluto TV",MTV Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e7d7638f-2485-46a2-b581-b1f4da9b7b82
 
-#EXTINF:-1 tvg-id="6d894b18-9e13-47d2-af7a-d72d462cc268" tvg-name="MTV Reality" group-title="Pluto TV",MTV Reality
+#EXTINF:-1 tvg-id="7e3e80fd-e804-4500-ba52-7dddbd0146af" tvg-name="MTV Reality" group-title="Pluto TV",MTV Reality
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/685136fb33a52de120bbb086/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2b362f64-4815-492b-9d28-98a2da6646eb
 
 #EXTINF:-1 tvg-id="MTVRidiculousness.us@Germany" tvg-name="MTV Ridiculousness" group-title="Pluto TV",MTV Ridiculousness
@@ -271,31 +271,31 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="Naruto.us@Germany" tvg-name="Naruto" group-title="Pluto TV",Naruto
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1f48ee26-32f5-4c29-8ec2-7f7eb3758963
 
-#EXTINF:-1 tvg-id="aebd5751-1604-43d7-97ec-201ef4f762d2" tvg-name="Nick Jr. Club" group-title="Pluto TV",Nick Jr. Club
+#EXTINF:-1 tvg-id="87f90376-8b42-40d1-96d5-8b9109ba23a3" tvg-name="Nick Jr. Club" group-title="Pluto TV",Nick Jr. Club
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67f3eb1c443f0671bc03ece8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=240c9c78-0418-4aed-903b-380d58dccc9f
 
-#EXTINF:-1 tvg-id="c71e2913-1ee4-430d-898c-095e4e0ec6be" tvg-name="Nickelodeon Classics" group-title="Pluto TV",Nickelodeon Classics
+#EXTINF:-1 tvg-id="bc3acdb1-3826-4aac-8d10-c64a1e3d4a73" tvg-name="Nickelodeon Classics" group-title="Pluto TV",Nickelodeon Classics
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67f3eb800a1beb98767ca748/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8e98f865-97fd-4d87-b784-cb484f129e40
 
 #EXTINF:-1 tvg-id="NickelodeonTeen.fr@SD" tvg-name="Nickelodeon Teen" group-title="Pluto TV",Nickelodeon Teen
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4685dc00-4dac-4e55-8d62-ba7cb9384538
 
-#EXTINF:-1 tvg-id="e3355483-1a93-422f-b9f6-56b73e5bca2a" tvg-name="Nickelodeon Toons" group-title="Pluto TV",Nickelodeon Toons
+#EXTINF:-1 tvg-id="5e76dcc3-499e-4a15-b0a5-dbf1642b5b19" tvg-name="Nickelodeon Toons" group-title="Pluto TV",Nickelodeon Toons
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=aa8cd522-0259-44aa-bc85-f584f8031016
 
-#EXTINF:-1 tvg-id="6fa33bbb-0fdf-450e-87b4-7d5f8f9dad7f" tvg-name="Pastewka" group-title="Pluto TV",Pastewka
+#EXTINF:-1 tvg-id="5889e481-db9a-4c70-b082-0aa42fe4269c" tvg-name="Pastewka" group-title="Pluto TV",Pastewka
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686cfef52704ca31d85c4bf1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3abef586-cad0-494c-bfd2-7580a1e8c21e
 
-#EXTINF:-1 tvg-id="57539403-d450-4aaf-a61e-35baeb3b9587" tvg-name="Pensacola – Flügel aus Stahl" group-title="Pluto TV",Pensacola – Flügel aus Stahl
+#EXTINF:-1 tvg-id="e58727d9-4ee9-4ad2-9ea8-36d40d01db71" tvg-name="Pensacola – Flügel aus Stahl" group-title="Pluto TV",Pensacola – Flügel aus Stahl
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca4b94261ca00080b38d2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2209c6a6-0a45-4047-800f-ffa4ed011b72
 
 #EXTINF:-1 tvg-id="PerryMason.us@SD" tvg-name="Perry Mason" group-title="Pluto TV",Perry Mason
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=225db4be-e1b3-4e09-bdaf-de2e4f9a6aac
 
-#EXTINF:-1 tvg-id="3e350eeb-d7ef-485d-8bef-cc52dda9b219" tvg-name="Pluto TV Action" group-title="Pluto TV",Pluto TV Action
+#EXTINF:-1 tvg-id="32e9ad2c-6c4d-44fc-8d26-f484fd31cb70" tvg-name="Pluto TV Action" group-title="Pluto TV",Pluto TV Action
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c12bd758-1000-4c2e-81a0-8c8c1728d9d4
 
-#EXTINF:-1 tvg-id="3dfb39c1-79b0-43a8-9640-a592c1d4987d" tvg-name="Pluto TV Adult Animation" group-title="Pluto TV",Pluto TV Adult Animation
+#EXTINF:-1 tvg-id="905ff42d-69d9-4dbe-affd-2d826d0942c6" tvg-name="Pluto TV Adult Animation" group-title="Pluto TV",Pluto TV Adult Animation
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67f68bd2135aeda9ddf0ef54/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3f04be77-1404-4272-843a-ce68e36e54f2
 
 #EXTINF:-1 tvg-id="PlutoTVAnimals.us@Germany" tvg-name="Pluto TV Animals" group-title="Pluto TV",Pluto TV Animals
@@ -304,58 +304,58 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@Germany" tvg-name="Pluto TV Anime" group-title="Pluto TV",Pluto TV Anime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c2011444-d57f-4a11-9479-41b661b0511a
 
-#EXTINF:-1 tvg-id="1e8d19bc-0cd2-405d-ba40-fd150b1d9a02" tvg-name="Pluto TV Anime: Fantasy" group-title="Pluto TV",Pluto TV Anime: Fantasy
+#EXTINF:-1 tvg-id="e2bfceca-e080-4b94-8e4c-e016c2fff44c" tvg-name="Pluto TV Anime: Fantasy" group-title="Pluto TV",Pluto TV Anime: Fantasy
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67fe495d9ebfe4142424b7a7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f0f6c6aa-dbbe-4ac0-a891-22f19c7ec163
 
-#EXTINF:-1 tvg-id="2ca3bdf3-cc62-4303-87ff-861ed953a222" tvg-name="Pluto TV Britische Serien" group-title="Pluto TV",Pluto TV Britische Serien
+#EXTINF:-1 tvg-id="c921de5d-4158-40aa-af7d-1b46b07eb3b6" tvg-name="Pluto TV Britische Serien" group-title="Pluto TV",Pluto TV Britische Serien
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677e5a3d7bffa6000808dbf2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=591762b2-db28-4df7-8a18-86ff87208cdc
 
 #EXTINF:-1 tvg-id="PlutoTVCrime.us@Germany" tvg-name="Pluto TV Crime" group-title="Pluto TV",Pluto TV Crime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=44815e4c-f895-4ef2-af86-8295f99f949c
 
-#EXTINF:-1 tvg-id="208b0088-9ffd-4b58-a7eb-01e16cb51363" tvg-name="Pluto TV Darts" group-title="Pluto TV",Pluto TV Darts
+#EXTINF:-1 tvg-id="ba458f9e-f113-485b-8949-1d2fbaad0104" tvg-name="Pluto TV Darts" group-title="Pluto TV",Pluto TV Darts
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67b481cc1a5ca760801c6c5e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ef3973fd-2a62-42b5-8308-4fc6dc38caf7
 
-#EXTINF:-1 tvg-id="5a59b607-ba22-4c62-9edb-9fec26f51ce4" tvg-name="Pluto TV Deutsche Comedy" group-title="Pluto TV",Pluto TV Deutsche Comedy
+#EXTINF:-1 tvg-id="425c4535-b6f7-4a88-b3f1-d715d51949a8" tvg-name="Pluto TV Deutsche Comedy" group-title="Pluto TV",Pluto TV Deutsche Comedy
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6672f49f61a39900089db68e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80ca0274-0ea0-4b62-a90f-02cb0583f272
 
-#EXTINF:-1 tvg-id="dd8fadf2-6ef0-46a9-b2d3-a1ab697aabf9" tvg-name="Pluto TV Emmanuelle Filme" group-title="Pluto TV",Pluto TV Emmanuelle Filme
+#EXTINF:-1 tvg-id="bebf4ddf-d545-4b9b-b211-db13914be520" tvg-name="Pluto TV Emmanuelle Filme" group-title="Pluto TV",Pluto TV Emmanuelle Filme
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ebc04855de98dc71428538/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=54539f6f-b85e-4803-95fa-7793429eeb8b
 
-#EXTINF:-1 tvg-id="16159066-ce2f-4107-b676-eddba6a9b11a" tvg-name="Pluto TV Europäische Krimis" group-title="Pluto TV",Pluto TV Europäische Krimis
+#EXTINF:-1 tvg-id="a6bce71f-30eb-4d36-a236-04a21c163cd8" tvg-name="Pluto TV Europäische Krimis" group-title="Pluto TV",Pluto TV Europäische Krimis
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68b176c2a4841127a8ed1ade/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c22772aa-42b6-442d-becd-4ca513949bb5
 
 #EXTINF:-1 tvg-id="PlutoTVExplore.us@Germany" tvg-name="Pluto TV Explore" group-title="Pluto TV",Pluto TV Explore
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d1d839df-91aa-46aa-a830-c5524cea7380
 
-#EXTINF:-1 tvg-id="cac08891-1c4b-45d6-b794-230ff9f894d9" tvg-name="Pluto TV Femme Fatale" group-title="Pluto TV",Pluto TV Femme Fatale
+#EXTINF:-1 tvg-id="2689eb80-9e98-4ede-b243-877785e45131" tvg-name="Pluto TV Femme Fatale" group-title="Pluto TV",Pluto TV Femme Fatale
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68245366b19ce6d4a30b7687/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9ea89393-c73e-42ff-9904-e10fb28107d1
 
-#EXTINF:-1 tvg-id="f35392fa-0478-4dac-9613-d5ec7be756ac" tvg-name="Pluto TV Ferne Galaxien" group-title="Pluto TV",Pluto TV Ferne Galaxien
+#EXTINF:-1 tvg-id="507dc47f-9091-46d8-aefd-9a89477580e5" tvg-name="Pluto TV Ferne Galaxien" group-title="Pluto TV",Pluto TV Ferne Galaxien
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68ada46d5190a45dc9c45af1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c21d8b19-e5e7-4943-8394-a729f1d4b9c5
 
 #EXTINF:-1 tvg-id="PlutoTVFood.us@Germany" tvg-name="Pluto TV Food" group-title="Pluto TV",Pluto TV Food
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8175e491-14d2-444b-ae0e-9a87f7f1f0fa
 
-#EXTINF:-1 tvg-id="bc494832-0751-4cf4-be4e-0eeee2e9e3a2" tvg-name="Pluto TV heiße Nächte" group-title="Pluto TV",Pluto TV heiße Nächte
+#EXTINF:-1 tvg-id="376a7e9d-5202-4c59-b2b8-2edb3ae39f72" tvg-name="Pluto TV heiße Nächte" group-title="Pluto TV",Pluto TV heiße Nächte
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6dc7a065-80d3-4a76-9aff-a8bd055cda21
 
-#EXTINF:-1 tvg-id="0313992e-9a67-4d0f-b995-8d7adecf1ebc" tvg-name="Pluto TV Heiße Nächte Retro" group-title="Pluto TV",Pluto TV Heiße Nächte Retro
+#EXTINF:-1 tvg-id="f9d288b2-d2f8-46ae-aaa2-53d57ae783ad" tvg-name="Pluto TV Heiße Nächte Retro" group-title="Pluto TV",Pluto TV Heiße Nächte Retro
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/664f10c4f9992200084a2f47/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9fc3256d-b03c-412c-933b-143a68741364
 
-#EXTINF:-1 tvg-id="956a7532-6d5c-4ae4-80d1-5ab1b3a08929" tvg-name="Pluto TV Historische Serien" group-title="Pluto TV",Pluto TV Historische Serien
+#EXTINF:-1 tvg-id="87345804-cbc2-4fdc-9f84-84362422ecda" tvg-name="Pluto TV Historische Serien" group-title="Pluto TV",Pluto TV Historische Serien
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68ada3395190a45dc9c445cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d93e0fd1-9874-4b2a-91bd-211c5e51c42c
 
 #EXTINF:-1 tvg-id="PlutoTVHistory.us@Germany" tvg-name="Pluto TV History" group-title="Pluto TV",Pluto TV History
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e829746a-0648-4a17-a966-b0a77df71952
 
-#EXTINF:-1 tvg-id="34bf5aa7-81a0-4985-a9a5-776c7af0e388" tvg-name="Pluto TV Horror" group-title="Pluto TV",Pluto TV Horror
+#EXTINF:-1 tvg-id="d399f361-829e-43a1-b4cc-f6ebec4f1d9c" tvg-name="Pluto TV Horror" group-title="Pluto TV",Pluto TV Horror
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=80671299-59ea-4679-872d-88805ceb5634
 
-#EXTINF:-1 tvg-id="6860c249-c465-4015-b69a-3c45590d5899" tvg-name="Pluto TV Horror-Serien" group-title="Pluto TV",Pluto TV Horror-Serien
+#EXTINF:-1 tvg-id="6f1cf544-3012-414a-b719-253a87d9b3ec" tvg-name="Pluto TV Horror-Serien" group-title="Pluto TV",Pluto TV Horror-Serien
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ff7d9c7fc25e0e72451bc9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=122eae99-d5f3-48bc-aec8-397695346001
 
-#EXTINF:-1 tvg-id="c368d5cb-0cf8-4342-8e9f-363fad2a3355" tvg-name="Pluto TV Kult Comedies" group-title="Pluto TV",Pluto TV Kult Comedies
+#EXTINF:-1 tvg-id="dc02da8b-fcd8-436a-bf3d-e89147ad69fb" tvg-name="Pluto TV Kult Comedies" group-title="Pluto TV",Pluto TV Kult Comedies
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66337de656fc840008ff7a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e75e87cd-9f19-4124-9e94-b0e7f4eceac3
 
 #EXTINF:-1 tvg-id="PlutoTVKultfilme.us@Germany" tvg-name="Pluto TV Kultfilme" group-title="Pluto TV",Pluto TV Kultfilme
@@ -364,64 +364,64 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="PlutoTVMovies.us@Germany" tvg-name="Pluto TV Movies" group-title="Pluto TV",Pluto TV Movies
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=0944a3fc-cd69-4bc1-9a19-cae2531b26d7
 
-#EXTINF:-1 tvg-id="9e59c886-c006-4b63-a683-76c6e36dbcd0" tvg-name="Pluto TV Mystery" group-title="Pluto TV",Pluto TV Mystery
+#EXTINF:-1 tvg-id="31f97f45-c32c-44d9-a74d-295e299ff92c" tvg-name="Pluto TV Mystery" group-title="Pluto TV",Pluto TV Mystery
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617aad99b68ef100072608cd/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c083ab4e-0019-4a7d-bba5-5fb54a866d6b
 
 #EXTINF:-1 tvg-id="PlutoTVNature.us@Germany" tvg-name="Pluto TV Nature" group-title="Pluto TV",Pluto TV Nature
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=895ce841-31ec-4b37-809c-dcd3bd3a70b7
 
-#EXTINF:-1 tvg-id="a2812b49-a207-478f-9e2c-616a3eadf66a" tvg-name="Pluto TV Nordic Crime" group-title="Pluto TV",Pluto TV Nordic Crime
+#EXTINF:-1 tvg-id="285aa51d-41f5-4029-8c0d-c451f4264484" tvg-name="Pluto TV Nordic Crime" group-title="Pluto TV",Pluto TV Nordic Crime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d984408d8dc3d7754dccf2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ad3fafe9-681f-4fa8-9775-f4615a980df1
 
 #EXTINF:-1 tvg-id="PlutoTVParanormal.us@Germany" tvg-name="Pluto TV Paranormal" group-title="Pluto TV",Pluto TV Paranormal
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98487036af340008da1e37/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e9f3d6d8-325e-4bcd-b5d3-561fb5ce50ec
 
-#EXTINF:-1 tvg-id="fe51229c-a20c-4f5f-8675-18b576d94589" tvg-name="Pluto TV Polizeiserien" group-title="Pluto TV",Pluto TV Polizeiserien
+#EXTINF:-1 tvg-id="c3a5461a-b8be-4846-ad39-161a1874f40d" tvg-name="Pluto TV Polizeiserien" group-title="Pluto TV",Pluto TV Polizeiserien
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6734f20f-9483-4281-a4b6-db2e07ef6379
 
-#EXTINF:-1 tvg-id="6d0e280c-d2fe-4974-9483-bcf9b698a055" tvg-name="Pluto TV Popkultur" group-title="Pluto TV",Pluto TV Popkultur
+#EXTINF:-1 tvg-id="0416e5d3-c407-492c-8a62-bd2b6fa53a2b" tvg-name="Pluto TV Popkultur" group-title="Pluto TV",Pluto TV Popkultur
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68ada399247c66a111528aaa/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=966478e8-1588-44f6-b4d6-f3f0ef06d62c
 
-#EXTINF:-1 tvg-id="2bd61e87-662e-4424-be88-b4659686d13b" tvg-name="Pluto TV Reality" group-title="Pluto TV",Pluto TV Reality
+#EXTINF:-1 tvg-id="c6d7d1eb-796b-4e13-839b-51075e4e1035" tvg-name="Pluto TV Reality" group-title="Pluto TV",Pluto TV Reality
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ebc1b6432a0e406f141341/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=73c1d5bd-a56e-4acd-971c-8a705ce78093
 
-#EXTINF:-1 tvg-id="74c4eb09-7a79-4bcb-904b-01e3ede934cf" tvg-name="Pluto TV Reportagen" group-title="Pluto TV",Pluto TV Reportagen
+#EXTINF:-1 tvg-id="0b4f1b3c-1934-4726-afe2-f2e4fddf8f6d" tvg-name="Pluto TV Reportagen" group-title="Pluto TV",Pluto TV Reportagen
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68ada3edf84960586ad31c7d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2747f622-5873-4cdf-bd10-cfff3e30647a
 
-#EXTINF:-1 tvg-id="275d01c3-1909-466e-87ce-5c04103bfd88" tvg-name="Pluto TV Romance" group-title="Pluto TV",Pluto TV Romance
+#EXTINF:-1 tvg-id="48d32af5-57bc-43b2-afe4-1484557cc69d" tvg-name="Pluto TV Romance" group-title="Pluto TV",Pluto TV Romance
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8fc9cc49-2eda-4c35-83f9-e2c540066a39
 
-#EXTINF:-1 tvg-id="d4af5b11-f469-47ff-84b4-df184b715741" tvg-name="Pluto TV Sanfte Berührungen" group-title="Pluto TV",Pluto TV Sanfte Berührungen
+#EXTINF:-1 tvg-id="5cdd3989-6de1-473e-ac4c-bf57a79afe12" tvg-name="Pluto TV Sanfte Berührungen" group-title="Pluto TV",Pluto TV Sanfte Berührungen
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d983d6a1609bdb523f5f9b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=091eedb3-fdfb-43b0-8659-d8d3d8861eba
 
-#EXTINF:-1 tvg-id="0c175045-17ef-4a02-8c4f-75c68fa89240" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="662121ff-00c3-4b7a-8e65-0217f86b7c25" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=eb9782ac-e813-4ec2-bb98-3f5d48f15547
 
-#EXTINF:-1 tvg-id="8768b5dd-2e42-46a9-b0a7-5aa966555cd9" tvg-name="Pluto TV Science" group-title="Pluto TV",Pluto TV Science
+#EXTINF:-1 tvg-id="20ea952c-106e-49c6-b013-c0c8a21926ac" tvg-name="Pluto TV Science" group-title="Pluto TV",Pluto TV Science
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=598f82f5-a5ef-401c-8fbd-d8a082b4645d
 
-#EXTINF:-1 tvg-id="63269919-836e-420f-a833-ed6d469246b2" tvg-name="Pluto TV Serie" group-title="Pluto TV",Pluto TV Serie
+#EXTINF:-1 tvg-id="c66fa0dd-797e-4982-873c-f7da6c092fb8" tvg-name="Pluto TV Serie" group-title="Pluto TV",Pluto TV Serie
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ac4b6dda-fa99-498d-903c-9d1ce4f0ba67
 
-#EXTINF:-1 tvg-id="6267ecfc-bc3b-4ee3-8aa7-28e3b40e6371" tvg-name="Pluto TV Serie+" group-title="Pluto TV",Pluto TV Serie+
+#EXTINF:-1 tvg-id="d2d4b637-9cad-4acf-8f28-957094bda059" tvg-name="Pluto TV Serie+" group-title="Pluto TV",Pluto TV Serie+
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8daf8a8e-2bf2-460d-bbcf-f0e70ece551e
 
-#EXTINF:-1 tvg-id="44e8c577-021b-4f6a-9cc3-12602c90670b" tvg-name="Pluto TV Sharks" group-title="Pluto TV",Pluto TV Sharks
+#EXTINF:-1 tvg-id="08cfc863-9b3d-4c9e-9af2-2fe5c6db70c5" tvg-name="Pluto TV Sharks" group-title="Pluto TV",Pluto TV Sharks
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/669526d232e25300084bb47b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e01c30dd-82f2-49f3-b6d2-7de01bac1551
 
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany" tvg-name="Pluto TV Sitcoms" group-title="Pluto TV",Pluto TV Sitcoms
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b6a0d6a6-b701-49a4-8bc4-5e75e59972cf
 
-#EXTINF:-1 tvg-id="af86e14a-5347-4b4b-9a49-753341df95cf" tvg-name="Pluto TV Sitcoms+" group-title="Pluto TV",Pluto TV Sitcoms+
+#EXTINF:-1 tvg-id="978b8c39-d609-41ad-b6cf-e2b277c91995" tvg-name="Pluto TV Sitcoms+" group-title="Pluto TV",Pluto TV Sitcoms+
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=529af1ef-826e-4a7d-8544-df63bccdba0e
 
-#EXTINF:-1 tvg-id="4642e9db-a6a7-4d83-b9bb-c7104a607e15" tvg-name="Pluto TV Snooker 900" group-title="Pluto TV",Pluto TV Snooker 900
+#EXTINF:-1 tvg-id="5dcdbe4e-2e03-462a-903e-26de419c4b8a" tvg-name="Pluto TV Snooker 900" group-title="Pluto TV",Pluto TV Snooker 900
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68ac5543a1ac0c90f2c8943e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d0876d80-b918-4641-9053-6b3c88aa2a2e
 
 #EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-name="Pluto TV Space" group-title="Pluto TV",Pluto TV Space
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=674354cd-ccc0-44b4-ad8e-eb938137d92c
 
-#EXTINF:-1 tvg-id="c04681c7-8769-4ccc-afe5-a1246c1ccf72" tvg-name="Pluto TV Star Trek" group-title="Pluto TV",Pluto TV Star Trek
+#EXTINF:-1 tvg-id="da01799c-d7e8-4762-8e3a-be7ff0ce1b1b" tvg-name="Pluto TV Star Trek" group-title="Pluto TV",Pluto TV Star Trek
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=06f46a53-c674-42c9-9d72-d64ff1c86171
 
 #EXTINF:-1 tvg-id="PlutoTVThrillers.us@Germany" tvg-name="Pluto TV Thriller" group-title="Pluto TV",Pluto TV Thriller
@@ -430,97 +430,97 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@Germany" tvg-name="Pluto TV True Crime" group-title="Pluto TV",Pluto TV True Crime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615333098185f00008715a56/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e5bc3361-c206-4e8a-8882-5a927fc73534
 
-#EXTINF:-1 tvg-id="2eedb2e6-282e-4f6f-8992-187d6989d412" tvg-name="Pluto TV Weddings" group-title="Pluto TV",Pluto TV Weddings
+#EXTINF:-1 tvg-id="58a3f2fc-ac98-4034-b569-e6970e618b18" tvg-name="Pluto TV Weddings" group-title="Pluto TV",Pluto TV Weddings
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923bd34b1ec000075e5e89/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c39580b0-0b6e-4957-8b56-325756330d1a
 
-#EXTINF:-1 tvg-id="0ec1c039-6dfe-44f0-9251-0ed0994d7f7a" tvg-name="Pluto TV Western" group-title="Pluto TV",Pluto TV Western
+#EXTINF:-1 tvg-id="52efb79d-3a81-44a2-bd1a-9a789df5a1cd" tvg-name="Pluto TV Western" group-title="Pluto TV",Pluto TV Western
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8b675a4d-b291-4503-99fc-7814c59cb7dc
 
-#EXTINF:-1 tvg-id="a812aee4-9971-4819-923e-1aad6748cf42" tvg-name="Profiling Paris" group-title="Pluto TV",Profiling Paris
+#EXTINF:-1 tvg-id="3fd3602a-2efe-40a8-a15d-a780b7b2e9fc" tvg-name="Profiling Paris" group-title="Pluto TV",Profiling Paris
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d984c989788ef7f058b084/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=adf5e150-08b5-4af0-9910-47358b7cff16
 
-#EXTINF:-1 tvg-id="bad7fe7f-32c3-4720-a030-f96e0164be2c" tvg-name="Quantum Leap" group-title="Pluto TV",Quantum Leap
+#EXTINF:-1 tvg-id="33a0e7d0-d57c-4498-852c-f6c9425bbf8d" tvg-name="Quantum Leap" group-title="Pluto TV",Quantum Leap
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677fafd91da79bfe4fb0b4ec/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=59a95307-1555-410c-8165-0cb1dd9726b7
 
-#EXTINF:-1 tvg-id="55d63921-74a0-424b-b81d-efb58408d87d" tvg-name="Rauchende Colts" group-title="Pluto TV",Rauchende Colts
+#EXTINF:-1 tvg-id="a682ded9-ff85-4f00-a71f-1befe87053ea" tvg-name="Rauchende Colts" group-title="Pluto TV",Rauchende Colts
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9205f0c4-20f9-463b-a95f-2d8f276d0083
 
-#EXTINF:-1 tvg-id="4313d948-41cd-49f0-afd5-5b612d77cced" tvg-name="Rawhide Tausend Meilen Staub" group-title="Pluto TV",Rawhide Tausend Meilen Staub
+#EXTINF:-1 tvg-id="a2dcede7-d7fb-430e-8c77-3fe5bfb5083f" tvg-name="Rawhide Tausend Meilen Staub" group-title="Pluto TV",Rawhide Tausend Meilen Staub
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2983dcd9100008c2374d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1b5564e1-014c-48b3-ac3a-79c729f00f97
 
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" group-title="Pluto TV",Red Bull TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cb84a172a0f0007da69e4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=edf28b05-3832-482c-9599-bb50005eee85
 
-#EXTINF:-1 tvg-id="07fd08f2-c2e9-48fb-b208-0abccee2c24f" tvg-name="Red Shoe Diaries" group-title="Pluto TV",Red Shoe Diaries
+#EXTINF:-1 tvg-id="790eeeef-90a5-4a22-bdca-0e3b0763efc3" tvg-name="Red Shoe Diaries" group-title="Pluto TV",Red Shoe Diaries
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645a0ddfe1979c00086d83ff/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1634e008-72d6-4fea-9466-1373ce042b57
 
-#EXTINF:-1 tvg-id="ff7a5545-5bae-49e7-86dc-74f61d9b8a24" tvg-name="RoboCop" group-title="Pluto TV",RoboCop
+#EXTINF:-1 tvg-id="47114e67-099e-4159-a59f-ec91f97c8c07" tvg-name="RoboCop" group-title="Pluto TV",RoboCop
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9d992797-4396-47e9-965e-893f3e491745
 
-#EXTINF:-1 tvg-id="e3c3db3e-2626-402c-a557-7c8d0cb5199b" tvg-name="Rookie Blue" group-title="Pluto TV",Rookie Blue
+#EXTINF:-1 tvg-id="9d728bfa-cdf0-41a0-b67f-0fd219f9b8a7" tvg-name="Rookie Blue" group-title="Pluto TV",Rookie Blue
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680f462556ff83bcd6ba2816/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a2c2af0f-0f95-4063-82d6-8de5e19b34fb
 
-#EXTINF:-1 tvg-id="ac75ce2c-9057-4685-aa5d-ef8d0be8858d" tvg-name="Rules of Engagement" group-title="Pluto TV",Rules of Engagement
+#EXTINF:-1 tvg-id="ca23bdcd-d591-4db7-87ac-978b986ad1ba" tvg-name="Rules of Engagement" group-title="Pluto TV",Rules of Engagement
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be635a40962900080aaca5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f92a6334-f30a-4d44-ac59-3b4d43d95554
 
-#EXTINF:-1 tvg-id="45f7d7c7-64fc-4a70-abbd-f3db64423a28" tvg-name="Sabrina Total verhext!" group-title="Pluto TV",Sabrina Total verhext!
+#EXTINF:-1 tvg-id="7d87f6d5-262f-46e0-82ed-c69a7a6d9438" tvg-name="Sabrina Total verhext!" group-title="Pluto TV",Sabrina Total verhext!
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f40c901d4b70007ad7609/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=fd3340e4-36b3-4ee3-8417-148c23ee06eb
 
-#EXTINF:-1 tvg-id="f2293de2-8ea5-4baa-b50e-1ba7f12ba104" tvg-name="Sea Patrol" group-title="Pluto TV",Sea Patrol
+#EXTINF:-1 tvg-id="72ef0b16-82f0-4169-851a-8ea59fd7cc2a" tvg-name="Sea Patrol" group-title="Pluto TV",Sea Patrol
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/688735087b2cf33d01a2d411/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f5a94115-808a-42b8-a6cf-bc4a257201eb
 
-#EXTINF:-1 tvg-id="2a755c89-6b8f-465c-a929-987dabb72ecc" tvg-name="South Park: Butters Collection" group-title="Pluto TV",South Park: Butters Collection
+#EXTINF:-1 tvg-id="c699ba75-adcd-42b4-a653-500a3b67190a" tvg-name="South Park: Butters Collection" group-title="Pluto TV",South Park: Butters Collection
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=cd62912e-da94-4069-ac86-0e3e2e438b8a
 
-#EXTINF:-1 tvg-id="f8bb812d-2806-4fe9-8b07-ac88c186f93e" tvg-name="South Park: Cartman Collection" group-title="Pluto TV",South Park: Cartman Collection
+#EXTINF:-1 tvg-id="02f36498-7ea4-4861-8711-0e9e60e6e91e" tvg-name="South Park: Cartman Collection" group-title="Pluto TV",South Park: Cartman Collection
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=53d2bd8b-ef27-40bd-97fb-a588ee5236ce
 
-#EXTINF:-1 tvg-id="8c8e5703-4171-481b-a68a-718ef17ef993" tvg-name="South Park: Kenny Collection" group-title="Pluto TV",South Park: Kenny Collection
+#EXTINF:-1 tvg-id="31bdc0c8-3311-4a1e-a5f6-02638130ef6b" tvg-name="South Park: Kenny Collection" group-title="Pluto TV",South Park: Kenny Collection
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5eb79511-267c-47ba-81ff-0fecf82efe48
 
-#EXTINF:-1 tvg-id="19c362fe-b30c-47c2-ac14-0dd64a7d450e" tvg-name="South Park: Kyle Collection" group-title="Pluto TV",South Park: Kyle Collection
+#EXTINF:-1 tvg-id="d3f0fe74-c697-4ccb-945a-d5229ec4c555" tvg-name="South Park: Kyle Collection" group-title="Pluto TV",South Park: Kyle Collection
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b1768ae2-1829-4ae1-981d-a543f1f52921
 
-#EXTINF:-1 tvg-id="192c67f8-a253-4d4d-89c8-f7fde614f793" tvg-name="South Park: Original Version" group-title="Pluto TV",South Park: Original Version
+#EXTINF:-1 tvg-id="dd0ad10c-e549-437a-ad32-3a2ab94668b1" tvg-name="South Park: Original Version" group-title="Pluto TV",South Park: Original Version
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b150a15939400089e2702/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=86f48318-a5d2-4298-8a19-ecba1c5ef177
 
-#EXTINF:-1 tvg-id="e16675c2-569b-45be-9de8-bc1355e0195d" tvg-name="South Park: Stan Collection" group-title="Pluto TV",South Park: Stan Collection
+#EXTINF:-1 tvg-id="0abbfa67-fe87-4f3b-9372-8147a05c246d" tvg-name="South Park: Stan Collection" group-title="Pluto TV",South Park: Stan Collection
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1438e94c3800082a8cff/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=53b85ab3-2d7e-4e2f-89cc-d04155db1f6b
 
 #EXTINF:-1 tvg-id="CuriosityChannel.de@SD" tvg-name="SPIEGEL TV" group-title="Pluto TV",SPIEGEL TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bdd2b620-2d3a-4671-b8c1-46814844c83a
 
-#EXTINF:-1 tvg-id="2e2bacef-48a5-491a-a824-f105c30f7744" tvg-name="SPIEGEL TV Konflikte" group-title="Pluto TV",SPIEGEL TV Konflikte
+#EXTINF:-1 tvg-id="75a46489-ea5f-4675-b8ba-32632eae7e4a" tvg-name="SPIEGEL TV Konflikte" group-title="Pluto TV",SPIEGEL TV Konflikte
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b9268fc798e800085add89/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=da1cadf7-0a5b-4b03-997c-c2a19a8e29ed
 
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" tvg-name="SpongeBob Schwammkopf" group-title="Pluto TV",SpongeBob Schwammkopf
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=08e94cb5-cbfe-47bf-8a8c-06c2fb63bded
 
-#EXTINF:-1 tvg-id="a5616466-f58b-4dcb-ade1-4823b918cdfc" tvg-name="Stand-up Comedy" group-title="Pluto TV",Stand-up Comedy
+#EXTINF:-1 tvg-id="9703f58b-4f52-4a42-bc37-8dce953b8bf1" tvg-name="Stand-up Comedy" group-title="Pluto TV",Stand-up Comedy
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663e09b341af640008c1b68c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=cf3529d0-1a2b-48b9-ba89-94b4036fe059
 
-#EXTINF:-1 tvg-id="89317776-1fd0-4a20-9a4c-e8dd779f6cb0" tvg-name="Star Trek: Deep Space Nine" group-title="Pluto TV",Star Trek: Deep Space Nine
+#EXTINF:-1 tvg-id="2bcf6a0c-6c8f-48ff-b2e8-292aa472de98" tvg-name="Star Trek: Deep Space Nine" group-title="Pluto TV",Star Trek: Deep Space Nine
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=db1d29ec-0699-423c-b557-3c4bdca9ec07
 
-#EXTINF:-1 tvg-id="82163b5f-55fb-41f8-aeb5-d1b3aaef9fcf" tvg-name="Star Trek: Enterprise" group-title="Pluto TV",Star Trek: Enterprise
+#EXTINF:-1 tvg-id="d3ad60cd-653f-4608-b486-975b5bfc6fc2" tvg-name="Star Trek: Enterprise" group-title="Pluto TV",Star Trek: Enterprise
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66337ed7a0a74e0008895699/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=31f38aa2-e734-45a5-8a2a-4feef1a10310
 
-#EXTINF:-1 tvg-id="0c135327-8b31-4ea4-812f-8ed840bb551b" tvg-name="Star Trek: Voyager" group-title="Pluto TV",Star Trek: Voyager
+#EXTINF:-1 tvg-id="a8efbcd4-ff31-4cf5-a5c4-73f0f322d331" tvg-name="Star Trek: Voyager" group-title="Pluto TV",Star Trek: Voyager
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6690fcb7d51259000880d479/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e0192389-0469-4e9c-8fe5-9be77598a2f7
 
-#EXTINF:-1 tvg-id="61cdf4e3-f6b1-4956-954c-b0f48edd1726" tvg-name="Stromberg" group-title="Pluto TV",Stromberg
+#EXTINF:-1 tvg-id="430766da-e48b-41d8-bac2-558ae9fb6104" tvg-name="Stromberg" group-title="Pluto TV",Stromberg
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686cff3224918d4300fa542b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7cdb1709-380e-4932-b11d-f399875c9712
 
-#EXTINF:-1 tvg-id="f441754c-8deb-4f8a-8722-7c71eaf64a47" tvg-name="Swamp People" group-title="Pluto TV",Swamp People
+#EXTINF:-1 tvg-id="9a1802a3-8448-45cd-a74d-8ad41340d6a0" tvg-name="Swamp People" group-title="Pluto TV",Swamp People
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/691491c6bb69fb3258c3524a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=15689db2-e333-4511-b14f-b599fde75164
 
 #EXTINF:-1 tvg-id="TakeshisCastle.us@Germany" tvg-name="Takeshi's Castle" group-title="Pluto TV",Takeshi's Castle
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f91871f4-d9f1-42fd-b9bb-f0846fc0e2d6
 
-#EXTINF:-1 tvg-id="9149063e-a2aa-4e2a-879f-afffe98a2e08" tvg-name="Täterjagd" group-title="Pluto TV",Täterjagd
+#EXTINF:-1 tvg-id="469584e1-25c9-4ed8-b09e-7b81f9673961" tvg-name="Täterjagd" group-title="Pluto TV",Täterjagd
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642abea1283aa4000805bb5b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d30651f0-fd3f-44e1-8f59-f8afb1dd96aa
 
-#EXTINF:-1 tvg-id="f4ce8cc8-95e2-4431-a1ee-4305f22174e7" tvg-name="Telenovela ZDF" group-title="Pluto TV",Telenovela ZDF
+#EXTINF:-1 tvg-id="bd00261b-fffb-462b-bf24-7925e595137e" tvg-name="Telenovela ZDF" group-title="Pluto TV",Telenovela ZDF
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ad21f9b2-6094-4d38-a572-ce907141827a
 
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-name="Tennis Channel" group-title="Pluto TV",Tennis Channel
@@ -529,57 +529,57 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-name="Terra Mater WILD" group-title="Pluto TV",Terra Mater WILD
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b923f90cb1a100088a03ab/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4c0122a6-be03-476e-9a24-27eec95741dc
 
-#EXTINF:-1 tvg-id="229029b7-6ccc-406c-bcac-f8f6d3ea388e" tvg-name="The L Word – Wenn Frauen lieben" group-title="Pluto TV",The L Word – Wenn Frauen lieben
+#EXTINF:-1 tvg-id="7d75c759-0646-4761-9124-2a428766eda0" tvg-name="The L Word – Wenn Frauen lieben" group-title="Pluto TV",The L Word – Wenn Frauen lieben
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68d2759a59fd82da3226492d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3714c947-4258-4363-a897-0fa9e19c7adb
 
-#EXTINF:-1 tvg-id="dd4bc981-43a4-4b58-b836-d71e10c36a8f" tvg-name="The Real Housewives" group-title="Pluto TV",The Real Housewives
+#EXTINF:-1 tvg-id="220b57f3-4005-4187-9639-241346332a31" tvg-name="The Real Housewives" group-title="Pluto TV",The Real Housewives
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677fb0231da79bfe4fb0bf4e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=805f3fc0-db06-452e-8c5a-3a85fb143a72
 
-#EXTINF:-1 tvg-id="71e86303-c2a9-428b-96a0-13110904c106" tvg-name="Top Gear" group-title="Pluto TV",Top Gear
+#EXTINF:-1 tvg-id="9946fdf7-4bd2-4e48-9503-6d4bb489ff21" tvg-name="Top Gear" group-title="Pluto TV",Top Gear
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=85b8f404-47c2-4e1b-9bab-d46f6af6cba5
 
 #EXTINF:-1 tvg-id="TotallyTurtles.us@Germany" tvg-name="Totally Turtles" group-title="Pluto TV",Totally Turtles
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e6593c38-33b6-4cec-a760-73145514f5cd
 
-#EXTINF:-1 tvg-id="9336d373-ab1c-483c-a3ee-744fc94efec9" tvg-name="Transformers TV" group-title="Pluto TV",Transformers TV
+#EXTINF:-1 tvg-id="a2d0b41e-f026-406b-876d-c9155cd42901" tvg-name="Transformers TV" group-title="Pluto TV",Transformers TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d720ff5c-28e4-444b-98db-2c641fa9a14c
 
-#EXTINF:-1 tvg-id="2b420850-c1b3-4ef9-bf56-be7af6b65281" tvg-name="Unentdeckt – Mörder unter uns" group-title="Pluto TV",Unentdeckt – Mörder unter uns
+#EXTINF:-1 tvg-id="bc63eee9-69ca-4abb-8b34-d99b484f0ba3" tvg-name="Unentdeckt – Mörder unter uns" group-title="Pluto TV",Unentdeckt – Mörder unter uns
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=95f83acf-fda5-4a38-b3d1-7a439a2f3b86
 
-#EXTINF:-1 tvg-id="318f7c37-e563-4a1f-9708-744f600c0c75" tvg-name="Unforgettable" group-title="Pluto TV",Unforgettable
+#EXTINF:-1 tvg-id="f34054bf-3afe-41a7-9cd8-0bf4a7fe7de9" tvg-name="Unforgettable" group-title="Pluto TV",Unforgettable
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adb92a1217e00091a3eff/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3bed4bdf-06a9-42bc-a4ea-0f4d7253bcff
 
 #EXTINF:-1 tvg-id="Victorious.us@Germany" tvg-name="Victorious" group-title="Pluto TV",Victorious
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ef6348f8-7744-4614-a0db-f60165641a37
 
-#EXTINF:-1 tvg-id="d2216236-dddf-4fce-afba-1f7c97fd5979" tvg-name="Wentworth" group-title="Pluto TV",Wentworth
+#EXTINF:-1 tvg-id="85348784-cca2-47a3-9b92-66411876f583" tvg-name="Wentworth" group-title="Pluto TV",Wentworth
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ebc104f7c5d70b90368360/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=0b2ea879-92ee-4c22-9bc3-88bb5663dea7
 
-#EXTINF:-1 tvg-id="6c3a1c11-9be9-4f67-aef0-3cf328510d50" tvg-name="Wer ist hier der Boss?" group-title="Pluto TV",Wer ist hier der Boss?
+#EXTINF:-1 tvg-id="e5fb185d-3e88-41ee-842b-96c199a9a145" tvg-name="Wer ist hier der Boss?" group-title="Pluto TV",Wer ist hier der Boss?
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609539fa709d6b0007b19887/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c37f4d5a-405b-4298-87c2-89a51436ed73
 
-#EXTINF:-1 tvg-id="2718e723-e4a4-4f0b-8b81-da6dd2655423" tvg-name="Wicked Tuna" group-title="Pluto TV",Wicked Tuna
+#EXTINF:-1 tvg-id="2400e08b-49dc-4f54-88a2-52d9a68ff42e" tvg-name="Wicked Tuna" group-title="Pluto TV",Wicked Tuna
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253d66c52b3600083d8dd2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3c62ddde-d81a-4cb0-b7de-e6f4b1faa90e
 
-#EXTINF:-1 tvg-id="00e47b2e-569a-4997-bca3-8f5d02d0bc0e" tvg-name="Willkommen bei den Louds" group-title="Pluto TV",Willkommen bei den Louds
+#EXTINF:-1 tvg-id="cf92d8e4-1473-4061-bebd-3ff08e516ae5" tvg-name="Willkommen bei den Louds" group-title="Pluto TV",Willkommen bei den Louds
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5e3ee7b0-7590-457f-b143-7e87c7335ef6
 
-#EXTINF:-1 tvg-id="fd221db4-c9fc-4744-955b-a206d1789528" tvg-name="Wings – Die Überflieger" group-title="Pluto TV",Wings – Die Überflieger
+#EXTINF:-1 tvg-id="6ab70333-77b0-46cb-b1ab-b0c12a7209b4" tvg-name="Wings – Die Überflieger" group-title="Pluto TV",Wings – Die Überflieger
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b38e310d9ab400082bdec2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f1f7b7da-f7ec-49aa-8391-5458ff860ecc
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-name="World Poker Tour" group-title="Pluto TV",World Poker Tour
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8d53eedd-6d6d-4c0e-a98c-66e8d4cc27ba
 
-#EXTINF:-1 tvg-id="2a7d86db-60ff-4ebd-b463-2968db9a297e" tvg-name="X-Factor: Das Unfassbare" group-title="Pluto TV",X-Factor: Das Unfassbare
+#EXTINF:-1 tvg-id="cab84e87-da1d-4a3c-a7c9-337f0aac0bd6" tvg-name="X-Factor: Das Unfassbare" group-title="Pluto TV",X-Factor: Das Unfassbare
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bb223b97-086b-4562-a07a-e71e864faa7e
 
-#EXTINF:-1 tvg-id="51d71b21-5e2f-47d0-b3db-0b408169642f" tvg-name="Xena – Die Kriegerprinzessin" group-title="Pluto TV",Xena – Die Kriegerprinzessin
+#EXTINF:-1 tvg-id="190329a0-ec36-44ea-bf2c-4d1653d75b36" tvg-name="Xena – Die Kriegerprinzessin" group-title="Pluto TV",Xena – Die Kriegerprinzessin
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca2c99d5ac400080d1324/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ad6ea8bd-52ba-4fe9-b819-e2d11ebf8c26
 
-#EXTINF:-1 tvg-id="08b5e94b-c18d-466e-bc25-f757eb45fc0e" tvg-name="Yu-Gi-Oh!" group-title="Pluto TV",Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="4327dbfa-4b9f-4df0-a749-f6d655f3d771" tvg-name="Yu-Gi-Oh!" group-title="Pluto TV",Yu-Gi-Oh!
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f9f418be-961b-41bd-92e6-4b41fbbbaaad
 
-#EXTINF:-1 tvg-id="aeebafb1-4cdd-460a-a6ce-d232b4ae6260" tvg-name="Zoey 101" group-title="Pluto TV",Zoey 101
+#EXTINF:-1 tvg-id="04120672-c1b9-4490-a588-60acb52cfac0" tvg-name="Zoey 101" group-title="Pluto TV",Zoey 101
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c69e6c4207be0007f73c22/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=209055f8-3f11-42df-9d99-2a03cb771a73
 
