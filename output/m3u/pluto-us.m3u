@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="550c2d52-ce52-42d8-ba52-89dd90f2a8b7" tvg-name="00s Replay" group-title="Pluto TV",00s Replay
+#EXTINF:-1 tvg-id="f797a753-80ab-488c-9709-d9b62cdaf96f" tvg-name="00s Replay" group-title="Pluto TV",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 
 #EXTINF:-1 tvg-id="48Hours.us@SD" tvg-name="48 Hours" group-title="Pluto TV",48 Hours
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
 
-#EXTINF:-1 tvg-id="25f30539-d6db-4379-a61b-aa342f06a7b5" tvg-name="50 Cent Action" group-title="Pluto TV",50 Cent Action
+#EXTINF:-1 tvg-id="b15c596c-0dfc-4338-98bc-3212c7f6a9c3" tvg-name="50 Cent Action" group-title="Pluto TV",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 
-#EXTINF:-1 tvg-id="67c3c2b5-80b6-47ab-9b05-98c2023e5bb2" tvg-name="60 Minutes" group-title="Pluto TV",60 Minutes
+#EXTINF:-1 tvg-id="dd017c5d-7110-481e-830c-ef8f33f30bad" tvg-name="60 Minutes" group-title="Pluto TV",60 Minutes
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 
 #EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-name="70s Cinema" group-title="Pluto TV",70s Cinema
@@ -19,16 +19,16 @@ https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-id="80sRewind.us@SD" tvg-name="80s Rewind" group-title="Pluto TV",80s Rewind
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 
-#EXTINF:-1 tvg-id="1d124b83-a099-4e62-b505-1c68e1a74d3c" tvg-name="90's Kids" group-title="Pluto TV",90's Kids
+#EXTINF:-1 tvg-id="5651e466-1a73-4d12-945c-8768e29d59f2" tvg-name="90's Kids" group-title="Pluto TV",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
-#EXTINF:-1 tvg-id="3a7c8252-b63e-49b3-b7b5-26739f00b167" tvg-name="90s Kids TV 2" group-title="Pluto TV",90s Kids TV 2
+#EXTINF:-1 tvg-id="e08eb567-0483-4629-9964-7a7e61d74220" tvg-name="90s Kids TV 2" group-title="Pluto TV",90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
 #EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-name="90s Throwback" group-title="Pluto TV",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 
-#EXTINF:-1 tvg-id="c50415b5-a001-4570-be6a-8dc817121713" tvg-name="A&E Crime 360" group-title="Pluto TV",A&E Crime 360
+#EXTINF:-1 tvg-id="719fe6f6-f007-4e18-989e-0ceffa92a9ab" tvg-name="A&E Crime 360" group-title="Pluto TV",A&E Crime 360
 https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live" group-title="Pluto TV",ABC News Live
@@ -43,10 +43,10 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 #EXTINF:-1 tvg-id="ALLBLKGems.us@SD" tvg-name="ALLBLK Gems" group-title="Pluto TV",ALLBLK Gems
 https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
 
-#EXTINF:-1 tvg-id="b3c4289f-694d-496a-8800-b5419ae4cabc" tvg-name="America's Funniest Home Videos" group-title="Pluto TV",America's Funniest Home Videos
+#EXTINF:-1 tvg-id="f6c8ace0-4806-414f-a5fb-069cd1d170b1" tvg-name="America's Funniest Home Videos" group-title="Pluto TV",America's Funniest Home Videos
 https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
 
-#EXTINF:-1 tvg-id="7e46e9dc-cfe4-4800-92a5-7c8b577a934c" tvg-name="America's Next Top Model" group-title="Pluto TV",America's Next Top Model
+#EXTINF:-1 tvg-id="ae73551a-56ed-4da8-abc0-09c9431ebc60" tvg-name="America's Next Top Model" group-title="Pluto TV",America's Next Top Model
 https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
 
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-name="America's Test Kitchen" group-title="Pluto TV",America's Test Kitchen
@@ -55,13 +55,13 @@ https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-id="AmericasVoiceNews.us@SD" tvg-name="America's Voice News" group-title="Pluto TV",America's Voice News
 https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 
-#EXTINF:-1 tvg-id="c1ccac3b-d80c-4a39-8bba-5ca9e3a8d331" tvg-name="American Crimes" group-title="Pluto TV",American Crimes
+#EXTINF:-1 tvg-id="4ab73ca5-8d8d-44bd-8de7-4253a34e54f7" tvg-name="American Crimes" group-title="Pluto TV",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 
-#EXTINF:-1 tvg-id="0841b98f-dd3b-4eb2-8a47-be13977ffd46" tvg-name="Ancient Aliens" group-title="Pluto TV",Ancient Aliens
+#EXTINF:-1 tvg-id="dceb6b15-692d-42d3-b11e-0bde3ae949cc" tvg-name="Ancient Aliens" group-title="Pluto TV",Ancient Aliens
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
 
-#EXTINF:-1 tvg-id="03e33bb4-e94d-4e14-97f2-190b9b9677bd" tvg-name="ANIME x HIDIVE" group-title="Pluto TV",ANIME x HIDIVE
+#EXTINF:-1 tvg-id="9b7cc058-b16a-4cb5-ab66-6cb44a11936f" tvg-name="ANIME x HIDIVE" group-title="Pluto TV",ANIME x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" tvg-name="Antiques Road Trip" group-title="Pluto TV",Antiques Road Trip
@@ -70,13 +70,13 @@ https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-name="Antiques Roadshow UK" group-title="Pluto TV",Antiques Roadshow UK
 https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
 
-#EXTINF:-1 tvg-id="5703e7f3-bf09-4b0d-894e-46f2ae0f0b1b" tvg-name="AWSN" group-title="Pluto TV",AWSN
+#EXTINF:-1 tvg-id="d3dd5e53-637d-445c-816e-5750fc8dda11" tvg-name="AWSN" group-title="Pluto TV",AWSN
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
 
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-name="Baby Shark TV" group-title="Pluto TV",Baby Shark TV
 https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
-#EXTINF:-1 tvg-id="ea735f6c-84af-47a2-b9d7-23ebbc9819bb" tvg-name="Bad Girls Club" group-title="Pluto TV",Bad Girls Club
+#EXTINF:-1 tvg-id="503a436d-3bee-4a36-bc61-a0bd94852f69" tvg-name="Bad Girls Club" group-title="Pluto TV",Bad Girls Club
 https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 
 #EXTINF:-1 tvg-id="BarRescue.us@SD" tvg-name="Bar Rescue" group-title="Pluto TV",Bar Rescue
@@ -88,16 +88,16 @@ https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-name="BBC News" group-title="Pluto TV",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 
-#EXTINF:-1 tvg-id="b92ecfe3-4499-49fd-b31b-a3203476148e" tvg-name="Beach Day" group-title="Pluto TV",Beach Day
+#EXTINF:-1 tvg-id="858d6562-29f9-4be5-862d-6ab9482cd5ac" tvg-name="Beach Day" group-title="Pluto TV",Beach Day
 https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
 
 #EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-name="Bellator MMA" group-title="Pluto TV",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
-#EXTINF:-1 tvg-id="a6800cd6-1210-4cbb-a73a-3b330c4e8043" tvg-name="Best of Bobby Flay by Food Network" group-title="Pluto TV",Best of Bobby Flay by Food Network
+#EXTINF:-1 tvg-id="11912347-a10e-44b6-9ba3-511e19466539" tvg-name="Best of Bobby Flay by Food Network" group-title="Pluto TV",Best of Bobby Flay by Food Network
 https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 
-#EXTINF:-1 tvg-id="35ebbcdc-f27d-4e48-84d3-22aba73aba87" tvg-name="Best of Dr. Phil" group-title="Pluto TV",Best of Dr. Phil
+#EXTINF:-1 tvg-id="78b4d286-9602-4fa8-b8d1-8e930628ac5a" tvg-name="Best of Dr. Phil" group-title="Pluto TV",Best of Dr. Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
 
 #EXTINF:-1 tvg-id="BlackCinema.us@SD" tvg-name="BET Cinema" group-title="Pluto TV",BET Cinema
@@ -106,22 +106,22 @@ https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 tvg-id="BETClassicsPlutoTV.us@France" tvg-name="BET Classics" group-title="Pluto TV",BET Classics
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 
-#EXTINF:-1 tvg-id="c07ca5bd-bdc1-4670-8368-6b3da67c3380" tvg-name="BET Comedy Movies" group-title="Pluto TV",BET Comedy Movies
+#EXTINF:-1 tvg-id="141ad1b1-fb71-4c22-a4fe-45e0a758c0f6" tvg-name="BET Comedy Movies" group-title="Pluto TV",BET Comedy Movies
 https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 
 #EXTINF:-1 tvg-id="BETPlutoTV.us@US" tvg-name="BET Pluto TV" group-title="Pluto TV",BET Pluto TV
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 
-#EXTINF:-1 tvg-id="cd2b596e-39f3-4f9a-b441-80ca566094df" tvg-name="BET Throwbacks" group-title="Pluto TV",BET Throwbacks
+#EXTINF:-1 tvg-id="889f9715-89f8-42e5-af29-a448f860f24e" tvg-name="BET Throwbacks" group-title="Pluto TV",BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 
-#EXTINF:-1 tvg-id="60428377-6a85-4de5-8217-9225e1e6fb12" tvg-name="BET Visionaries" group-title="Pluto TV",BET Visionaries
+#EXTINF:-1 tvg-id="4c929d9e-544b-4368-93f7-750be4539069" tvg-name="BET Visionaries" group-title="Pluto TV",BET Visionaries
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 
-#EXTINF:-1 tvg-id="e91e971f-1bd1-42a0-938d-81b7b661595b" tvg-name="BET x Tyler Perry Comedy" group-title="Pluto TV",BET x Tyler Perry Comedy
+#EXTINF:-1 tvg-id="9b04d79d-b8eb-40ea-b878-fbf01676eb6b" tvg-name="BET x Tyler Perry Comedy" group-title="Pluto TV",BET x Tyler Perry Comedy
 https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8
 
-#EXTINF:-1 tvg-id="b3210439-ebf4-4d91-b2e4-1dbda23718b9" tvg-name="BET x Tyler Perry Drama" group-title="Pluto TV",BET x Tyler Perry Drama
+#EXTINF:-1 tvg-id="e021bdb0-c38b-48f1-a68c-98d0655b0e5e" tvg-name="BET x Tyler Perry Drama" group-title="Pluto TV",BET x Tyler Perry Drama
 https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
 
 #EXTINF:-1 tvg-id="BeverlyHillbillies.us@US" tvg-name="Beverly Hillbillies" group-title="Pluto TV",Beverly Hillbillies
@@ -130,13 +130,13 @@ https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 #EXTINF:-1 tvg-id="BeverlyHills90210.us@Germany" tvg-name="Beverly Hills 90210" group-title="Pluto TV",Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 
-#EXTINF:-1 tvg-id="91ceea7a-a0db-4f17-96dd-d5908acc52b8" tvg-name="Beyond the Gates" group-title="Pluto TV",Beyond the Gates
+#EXTINF:-1 tvg-id="ae395250-317e-4335-8152-2f84026221a0" tvg-name="Beyond the Gates" group-title="Pluto TV",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 
-#EXTINF:-1 tvg-id="a595198c-3a04-46c4-8c1e-81904cd0602a" tvg-name="Big Brother" group-title="Pluto TV",Big Brother
+#EXTINF:-1 tvg-id="e2c7f46e-7273-4dca-9616-735c84a04259" tvg-name="Big Brother" group-title="Pluto TV",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 
-#EXTINF:-1 tvg-id="7d43f356-ae75-4df3-a1c1-ad8d41f3b219" tvg-name="Black Family Sitcoms" group-title="Pluto TV",Black Family Sitcoms
+#EXTINF:-1 tvg-id="2fd040f7-1a4f-466b-a796-e0e226ba7a03" tvg-name="Black Family Sitcoms" group-title="Pluto TV",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 
 #EXTINF:-1 tvg-id="BlackInkCrew.us@SD" tvg-name="Black Ink Crew" group-title="Pluto TV",Black Ink Crew
@@ -151,13 +151,13 @@ https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 #EXTINF:-1 tvg-id="BlueBloods.us@SD" tvg-name="Blue Bloods" group-title="Pluto TV",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 
-#EXTINF:-1 tvg-id="56d3a6e8-a72e-4cff-9fd7-5d135c672a92" tvg-name="Bonanza" group-title="Pluto TV",Bonanza
+#EXTINF:-1 tvg-id="d1440ff5-9821-4997-be74-334f63c2fc31" tvg-name="Bonanza" group-title="Pluto TV",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 
 #EXTINF:-1 tvg-id="BounceXL.us@SD" tvg-name="Bounce XL" group-title="Pluto TV",Bounce XL
 https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
 
-#EXTINF:-1 tvg-id="f262c84d-4124-454a-b690-1e9efb644da5" tvg-name="Bravo Vault" group-title="Pluto TV",Bravo Vault
+#EXTINF:-1 tvg-id="ae32b576-08ed-4c64-b3d0-e0f5b77a5cce" tvg-name="Bravo Vault" group-title="Pluto TV",Bravo Vault
 https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
 
 #EXTINF:-1 tvg-id="BritBoxMysteries.us@SD" tvg-name="BritBox Mysteries" group-title="Pluto TV",BritBox Mysteries
@@ -166,13 +166,13 @@ https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us@SD" tvg-name="BUZZR" group-title="Pluto TV",BUZZR
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 
-#EXTINF:-1 tvg-id="3998e70d-01f9-4122-90af-4f4b70f9ac7a" tvg-name="Car Chase" group-title="Pluto TV",Car Chase
+#EXTINF:-1 tvg-id="4dc57d93-bbfd-4e79-868f-e3d360d1fdb2" tvg-name="Car Chase" group-title="Pluto TV",Car Chase
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
-#EXTINF:-1 tvg-id="ee9c171e-bb21-49a9-a056-63b1dbf5274b" tvg-name="Casos de la Dra. Polo" group-title="Pluto TV",Casos de la Dra. Polo
+#EXTINF:-1 tvg-id="27fb566d-a358-46b5-810c-14ce6a897e6c" tvg-name="Casos de la Dra. Polo" group-title="Pluto TV",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 
-#EXTINF:-1 tvg-id="47202cc5-4f12-4b22-93aa-c37a7610e1be" tvg-name="CBS en español" group-title="Pluto TV",CBS en español
+#EXTINF:-1 tvg-id="3a3b9a7a-ff02-4753-a5dc-896eb2ebc7d2" tvg-name="CBS en español" group-title="Pluto TV",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" group-title="Pluto TV",CBS News 24/7
@@ -184,7 +184,7 @@ https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-name="CBS News Bay Area" group-title="Pluto TV",CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
 
-#EXTINF:-1 tvg-id="540d7acd-1a09-4a10-8f8d-d5d25ac5c79f" tvg-name="CBS News Bay Area" group-title="Pluto TV",CBS News Bay Area
+#EXTINF:-1 tvg-id="635fa54d-a448-4a5d-b3a8-d7e4291512c8" tvg-name="CBS News Bay Area" group-title="Pluto TV",CBS News Bay Area
 https://jmp2.uk/plu-62cdc6c5a698740007d299b1.m3u8
 
 #EXTINF:-1 tvg-id="CBSNewsBoston.us@SD" tvg-name="CBS News Boston" group-title="Pluto TV",CBS News Boston
@@ -208,7 +208,7 @@ https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us@SD" tvg-name="CBS News Miami" group-title="Pluto TV",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
 
-#EXTINF:-1 tvg-id="627efac1-6557-4f17-bbd7-df663aad5852" tvg-name="CBS News Miami" group-title="Pluto TV",CBS News Miami
+#EXTINF:-1 tvg-id="77b05936-62ec-4cc4-8e12-aa349fa3b820" tvg-name="CBS News Miami" group-title="Pluto TV",CBS News Miami
 https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us@SD" tvg-name="CBS News Minnesota" group-title="Pluto TV",CBS News Minnesota
@@ -220,7 +220,7 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD" tvg-name="CBS News New York" group-title="Pluto TV",CBS News New York
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 
-#EXTINF:-1 tvg-id="f8117641-098b-41c8-90e9-e1ab21a15f20" tvg-name="CBS News Philadelphia" group-title="Pluto TV",CBS News Philadelphia
+#EXTINF:-1 tvg-id="0e6c5428-1ab1-4f76-a0d4-cd10f19950ce" tvg-name="CBS News Philadelphia" group-title="Pluto TV",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 
 #EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD" tvg-name="CBS News Pittsburgh" group-title="Pluto TV",CBS News Pittsburgh
@@ -229,31 +229,31 @@ https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
 #EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD" tvg-name="CBS News Sacramento" group-title="Pluto TV",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
 
-#EXTINF:-1 tvg-id="4ec50e39-5ccd-4409-8629-ebefb13a5cd1" tvg-name="CBS News Texas" group-title="Pluto TV",CBS News Texas
+#EXTINF:-1 tvg-id="57c1ec55-1033-41ec-9cac-039e1cde7cb2" tvg-name="CBS News Texas" group-title="Pluto TV",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-name="CBS Sports HQ" group-title="Pluto TV",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
-#EXTINF:-1 tvg-id="41ca4ae4-cccc-466b-b9e5-3ab5088aadae" tvg-name="Cheaters" group-title="Pluto TV",Cheaters
+#EXTINF:-1 tvg-id="ab4b1315-82f2-410d-be07-fdec3b608970" tvg-name="Cheaters" group-title="Pluto TV",Cheaters
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 
-#EXTINF:-1 tvg-id="72e0c3dc-0156-4dcf-ad0b-fc95fad770ce" tvg-name="Cheers + Frasier" group-title="Pluto TV",Cheers + Frasier
+#EXTINF:-1 tvg-id="7c71b7bf-3b9d-4fb0-9f64-122a67cb27fb" tvg-name="Cheers + Frasier" group-title="Pluto TV",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 
-#EXTINF:-1 tvg-id="2b3a5a2e-2e36-4513-ba19-ba1706ed70c7" tvg-name="Chef vs Chef by Food Network" group-title="Pluto TV",Chef vs Chef by Food Network
+#EXTINF:-1 tvg-id="2b1480c2-f7d4-422e-8ca3-8c754ec02e80" tvg-name="Chef vs Chef by Food Network" group-title="Pluto TV",Chef vs Chef by Food Network
 https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
 
-#EXTINF:-1 tvg-id="49fb256d-0a7c-4aa7-adf8-3c4d2bd72b2d" tvg-name="Chip & Jo: Feels Like Home by Magnolia Network" group-title="Pluto TV",Chip & Jo: Feels Like Home by Magnolia Network
+#EXTINF:-1 tvg-id="ef05b553-70cb-4cc4-b0a7-ab5b1c8e4faa" tvg-name="Chip & Jo: Feels Like Home by Magnolia Network" group-title="Pluto TV",Chip & Jo: Feels Like Home by Magnolia Network
 https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 
 #EXTINF:-1 tvg-id="CineAdrenalina.us@SD" tvg-name="Cine adrenalina" group-title="Pluto TV",Cine adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 
-#EXTINF:-1 tvg-id="2b3728d3-48c3-4e2a-9b6e-b8a2ef2de1bf" tvg-name="Cine Amor" group-title="Pluto TV",Cine Amor
+#EXTINF:-1 tvg-id="46029b6f-ab55-4e26-baae-57f1e90e0599" tvg-name="Cine Amor" group-title="Pluto TV",Cine Amor
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 
-#EXTINF:-1 tvg-id="cae3a41f-8210-460f-a93a-b0abea2cdc00" tvg-name="Cine aventura" group-title="Pluto TV",Cine aventura
+#EXTINF:-1 tvg-id="ac2e990e-09b5-4dd3-8ebe-fea1eb4f3b6a" tvg-name="Cine aventura" group-title="Pluto TV",Cine aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCineClasico.us@US" tvg-name="Cine Clásico" group-title="Pluto TV",Cine Clásico
@@ -262,10 +262,10 @@ https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@Spain" tvg-name="Cine comedia" group-title="Pluto TV",Cine comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 
-#EXTINF:-1 tvg-id="f6c76f5a-1430-41ba-ba6e-b9e53c1dcf60" tvg-name="Cine Crimen" group-title="Pluto TV",Cine Crimen
+#EXTINF:-1 tvg-id="5dd51017-89f5-4ac6-8280-920bbf5a6136" tvg-name="Cine Crimen" group-title="Pluto TV",Cine Crimen
 https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8
 
-#EXTINF:-1 tvg-id="0ccb74a9-fd2b-4971-a97b-57c992566a61" tvg-name="Cine en español" group-title="Pluto TV",Cine en español
+#EXTINF:-1 tvg-id="8c526ad7-8d3f-4051-81d0-d1d8dfc57004" tvg-name="Cine en español" group-title="Pluto TV",Cine en español
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 
 #EXTINF:-1 tvg-id="CinePremiere.us@SD" tvg-name="Cine Premiere" group-title="Pluto TV",Cine Premiere
@@ -274,7 +274,7 @@ https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us@SD" tvg-name="Cine terror" group-title="Pluto TV",Cine terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
-#EXTINF:-1 tvg-id="83443948-e436-45ce-8866-f03ce4ab3e97" tvg-name="Classic Movie Westerns" group-title="Pluto TV",Classic Movie Westerns
+#EXTINF:-1 tvg-id="f02de781-13c7-49d2-a548-6a80203c29d5" tvg-name="Classic Movie Westerns" group-title="Pluto TV",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us@SD" tvg-name="Classic Movies Channel" group-title="Pluto TV",Classic Movies Channel
@@ -283,7 +283,7 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 #EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-name="Classic TV Comedy" group-title="Pluto TV",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 
-#EXTINF:-1 tvg-id="dd8b9840-917a-4224-b0e9-2616c2bdc918" tvg-name="Classic TV Crime Drama" group-title="Pluto TV",Classic TV Crime Drama
+#EXTINF:-1 tvg-id="9b434c9e-f98d-4e50-a43f-21b5812ec2bc" tvg-name="Classic TV Crime Drama" group-title="Pluto TV",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 
 #EXTINF:-1 tvg-id="ClassicTVDrama.us@SD" tvg-name="Classic TV Drama" group-title="Pluto TV",Classic TV Drama
@@ -298,7 +298,7 @@ https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us@SD" tvg-name="CMT Equal Play" group-title="Pluto TV",CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 
-#EXTINF:-1 tvg-id="eba7fe5e-d155-4aac-9994-fd7d7c43bfac" tvg-name="Cold Case Files by A&E" group-title="Pluto TV",Cold Case Files by A&E
+#EXTINF:-1 tvg-id="c507f1ad-805c-4942-b7b4-88d1225e8016" tvg-name="Cold Case Files by A&E" group-title="Pluto TV",Cold Case Files by A&E
 https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-name="Comedy Central en español" group-title="Pluto TV",Comedy Central en español
@@ -307,10 +307,10 @@ https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-name="Comedy Central Pluto TV" group-title="Pluto TV",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 
-#EXTINF:-1 tvg-id="c5465b12-f68b-4e74-a043-d1fbc3a1ed9d" tvg-name="Confess by Nosey" group-title="Pluto TV",Confess by Nosey
+#EXTINF:-1 tvg-id="7dd4eab6-1eb1-412a-aced-cb42e7bec046" tvg-name="Confess by Nosey" group-title="Pluto TV",Confess by Nosey
 https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
 
-#EXTINF:-1 tvg-id="2279368c-3378-4406-b15c-6780a07a08f1" tvg-name="Construcciones Asombrosas" group-title="Pluto TV",Construcciones Asombrosas
+#EXTINF:-1 tvg-id="0e74c148-b88e-45d5-9462-1f81ded9665e" tvg-name="Construcciones Asombrosas" group-title="Pluto TV",Construcciones Asombrosas
 https://jmp2.uk/plu-673249433a61d400087a51ed.m3u8
 
 #EXTINF:-1 tvg-id="Cops.us@SD" tvg-name="COPS" group-title="Pluto TV",COPS
@@ -319,16 +319,16 @@ https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-name="Court TV" group-title="Pluto TV",Court TV
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 
-#EXTINF:-1 tvg-id="67d6980f-cde4-4a3f-876a-61153ef5e958" tvg-name="Crimen" group-title="Pluto TV",Crimen
+#EXTINF:-1 tvg-id="c2fd9aca-ee85-40b6-ae3c-719d8a0c48b7" tvg-name="Crimen" group-title="Pluto TV",Crimen
 https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
 
 #EXTINF:-1 tvg-id="CrimenesImperfectos.us@SD" tvg-name="Crímenes imperfectos" group-title="Pluto TV",Crímenes imperfectos
 https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
 
-#EXTINF:-1 tvg-id="c7b7e331-f343-487a-878c-49a35139b087" tvg-name="Criminal Minds" group-title="Pluto TV",Criminal Minds
+#EXTINF:-1 tvg-id="be1d36ef-bf93-4c5f-a961-28a17673d2d0" tvg-name="Criminal Minds" group-title="Pluto TV",Criminal Minds
 https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
 
-#EXTINF:-1 tvg-id="a09c6cb3-ff6f-4b36-a6d8-343bb0ccfbe0" tvg-name="Crunchyroll" group-title="Pluto TV",Crunchyroll
+#EXTINF:-1 tvg-id="aae44cde-2115-4507-a71b-6ccc5d3ea306" tvg-name="Crunchyroll" group-title="Pluto TV",Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
 #EXTINF:-1 tvg-id="CSI.us@SD" tvg-name="CSI" group-title="Pluto TV",CSI
@@ -337,28 +337,28 @@ https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 tvg-id="CSIenespanol.us@SD" tvg-name="CSI en Español" group-title="Pluto TV",CSI en Español
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
 
-#EXTINF:-1 tvg-id="a2a607c2-3396-48ce-afeb-badc12191e47" tvg-name="CSI: Miami" group-title="Pluto TV",CSI: Miami
+#EXTINF:-1 tvg-id="8148ed13-dbcc-4aa0-9a16-f29c72697019" tvg-name="CSI: Miami" group-title="Pluto TV",CSI: Miami
 https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
 
-#EXTINF:-1 tvg-id="d58bce0d-fae7-4355-83e3-582bdc0ffceb" tvg-name="CSI: Miami en español" group-title="Pluto TV",CSI: Miami en español
+#EXTINF:-1 tvg-id="57d54849-b268-4458-8c1d-786de3b63714" tvg-name="CSI: Miami en español" group-title="Pluto TV",CSI: Miami en español
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 
-#EXTINF:-1 tvg-id="c4705c8b-f529-4779-a157-55888bffd209" tvg-name="CSI: NY" group-title="Pluto TV",CSI: NY
+#EXTINF:-1 tvg-id="fdb9f295-2eb4-4926-9935-9f664f507bae" tvg-name="CSI: NY" group-title="Pluto TV",CSI: NY
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 
-#EXTINF:-1 tvg-id="53489915-1a19-4a97-9dd9-8d575a934126" tvg-name="CSI: NY en español" group-title="Pluto TV",CSI: NY en español
+#EXTINF:-1 tvg-id="86b883a5-681c-4d5f-b959-bbb5ecb16d59" tvg-name="CSI: NY en español" group-title="Pluto TV",CSI: NY en español
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
 
 #EXTINF:-1 tvg-id="Dateline247.us@SD" tvg-name="Dateline 24/7" group-title="Pluto TV",Dateline 24/7
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
 
-#EXTINF:-1 tvg-id="06d9359e-b528-43d9-9772-62c31108cfb2" tvg-name="Dating Disasters" group-title="Pluto TV",Dating Disasters
+#EXTINF:-1 tvg-id="04c7703b-076d-4a6f-afa9-c58e9a5717ae" tvg-name="Dating Disasters" group-title="Pluto TV",Dating Disasters
 https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
 
-#EXTINF:-1 tvg-id="42c085e8-3f9d-4c94-a628-10b2787af2c0" tvg-name="DAZN Ringside" group-title="Pluto TV",DAZN Ringside
+#EXTINF:-1 tvg-id="b8bfe119-c03e-4755-b65d-327de3ffd56d" tvg-name="DAZN Ringside" group-title="Pluto TV",DAZN Ringside
 https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
 
-#EXTINF:-1 tvg-id="1b108eaa-9889-44cb-b7b9-e43490066b70" tvg-name="DCC: Making the Team" group-title="Pluto TV",DCC: Making the Team
+#EXTINF:-1 tvg-id="cdf534b6-bbf3-4542-abbf-af7e807953f4" tvg-name="DCC: Making the Team" group-title="Pluto TV",DCC: Making the Team
 https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-name="Deal or No Deal" group-title="Pluto TV",Deal or No Deal
@@ -367,13 +367,13 @@ https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us@US" tvg-name="Degrassi" group-title="Pluto TV",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 
-#EXTINF:-1 tvg-id="51dca5bf-cdd8-4d4d-ba75-9e23afe9930f" tvg-name="Degrassi VIDAA TEST" group-title="Pluto TV",Degrassi VIDAA TEST
+#EXTINF:-1 tvg-id="5b401136-3c38-42ac-bbf0-159e36c5619d" tvg-name="Degrassi VIDAA TEST" group-title="Pluto TV",Degrassi VIDAA TEST
 https://jmp2.uk/plu-67c0a90621445314490642c8.m3u8
 
-#EXTINF:-1 tvg-id="faabc94e-452e-4e54-b735-ddc6c6e2bb83" tvg-name="Delicious Eats by Food Network" group-title="Pluto TV",Delicious Eats by Food Network
+#EXTINF:-1 tvg-id="c164ff10-e2ab-49ff-b26b-41f1ad378ef6" tvg-name="Delicious Eats by Food Network" group-title="Pluto TV",Delicious Eats by Food Network
 https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 
-#EXTINF:-1 tvg-id="e4b2e7a8-2fe8-4120-8fcd-bc4dad79fe4d" tvg-name="Dinos 24/7" group-title="Pluto TV",Dinos 24/7
+#EXTINF:-1 tvg-id="708a87a9-ab68-49aa-a1cd-8faf1e8f3ee0" tvg-name="Dinos 24/7" group-title="Pluto TV",Dinos 24/7
 https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
 
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-name="Doctor Who Classic" group-title="Pluto TV",Doctor Who Classic
@@ -382,19 +382,19 @@ https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-name="Dog the Bounty Hunter" group-title="Pluto TV",Dog the Bounty Hunter
 https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 
-#EXTINF:-1 tvg-id="793ea41c-15b0-4430-a3eb-90acfed78150" tvg-name="Dog Whisperer with Cesar Millan" group-title="Pluto TV",Dog Whisperer with Cesar Millan
+#EXTINF:-1 tvg-id="1394a41c-8544-4ef1-b7d2-32428069fd56" tvg-name="Dog Whisperer with Cesar Millan" group-title="Pluto TV",Dog Whisperer with Cesar Millan
 https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 
-#EXTINF:-1 tvg-id="f81fdef8-b041-47d3-9f22-4efff77c5585" tvg-name="Dynasty" group-title="Pluto TV",Dynasty
+#EXTINF:-1 tvg-id="2be9f408-4c83-4b2a-a6cc-8b4809b3081a" tvg-name="Dynasty" group-title="Pluto TV",Dynasty
 https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 
-#EXTINF:-1 tvg-id="24b086be-e154-4754-9583-a248fce86fc1" tvg-name="Ebony TV Drama" group-title="Pluto TV",Ebony TV Drama
+#EXTINF:-1 tvg-id="d46fb805-f932-49f0-8a20-2ddc82d4b24a" tvg-name="Ebony TV Drama" group-title="Pluto TV",Ebony TV Drama
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD" tvg-name="El Reino Infantil" group-title="Pluto TV",El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 
-#EXTINF:-1 tvg-id="a8e39f53-4c7a-4ea0-8124-726e39b53927" tvg-name="El Rey Rebel" group-title="Pluto TV",El Rey Rebel
+#EXTINF:-1 tvg-id="823b37d7-8cb7-423c-a357-581765ac7dc0" tvg-name="El Rey Rebel" group-title="Pluto TV",El Rey Rebel
 https://jmp2.uk/plu-691d1200c2185a44642f5e7c.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-name="Estrella News" group-title="Pluto TV",Estrella News
@@ -412,19 +412,19 @@ https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-name="FailArmy" group-title="Pluto TV",FailArmy
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 
-#EXTINF:-1 tvg-id="fbe1dbbd-3be5-49cf-a4aa-51140823b088" tvg-name="Family Feud" group-title="Pluto TV",Family Feud
+#EXTINF:-1 tvg-id="32b489b9-1e65-41db-a4cd-0c3a67361841" tvg-name="Family Feud" group-title="Pluto TV",Family Feud
 https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
 
-#EXTINF:-1 tvg-id="22698dd4-be7c-4bf2-99e7-17614f08894d" tvg-name="Family Feud Classic" group-title="Pluto TV",Family Feud Classic
+#EXTINF:-1 tvg-id="1623fc10-44a6-4018-9ab2-10292f1be372" tvg-name="Family Feud Classic" group-title="Pluto TV",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
 
 #EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-name="Family Ties" group-title="Pluto TV",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
-#EXTINF:-1 tvg-id="8e0213f4-ec36-4df5-86af-1b36e5b92c91" tvg-name="FanDuel TV Extra" group-title="Pluto TV",FanDuel TV Extra
+#EXTINF:-1 tvg-id="e778f31d-1de8-4680-81e0-a939a7044735" tvg-name="FanDuel TV Extra" group-title="Pluto TV",FanDuel TV Extra
 https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
 
-#EXTINF:-1 tvg-id="1ff8d548-525a-484a-a302-99619daee44c" tvg-name="Feel Good Drama" group-title="Pluto TV",Feel Good Drama
+#EXTINF:-1 tvg-id="b156facf-6aa2-4c05-97fd-ec947c1e9ce3" tvg-name="Feel Good Drama" group-title="Pluto TV",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 
 #EXTINF:-1 tvg-id="FlicksofFury.us@SD" tvg-name="Flicks of Fury" group-title="Pluto TV",Flicks of Fury
@@ -439,10 +439,10 @@ https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="FOX Deportes" group-title="Pluto TV",FOX Deportes
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
-#EXTINF:-1 tvg-id="bf8592c2-ebb3-4224-aff1-5654fd2efad5" tvg-name="FOX LOCAL Seattle" group-title="Pluto TV",FOX LOCAL Seattle
+#EXTINF:-1 tvg-id="07bcd5ab-dc70-4846-8f5c-1b8d20b99269" tvg-name="FOX LOCAL Seattle" group-title="Pluto TV",FOX LOCAL Seattle
 https://jmp2.uk/plu-667f36eda1d7ad00085f588e.m3u8
 
-#EXTINF:-1 tvg-id="9bddc390-2af8-491f-a30b-dabb9f0303b2" tvg-name="FOX Sports" group-title="Pluto TV",FOX Sports
+#EXTINF:-1 tvg-id="2e20d787-bee4-4bff-b3f3-39658187c38e" tvg-name="FOX Sports" group-title="Pluto TV",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 
 #EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-name="FOX Weather" group-title="Pluto TV",FOX Weather
@@ -463,13 +463,13 @@ https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us@US" tvg-name="GLORY Kickboxing" group-title="Pluto TV",GLORY Kickboxing
 https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
 
-#EXTINF:-1 tvg-id="90f58fa2-5af5-4e92-95ea-3f206d0f9c6d" tvg-name="Go Go Gadget!" group-title="Pluto TV",Go Go Gadget!
+#EXTINF:-1 tvg-id="bcbf39de-a1f4-4004-a3a3-5a769348756c" tvg-name="Go Go Gadget!" group-title="Pluto TV",Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="Golazo Network" group-title="Pluto TV",Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
-#EXTINF:-1 tvg-id="430b8fb5-5621-4a58-bb7a-dc677ee695f3" tvg-name="GolfPass" group-title="Pluto TV",GolfPass
+#EXTINF:-1 tvg-id="73f02945-5c68-401c-a7c9-5010daea51d6" tvg-name="GolfPass" group-title="Pluto TV",GolfPass
 https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Pluto TV",Gordon Ramsay's Hell's Kitchen
@@ -487,31 +487,31 @@ https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 #EXTINF:-1 tvg-id="Heartland.us@Web" tvg-name="Heartland" group-title="Pluto TV",Heartland
 https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 
-#EXTINF:-1 tvg-id="1d9f982a-366b-48b9-929d-8e41a3c982da" tvg-name="Heartland VIDAA TEST" group-title="Pluto TV",Heartland VIDAA TEST
+#EXTINF:-1 tvg-id="99c1f7b6-8c88-4beb-a6c4-aca4ea683973" tvg-name="Heartland VIDAA TEST" group-title="Pluto TV",Heartland VIDAA TEST
 https://jmp2.uk/plu-67c0ac57214453144906eb48.m3u8
 
-#EXTINF:-1 tvg-id="819ce605-4413-41f5-9006-a54d55b2b661" tvg-name="Hit Sitcoms" group-title="Pluto TV",Hit Sitcoms
+#EXTINF:-1 tvg-id="398329e9-4899-4e4c-8d08-4c0d064e00f4" tvg-name="Hit Sitcoms" group-title="Pluto TV",Hit Sitcoms
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
 
-#EXTINF:-1 tvg-id="457be03a-c8fa-4850-a7ce-19456e51b332" tvg-name="Hogan's Heroes" group-title="Pluto TV",Hogan's Heroes
+#EXTINF:-1 tvg-id="56e32d1a-916a-4788-871e-ba2b182c190b" tvg-name="Hogan's Heroes" group-title="Pluto TV",Hogan's Heroes
 https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 
-#EXTINF:-1 tvg-id="64e65c7a-9632-4e42-9c12-04cfc2174b7b" tvg-name="Home Cooking by Food Network" group-title="Pluto TV",Home Cooking by Food Network
+#EXTINF:-1 tvg-id="de12c985-005f-4b07-a439-f2aba4e7caf2" tvg-name="Home Cooking by Food Network" group-title="Pluto TV",Home Cooking by Food Network
 https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
 
-#EXTINF:-1 tvg-id="7d1b73f4-2417-4ced-9239-4b1be116e9f0" tvg-name="Home.Made.Nation" group-title="Pluto TV",Home.Made.Nation
+#EXTINF:-1 tvg-id="56a817a3-06db-4a17-ab4e-11dd04011586" tvg-name="Home.Made.Nation" group-title="Pluto TV",Home.Made.Nation
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 
-#EXTINF:-1 tvg-id="6b3243be-d167-4444-a33e-abedff26f084" tvg-name="Homeful" group-title="Pluto TV",Homeful
+#EXTINF:-1 tvg-id="54f6fc16-f49a-4def-89f2-c826435ea7e9" tvg-name="Homeful" group-title="Pluto TV",Homeful
 https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8
 
-#EXTINF:-1 tvg-id="2fece2ae-7e60-4556-9b2c-887298ab144f" tvg-name="Hot Bench" group-title="Pluto TV",Hot Bench
+#EXTINF:-1 tvg-id="7b6f18ff-a3bc-489b-82ef-214a500554aa" tvg-name="Hot Bench" group-title="Pluto TV",Hot Bench
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 
 #EXTINF:-1 tvg-id="HSN.us@East" tvg-name="HSN" group-title="Pluto TV",HSN
 https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
 
-#EXTINF:-1 tvg-id="ab8ca594-fe96-4145-8e63-af56bee6fbc6" tvg-name="I Love Lucy" group-title="Pluto TV",I Love Lucy
+#EXTINF:-1 tvg-id="3f913e42-91e2-44c3-8a50-b6e3627ed17f" tvg-name="I Love Lucy" group-title="Pluto TV",I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 
 #EXTINF:-1 tvg-id="iCarly.us@East" tvg-name="iCarly TV" group-title="Pluto TV",iCarly TV
@@ -520,13 +520,13 @@ https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 tvg-id="InkMaster.us@SD" tvg-name="Ink Master" group-title="Pluto TV",Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 
-#EXTINF:-1 tvg-id="394e8196-2082-415a-9100-b20780621654" tvg-name="Inuyasha" group-title="Pluto TV",Inuyasha
+#EXTINF:-1 tvg-id="b8f26b44-de38-458b-a5a1-516a83cbbb19" tvg-name="Inuyasha" group-title="Pluto TV",Inuyasha
 https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8
 
-#EXTINF:-1 tvg-id="a82f70a9-3ed5-460f-8b94-019cca64e298" tvg-name="Investiga" group-title="Pluto TV",Investiga
+#EXTINF:-1 tvg-id="63ce8da1-6a20-4141-8c87-9584d2f109f3" tvg-name="Investiga" group-title="Pluto TV",Investiga
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 
-#EXTINF:-1 tvg-id="d5ff9c58-8063-420c-bf3e-dc8b20ac4c50" tvg-name="ION" group-title="Pluto TV",ION
+#EXTINF:-1 tvg-id="d6b45684-c3f1-43d9-a16e-f4b8f46a4835" tvg-name="ION" group-title="Pluto TV",ION
 https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 
 #EXTINF:-1 tvg-id="JerseyShore.us@SD" tvg-name="Jersey Shore" group-title="Pluto TV",Jersey Shore
@@ -538,46 +538,46 @@ https://jmp2.uk/plu-5e9decb953e157000752321c.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-name="Kartoon Channel!" group-title="Pluto TV",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
-#EXTINF:-1 tvg-id="cd1c3892-9181-493a-8161-6731542636f5" tvg-name="KIRO Seattle" group-title="Pluto TV",KIRO Seattle
+#EXTINF:-1 tvg-id="e2f224a1-c217-451d-afd1-3406b83a1c74" tvg-name="KIRO Seattle" group-title="Pluto TV",KIRO Seattle
 https://jmp2.uk/plu-632b619c8d2a6c0007ff534e.m3u8
 
-#EXTINF:-1 tvg-id="7971f182-798f-4a5d-919d-ea1fb8d4eacc" tvg-name="La Familia del Barrio" group-title="Pluto TV",La Familia del Barrio
+#EXTINF:-1 tvg-id="334d5e1a-5fb6-4fd4-8fd5-3e49d0e0a57d" tvg-name="La Familia del Barrio" group-title="Pluto TV",La Familia del Barrio
 https://jmp2.uk/plu-668c566d08d5490008075948.m3u8
 
-#EXTINF:-1 tvg-id="277829ef-be6d-459d-b774-edfc3a3f0319" tvg-name="Law & Order" group-title="Pluto TV",Law & Order
+#EXTINF:-1 tvg-id="b1a1bc54-13b8-49dc-9df8-aec3a5263883" tvg-name="Law & Order" group-title="Pluto TV",Law & Order
 https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
 
 #EXTINF:-1 tvg-id="LEGOKidsTV.us@SD" tvg-name="LEGO Kids TV" group-title="Pluto TV",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
-#EXTINF:-1 tvg-id="01bea5e3-fa95-4ed8-90f5-44e1a327031d" tvg-name="Let's Make A Deal" group-title="Pluto TV",Let's Make A Deal
+#EXTINF:-1 tvg-id="65fb2baa-59e4-4a3d-9b5d-f52b772aee3d" tvg-name="Let's Make A Deal" group-title="Pluto TV",Let's Make A Deal
 https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
 
-#EXTINF:-1 tvg-id="cbcc1f7a-59ab-4917-b17a-618fcd9ab917" tvg-name="Lifetime Movie Favorites" group-title="Pluto TV",Lifetime Movie Favorites
+#EXTINF:-1 tvg-id="451c12cc-9267-463b-aee5-9b85dba476e9" tvg-name="Lifetime Movie Favorites" group-title="Pluto TV",Lifetime Movie Favorites
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 
-#EXTINF:-1 tvg-id="0a12f6d2-390d-4712-892c-ab314ce3b573" tvg-name="Little Angel's Playroom" group-title="Pluto TV",Little Angel's Playroom
+#EXTINF:-1 tvg-id="0e857793-dbdb-4f0f-982b-8ce10c775439" tvg-name="Little Angel's Playroom" group-title="Pluto TV",Little Angel's Playroom
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 
-#EXTINF:-1 tvg-id="9c7de233-042c-4ce2-a631-7e9c953ccef0" tvg-name="Little Angel's Playroom en Español" group-title="Pluto TV",Little Angel's Playroom en Español
+#EXTINF:-1 tvg-id="2804082d-7c95-4fb8-9e96-22aa3928d89f" tvg-name="Little Angel's Playroom en Español" group-title="Pluto TV",Little Angel's Playroom en Español
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
 
-#EXTINF:-1 tvg-id="71740413-1024-4855-928f-7c4f3cb31f5a" tvg-name="Little House on the Prairie" group-title="Pluto TV",Little House on the Prairie
+#EXTINF:-1 tvg-id="51210082-6a84-4d8d-a0b6-27530712e605" tvg-name="Little House on the Prairie" group-title="Pluto TV",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 
 #EXTINF:-1 tvg-id="LittleStarsUniverse.us@SD" tvg-name="Little Stars Universe" group-title="Pluto TV",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 
-#EXTINF:-1 tvg-id="513e5abb-a059-4b88-9eb0-6bacbaa241cd" tvg-name="Live Music" group-title="Pluto TV",Live Music
+#EXTINF:-1 tvg-id="7b7c16a5-a915-436c-9fdb-296233b9eb56" tvg-name="Live Music" group-title="Pluto TV",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 
-#EXTINF:-1 tvg-id="7d516e41-a94d-4bd6-8e1a-d8d89db78b22" tvg-name="Live PD Presents" group-title="Pluto TV",Live PD Presents
+#EXTINF:-1 tvg-id="84619ccd-9bce-4c8d-bd16-e1e82433accc" tvg-name="Live PD Presents" group-title="Pluto TV",Live PD Presents
 https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-name="LiveNOW from FOX" group-title="Pluto TV",LiveNOW from FOX
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 
-#EXTINF:-1 tvg-id="49820988-1485-437f-90d7-f4f4b9c7f1b7" tvg-name="Living With Evil" group-title="Pluto TV",Living With Evil
+#EXTINF:-1 tvg-id="5b462e66-1d81-46bb-a970-d8634e56d767" tvg-name="Living With Evil" group-title="Pluto TV",Living With Evil
 https://jmp2.uk/plu-68bb164fb3900870ec368759.m3u8
 
 #EXTINF:-1 tvg-id="LogoPlutoTV.us@SD" tvg-name="Logo Pluto TV" group-title="Pluto TV",Logo Pluto TV
@@ -592,10 +592,10 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 #EXTINF:-1 tvg-id="LuchaLibreAAA.us@SD" tvg-name="Lucha Libre AAA" group-title="Pluto TV",Lucha Libre AAA
 https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
 
-#EXTINF:-1 tvg-id="5afcb86b-e705-4194-8b24-0ede7cdbc725" tvg-name="Más adrenalina" group-title="Pluto TV",Más adrenalina
+#EXTINF:-1 tvg-id="3fd70873-b793-47f2-9d12-821b33ce3db2" tvg-name="Más adrenalina" group-title="Pluto TV",Más adrenalina
 https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 
-#EXTINF:-1 tvg-id="9440d494-7bb7-4df7-b00c-300951d96bd6" tvg-name="Matched Married Meet by Lifetime" group-title="Pluto TV",Matched Married Meet by Lifetime
+#EXTINF:-1 tvg-id="694c31cd-ccf0-4819-836f-4be58bd00b02" tvg-name="Matched Married Meet by Lifetime" group-title="Pluto TV",Matched Married Meet by Lifetime
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
 
 #EXTINF:-1 tvg-id="Matlock.us@SD" tvg-name="Matlock" group-title="Pluto TV",Matlock
@@ -604,13 +604,13 @@ https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-name="Midsomer Murders" group-title="Pluto TV",Midsomer Murders
 https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
 
-#EXTINF:-1 tvg-id="da36ecc6-dc74-44e6-a599-33617defd0eb" tvg-name="Million Dollar Listing Vault" group-title="Pluto TV",Million Dollar Listing Vault
+#EXTINF:-1 tvg-id="521bbd38-ea8a-4a9f-86e2-11b5fe8acbe3" tvg-name="Million Dollar Listing Vault" group-title="Pluto TV",Million Dollar Listing Vault
 https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
 
 #EXTINF:-1 tvg-id="MissionImpossible.us@SD" tvg-name="Mission Impossible" group-title="Pluto TV",Mission Impossible
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
 
-#EXTINF:-1 tvg-id="cbb50507-242d-4f63-9cdc-081af33e499b" tvg-name="Mister Rogers' Neighborhood" group-title="Pluto TV",Mister Rogers' Neighborhood
+#EXTINF:-1 tvg-id="30eec571-ac2a-4fff-8e98-cc0188090598" tvg-name="Mister Rogers' Neighborhood" group-title="Pluto TV",Mister Rogers' Neighborhood
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
 
 #EXTINF:-1 tvg-id="Misteriossinresolver.us@SD" tvg-name="Misterios sin resolver" group-title="Pluto TV",Misterios sin resolver
@@ -619,13 +619,13 @@ https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
 #EXTINF:-1 tvg-id="MLB.us@SD" tvg-name="MLB" group-title="Pluto TV",MLB
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 
-#EXTINF:-1 tvg-id="162f2eb7-fc07-4870-96a2-441fd50267ab" tvg-name="Modern Marvels by HISTORY" group-title="Pluto TV",Modern Marvels by HISTORY
+#EXTINF:-1 tvg-id="4ac31398-568f-48f3-b415-5459f0ecf9c4" tvg-name="Modern Marvels by HISTORY" group-title="Pluto TV",Modern Marvels by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
 
 #EXTINF:-1 tvg-id="MonsterJam.pl@SD" tvg-name="Monster Jam" group-title="Pluto TV",Monster Jam
 https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 
-#EXTINF:-1 tvg-id="60c4526a-bac4-4416-b7e8-dc0557d5d3d1" tvg-name="More True Crime" group-title="Pluto TV",More True Crime
+#EXTINF:-1 tvg-id="b3f0bfb9-2e07-4738-86ef-1ba4f1401d9a" tvg-name="More True Crime" group-title="Pluto TV",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 
 #EXTINF:-1 tvg-id="MoreTVDrama.us@SD" tvg-name="More TV Drama" group-title="Pluto TV",More TV Drama
@@ -637,7 +637,7 @@ https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="MoviesforGamers.us@SD" tvg-name="Movies for Gamers" group-title="Pluto TV",Movies for Gamers
 https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
 
-#EXTINF:-1 tvg-id="e148f755-dbd2-49c7-853d-880fe97e50f3" tvg-name="MovieSphere by Lionsgate" group-title="Pluto TV",MovieSphere by Lionsgate
+#EXTINF:-1 tvg-id="8f8dcc23-f79d-4509-afe6-aa9ae73bf5ec" tvg-name="MovieSphere by Lionsgate" group-title="Pluto TV",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 
 #EXTINF:-1 tvg-id="MST3K.us@US" tvg-name="MST3K" group-title="Pluto TV",MST3K
@@ -649,7 +649,7 @@ https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 tvg-id="MTVenEspanol.us@SD" tvg-name="MTV en español" group-title="Pluto TV",MTV en español
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
-#EXTINF:-1 tvg-id="4e09e58a-25c5-42a0-bcf5-3f1caa62ad6e" tvg-name="MTV Flow Latino" group-title="Pluto TV",MTV Flow Latino
+#EXTINF:-1 tvg-id="2987c4b6-595a-4df7-914d-62d678c3559f" tvg-name="MTV Flow Latino" group-title="Pluto TV",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-name="MTV Pluto TV" group-title="Pluto TV",MTV Pluto TV
@@ -658,7 +658,7 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-name="MTV Spankin' New" group-title="Pluto TV",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
-#EXTINF:-1 tvg-id="032d8979-5542-4715-b2c1-a50cd6ccc642" tvg-name="Murder She Wrote" group-title="Pluto TV",Murder She Wrote
+#EXTINF:-1 tvg-id="57037294-cd78-45c3-b1a7-a78fbac34a56" tvg-name="Murder She Wrote" group-title="Pluto TV",Murder She Wrote
 https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
 
 #EXTINF:-1 tvg-id="Mythbusters.us@UK" tvg-name="MythBusters" group-title="Pluto TV",MythBusters
@@ -667,10 +667,10 @@ https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@US" tvg-name="Naruto" group-title="Pluto TV",Naruto
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
 
-#EXTINF:-1 tvg-id="8180f52e-3c51-4ef1-a74e-75920ed53731" tvg-name="Nash Bridges" group-title="Pluto TV",Nash Bridges
+#EXTINF:-1 tvg-id="fae14baf-0130-4410-b718-854989ef8eaf" tvg-name="Nash Bridges" group-title="Pluto TV",Nash Bridges
 https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 
-#EXTINF:-1 tvg-id="7dd72d7d-4e06-48bf-af89-a393468b4dae" tvg-name="Naturescape" group-title="Pluto TV",Naturescape
+#EXTINF:-1 tvg-id="3c63681f-107c-4d7c-9417-bc7337a3cffb" tvg-name="Naturescape" group-title="Pluto TV",Naturescape
 https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW" group-title="Pluto TV",NBC News NOW
@@ -688,7 +688,7 @@ https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-name="NFL Channel" group-title="Pluto TV",NFL Channel
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
-#EXTINF:-1 tvg-id="24314f32-a93b-49c8-bcbd-2c80a4fe037b" tvg-name="Nick Jr. Pluto TV" group-title="Pluto TV",Nick Jr. Pluto TV
+#EXTINF:-1 tvg-id="7351a365-7a63-4e98-83a1-8b470e7b5763" tvg-name="Nick Jr. Pluto TV" group-title="Pluto TV",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 #EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-name="Nickelodeon en español" group-title="Pluto TV",Nickelodeon en español
@@ -697,28 +697,28 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NickPlutoTV.us@US" tvg-name="Nickelodeon Pluto TV" group-title="Pluto TV",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
-#EXTINF:-1 tvg-id="19921c8d-9c1a-4d6e-8f58-b3a1395aca3a" tvg-name="No Reservations" group-title="Pluto TV",No Reservations
+#EXTINF:-1 tvg-id="3809265a-37cd-41d9-a4ce-973f7265b398" tvg-name="No Reservations" group-title="Pluto TV",No Reservations
 https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
 
-#EXTINF:-1 tvg-id="520e27db-3b61-456b-b72a-baa386876511" tvg-name="Nosey" group-title="Pluto TV",Nosey
+#EXTINF:-1 tvg-id="744344bf-6da1-469c-a028-fe70ca73ae32" tvg-name="Nosey" group-title="Pluto TV",Nosey
 https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us@SD" tvg-name="OAN Plus" group-title="Pluto TV",OAN Plus
 https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8
 
-#EXTINF:-1 tvg-id="d619cf33-9a10-4e1d-981d-9dec63dbc69f" tvg-name="ONE Championship TV" group-title="Pluto TV",ONE Championship TV
+#EXTINF:-1 tvg-id="c646d6dd-76cc-4b7e-8715-c68b42a39390" tvg-name="ONE Championship TV" group-title="Pluto TV",ONE Championship TV
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 
 #EXTINF:-1 tvg-id="OnePiece.us@SD" tvg-name="One Piece" group-title="Pluto TV",One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 
-#EXTINF:-1 tvg-id="faf655bd-327f-4ade-b481-e2a210f7cdc7" tvg-name="OuterSphere" group-title="Pluto TV",OuterSphere
+#EXTINF:-1 tvg-id="6f3375dc-38e9-4753-9455-a9526f2fd388" tvg-name="OuterSphere" group-title="Pluto TV",OuterSphere
 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 
-#EXTINF:-1 tvg-id="19b664e4-0d9c-4b1a-ad60-75eab30e53cc" tvg-name="Oxygen True Crime Archives" group-title="Pluto TV",Oxygen True Crime Archives
+#EXTINF:-1 tvg-id="93bbb900-7529-4428-b015-def78ef8a51e" tvg-name="Oxygen True Crime Archives" group-title="Pluto TV",Oxygen True Crime Archives
 https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 
-#EXTINF:-1 tvg-id="d59c3e7c-a09a-4967-a689-5d51235bd610" tvg-name="P+ VLL" group-title="Pluto TV",P+ VLL
+#EXTINF:-1 tvg-id="7c722dda-ad83-4841-af14-4916515d031c" tvg-name="P+ VLL" group-title="Pluto TV",P+ VLL
 https://jmp2.uk/plu-683f67fde5f82715941c047b.m3u8
 
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-name="Paramount Movie Channel" group-title="Pluto TV",Paramount Movie Channel
@@ -736,7 +736,7 @@ https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-name="PBS Nature" group-title="Pluto TV",PBS Nature
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
 
-#EXTINF:-1 tvg-id="59a411cf-57da-4847-8d22-b88b77f529a9" tvg-name="Peppa Pig" group-title="Pluto TV",Peppa Pig
+#EXTINF:-1 tvg-id="341f1f4e-7fa9-4317-af8a-5f4a65fc9b69" tvg-name="Peppa Pig" group-title="Pluto TV",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 
 #EXTINF:-1 tvg-id="PerryMason.us@SD" tvg-name="Perry Mason" group-title="Pluto TV",Perry Mason
@@ -748,7 +748,7 @@ https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-name="PGA TOUR" group-title="Pluto TV",PGA TOUR
 https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
 
-#EXTINF:-1 tvg-id="30fe7b5a-f59b-4d4e-b4c6-5d3ac9f09eb4" tvg-name="Pickers & Pawn" group-title="Pluto TV",Pickers & Pawn
+#EXTINF:-1 tvg-id="b61047e0-379f-4c1c-a0bb-fc6279586cb6" tvg-name="Pickers & Pawn" group-title="Pluto TV",Pickers & Pawn
 https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-name="Pluto TV Action" group-title="Pluto TV",Pluto TV Action
@@ -757,7 +757,7 @@ https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="AnimeAllDay.us@US" tvg-name="Pluto TV Anime" group-title="Pluto TV",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
-#EXTINF:-1 tvg-id="e9494c59-9849-44fb-aee1-3fa6f93b1354" tvg-name="Pluto TV Anime Movies" group-title="Pluto TV",Pluto TV Anime Movies
+#EXTINF:-1 tvg-id="55982717-ac1d-4cf8-ba4e-991746bcb172" tvg-name="Pluto TV Anime Movies" group-title="Pluto TV",Pluto TV Anime Movies
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD" tvg-name="Pluto TV Backcountry" group-title="Pluto TV",Pluto TV Backcountry
@@ -772,7 +772,7 @@ https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedy.us@US" tvg-name="Pluto TV Comedy" group-title="Pluto TV",Pluto TV Comedy
 https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
 
-#EXTINF:-1 tvg-id="612e5051-857c-439d-8a02-85bbf3e2bb55" tvg-name="Pluto TV Competition" group-title="Pluto TV",Pluto TV Competition
+#EXTINF:-1 tvg-id="dc7aa8c3-c58c-459e-bc51-f3690596da92" tvg-name="Pluto TV Competition" group-title="Pluto TV",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD" tvg-name="Pluto TV Crime Drama" group-title="Pluto TV",Pluto TV Crime Drama
@@ -799,13 +799,13 @@ https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-name="Pluto TV Horror" group-title="Pluto TV",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 
-#EXTINF:-1 tvg-id="2e5bc080-c57e-4ce1-8e9b-0c70f3bd0e94" tvg-name="Pluto TV Icons" group-title="Pluto TV",Pluto TV Icons
+#EXTINF:-1 tvg-id="c00271e0-af13-4d4d-9cdd-0889c9fff306" tvg-name="Pluto TV Icons" group-title="Pluto TV",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVLives.us@US" tvg-name="Pluto TV Lives" group-title="Pluto TV",Pluto TV Lives
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 
-#EXTINF:-1 tvg-id="80c8a253-0fc4-44b2-8e4f-c2c269be3af3" tvg-name="Pluto TV Love Stories" group-title="Pluto TV",Pluto TV Love Stories
+#EXTINF:-1 tvg-id="bcb710e4-09c7-409a-a52f-728639066b1d" tvg-name="Pluto TV Love Stories" group-title="Pluto TV",Pluto TV Love Stories
 https://jmp2.uk/plu-5f15e181520cfa000771ce79.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVMilitary.us@SD" tvg-name="Pluto TV Military" group-title="Pluto TV",Pluto TV Military
@@ -826,7 +826,7 @@ https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomance.us@US" tvg-name="Pluto TV Romance" group-title="Pluto TV",Pluto TV Romance
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 
-#EXTINF:-1 tvg-id="77e1feac-abee-4343-abd1-abf2137f9487" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="95427945-ecf8-4ac0-b3a7-8ac3e93a5b9c" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-name="Pluto TV Science" group-title="Pluto TV",Pluto TV Science
@@ -844,7 +844,7 @@ https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVThrillers.us@US" tvg-name="Pluto TV Thrillers" group-title="Pluto TV",Pluto TV Thrillers
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 
-#EXTINF:-1 tvg-id="72c1ff6d-80b1-464e-9722-7c93f5e8c210" tvg-name="Pluto TV Trending Now" group-title="Pluto TV",Pluto TV Trending Now
+#EXTINF:-1 tvg-id="8258c9d3-2ee8-4d15-9164-3f6f840f6382" tvg-name="Pluto TV Trending Now" group-title="Pluto TV",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US" tvg-name="Pluto TV True Crime" group-title="Pluto TV",Pluto TV True Crime
@@ -862,22 +862,22 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us@SD" tvg-name="POWERNATION" group-title="Pluto TV",POWERNATION
 https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
 
-#EXTINF:-1 tvg-id="e5a3657f-7a67-4a8b-a9c8-6b80893d553b" tvg-name="Project Runway" group-title="Pluto TV",Project Runway
+#EXTINF:-1 tvg-id="186c84c7-7c5f-4022-8f33-1405179560bf" tvg-name="Project Runway" group-title="Pluto TV",Project Runway
 https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
 
-#EXTINF:-1 tvg-id="8564936b-3834-4515-a7a7-dbde6f89f84e" tvg-name="QVC" group-title="Pluto TV",QVC
+#EXTINF:-1 tvg-id="02f51fc0-62ad-400f-a79d-80eb88707c8c" tvg-name="QVC" group-title="Pluto TV",QVC
 https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
 
-#EXTINF:-1 tvg-id="f7301831-81c4-469b-a912-38c61b840eb9" tvg-name="QVC2" group-title="Pluto TV",QVC2
+#EXTINF:-1 tvg-id="a4436125-2afe-4557-8655-0192d06bcb6b" tvg-name="QVC2" group-title="Pluto TV",QVC2
 https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
 
-#EXTINF:-1 tvg-id="d18d54d0-b071-473d-b1c9-1a8b15c20503" tvg-name="Rawhide" group-title="Pluto TV",Rawhide
+#EXTINF:-1 tvg-id="8e8c4312-1d49-4e33-8e86-ca11d58d704a" tvg-name="Rawhide" group-title="Pluto TV",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 
-#EXTINF:-1 tvg-id="c18addfb-b340-46f1-8d7b-b8d53a5cc402" tvg-name="Real Disaster Channel" group-title="Pluto TV",Real Disaster Channel
+#EXTINF:-1 tvg-id="dfffa431-f6a2-4f0f-bf1e-0291085ffd4e" tvg-name="Real Disaster Channel" group-title="Pluto TV",Real Disaster Channel
 https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 
-#EXTINF:-1 tvg-id="6f38b7ae-e22d-4e31-856c-74ffb561786d" tvg-name="Real Housewives Vault" group-title="Pluto TV",Real Housewives Vault
+#EXTINF:-1 tvg-id="5f500094-075c-4a1e-ae80-9c88075cd368" tvg-name="Real Housewives Vault" group-title="Pluto TV",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
 
 #EXTINF:-1 tvg-id="Revry.us@SD" tvg-name="Revry" group-title="Pluto TV",Revry
@@ -886,37 +886,37 @@ https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
 #EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-name="RiffTrax" group-title="Pluto TV",RiffTrax
 https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 
-#EXTINF:-1 tvg-id="03abfa99-abce-4635-9740-a172353f8570" tvg-name="Robot Wars by MECH+" group-title="Pluto TV",Robot Wars by MECH+
+#EXTINF:-1 tvg-id="7e41ad39-9dc2-4a89-aa3f-fb3339016f1a" tvg-name="Robot Wars by MECH+" group-title="Pluto TV",Robot Wars by MECH+
 https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8
 
-#EXTINF:-1 tvg-id="4f8cac29-2e2e-4985-ac05-f2e178cd1522" tvg-name="Rustic Retreats" group-title="Pluto TV",Rustic Retreats
+#EXTINF:-1 tvg-id="52efb5fa-0aac-44ff-8e4c-a6cfa55a008f" tvg-name="Rustic Retreats" group-title="Pluto TV",Rustic Retreats
 https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
 
 #EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-name="Ryan and Friends" group-title="Pluto TV",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 
-#EXTINF:-1 tvg-id="ac47efe1-1821-450f-a7b8-cfdd6be739a0" tvg-name="S.W.A.T." group-title="Pluto TV",S.W.A.T.
+#EXTINF:-1 tvg-id="6e388cad-bba3-4133-962b-eee003897a31" tvg-name="S.W.A.T." group-title="Pluto TV",S.W.A.T.
 https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8
 
-#EXTINF:-1 tvg-id="ca7161a3-01f9-42ae-abc1-c20ec2011003" tvg-name="Sailor Moon" group-title="Pluto TV",Sailor Moon
+#EXTINF:-1 tvg-id="78f182f5-b3d3-48a2-9866-f73379191485" tvg-name="Sailor Moon" group-title="Pluto TV",Sailor Moon
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 
-#EXTINF:-1 tvg-id="04497e8e-c07e-4078-980d-ea2f5cd73f88" tvg-name="Sala de Emergencias: Historias Inéditas" group-title="Pluto TV",Sala de Emergencias: Historias Inéditas
+#EXTINF:-1 tvg-id="2167a2f3-be14-4a75-9cd9-f5faa629fb6f" tvg-name="Sala de Emergencias: Historias Inéditas" group-title="Pluto TV",Sala de Emergencias: Historias Inéditas
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
 
-#EXTINF:-1 tvg-id="5991ccf3-1e6c-443c-9472-adc3b90de28b" tvg-name="Salem News Channel" group-title="Pluto TV",Salem News Channel
+#EXTINF:-1 tvg-id="eaf67c77-75b6-4e7b-9589-457ab8e9c5d9" tvg-name="Salem News Channel" group-title="Pluto TV",Salem News Channel
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 
 #EXTINF:-1 tvg-id="KGUNDT6.us@SD" tvg-name="Scripps News" group-title="Pluto TV",Scripps News
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
 
-#EXTINF:-1 tvg-id="503180b0-c6a6-4047-93dd-9c29e7653ce0" tvg-name="Shop LC" group-title="Pluto TV",Shop LC
+#EXTINF:-1 tvg-id="602bc6f3-942c-41ee-9186-9e6346713d58" tvg-name="Shop LC" group-title="Pluto TV",Shop LC
 https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
 
-#EXTINF:-1 tvg-id="ee479ee8-f299-45e9-a8d5-f8391d733825" tvg-name="Sitcom Legends" group-title="Pluto TV",Sitcom Legends
+#EXTINF:-1 tvg-id="795d8a5c-796f-45f0-bb47-14772517073c" tvg-name="Sitcom Legends" group-title="Pluto TV",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 
-#EXTINF:-1 tvg-id="7a26804a-a8fe-470a-8d1d-7984fc97fcf0" tvg-name="Sketchy AF" group-title="Pluto TV",Sketchy AF
+#EXTINF:-1 tvg-id="e48bb590-38c8-4616-afe3-30284119b6a3" tvg-name="Sketchy AF" group-title="Pluto TV",Sketchy AF
 https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-name="Smithsonian Channel Selects" group-title="Pluto TV",Smithsonian Channel Selects
@@ -934,34 +934,34 @@ https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us@SD" tvg-name="Star Trek" group-title="Pluto TV",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 
-#EXTINF:-1 tvg-id="9ffa2bab-afff-483a-9623-0ec4bc8bad2e" tvg-name="Star Trek: Deep Space Nine" group-title="Pluto TV",Star Trek: Deep Space Nine
+#EXTINF:-1 tvg-id="c44472cb-62d4-4323-9423-b37268228f3b" tvg-name="Star Trek: Deep Space Nine" group-title="Pluto TV",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 
-#EXTINF:-1 tvg-id="c1ebffc1-364f-4d1f-84eb-eb7e9d289388" tvg-name="Star Trek: The Next Generation" group-title="Pluto TV",Star Trek: The Next Generation
+#EXTINF:-1 tvg-id="567a157b-f1fd-40a9-bb9a-a3180de072cd" tvg-name="Star Trek: The Next Generation" group-title="Pluto TV",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 
-#EXTINF:-1 tvg-id="a734cfbe-5146-43ba-b97e-922a125826e8" tvg-name="Star Trek: Voyager" group-title="Pluto TV",Star Trek: Voyager
+#EXTINF:-1 tvg-id="94dc7127-90a0-4f18-a268-7a945fa2f337" tvg-name="Star Trek: Voyager" group-title="Pluto TV",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
-#EXTINF:-1 tvg-id="bc555ffd-9f4c-4746-bb8f-185b051cede8" tvg-name="Stargate" group-title="Pluto TV",Stargate
+#EXTINF:-1 tvg-id="4627789c-f5ec-48ea-88bc-e41681fa8a44" tvg-name="Stargate" group-title="Pluto TV",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 
-#EXTINF:-1 tvg-id="0fe32517-e1ee-4447-b7b0-12f648e00fa7" tvg-name="Stingray Holidayscapes" group-title="Pluto TV",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="9a0eb71f-3983-466e-92d3-43a40462294d" tvg-name="Stingray Holidayscapes" group-title="Pluto TV",Stingray Holidayscapes
 https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 
-#EXTINF:-1 tvg-id="9944b525-cbf0-4a5c-b919-9902724cfea2" tvg-name="Storage Wars by A&E" group-title="Pluto TV",Storage Wars by A&E
+#EXTINF:-1 tvg-id="a7b30d55-fcb1-42ac-b4c4-900d837d4028" tvg-name="Storage Wars by A&E" group-title="Pluto TV",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 
 #EXTINF:-1 tvg-id="StoriesbyAMC.us@SD" tvg-name="Stories by AMC" group-title="Pluto TV",Stories by AMC
 https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8
 
-#EXTINF:-1 tvg-id="59c90559-f489-4ff1-a675-513f53e75d37" tvg-name="Strawberry Shortcake and Friends" group-title="Pluto TV",Strawberry Shortcake and Friends
+#EXTINF:-1 tvg-id="af928277-8ec9-41fd-be22-7c85f2432a8d" tvg-name="Strawberry Shortcake and Friends" group-title="Pluto TV",Strawberry Shortcake and Friends
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 
-#EXTINF:-1 tvg-id="c739eae3-b6a1-4845-b0af-2eb034ab4a85" tvg-name="Supermarket Sweep" group-title="Pluto TV",Supermarket Sweep
+#EXTINF:-1 tvg-id="102be487-386a-4109-81db-b5deb5c6969a" tvg-name="Supermarket Sweep" group-title="Pluto TV",Supermarket Sweep
 https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
 
-#EXTINF:-1 tvg-id="57dc1734-4912-4855-b0da-b6e11dfe4031" tvg-name="Supernatural Drama" group-title="Pluto TV",Supernatural Drama
+#EXTINF:-1 tvg-id="02de3bc1-e222-40ee-9904-6196ae6b1b58" tvg-name="Supernatural Drama" group-title="Pluto TV",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 
 #EXTINF:-1 tvg-id="Survivor.us@SD" tvg-name="Survivor" group-title="Pluto TV",Survivor
@@ -970,7 +970,7 @@ https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us@SD" tvg-name="Swerve Sports" group-title="Pluto TV",Swerve Sports
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 
-#EXTINF:-1 tvg-id="e643e030-f5f9-4064-a51f-a42c9d0b9bf2" tvg-name="Tastemade Smokehouse" group-title="Pluto TV",Tastemade Smokehouse
+#EXTINF:-1 tvg-id="d50df7c5-9755-4ccf-9fdb-63016f1e8d26" tvg-name="Tastemade Smokehouse" group-title="Pluto TV",Tastemade Smokehouse
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 
 #EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-name="Teen Mom" group-title="Pluto TV",Teen Mom
@@ -997,13 +997,13 @@ https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 #EXTINF:-1 tvg-id="TheChallenge.us@SD" tvg-name="The Challenge" group-title="Pluto TV",The Challenge
 https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
 
-#EXTINF:-1 tvg-id="f180bb82-2816-4bd8-8029-22340a558cc6" tvg-name="The Emeril Lagasse Channel" group-title="Pluto TV",The Emeril Lagasse Channel
+#EXTINF:-1 tvg-id="5b21b825-4dbd-43df-a6f5-254690b24551" tvg-name="The Emeril Lagasse Channel" group-title="Pluto TV",The Emeril Lagasse Channel
 https://jmp2.uk/plu-67d07b7b798df95b8e9484b5.m3u8
 
 #EXTINF:-1 tvg-id="TheFirstTV.us@SD" tvg-name="The First" group-title="Pluto TV",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
 
-#EXTINF:-1 tvg-id="ca66dfd4-4ceb-4e00-b79c-ed052c475c31" tvg-name="The First 48 by A&E" group-title="Pluto TV",The First 48 by A&E
+#EXTINF:-1 tvg-id="3592829e-7203-4943-8f09-e52d15acdc46" tvg-name="The First 48 by A&E" group-title="Pluto TV",The First 48 by A&E
 https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
 
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD" tvg-name="The Jamie Oliver Channel" group-title="Pluto TV",The Jamie Oliver Channel
@@ -1012,16 +1012,16 @@ https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD" tvg-name="The Judge Judy Channel" group-title="Pluto TV",The Judge Judy Channel
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
 
-#EXTINF:-1 tvg-id="f6de51a4-6778-47f7-b4c3-1bced33ec9ac" tvg-name="The Lone Ranger" group-title="Pluto TV",The Lone Ranger
+#EXTINF:-1 tvg-id="45326d51-f691-4447-944b-858ff9129781" tvg-name="The Lone Ranger" group-title="Pluto TV",The Lone Ranger
 https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
 
 #EXTINF:-1 tvg-id="TheLoveBoat.us@SD" tvg-name="The Love Boat" group-title="Pluto TV",The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
-#EXTINF:-1 tvg-id="0469fa5d-df56-4aa8-87cf-0d22cb93590d" tvg-name="The Martha Stewart Channel" group-title="Pluto TV",The Martha Stewart Channel
+#EXTINF:-1 tvg-id="9192760f-8e18-4194-8597-e57af6ffab77" tvg-name="The Martha Stewart Channel" group-title="Pluto TV",The Martha Stewart Channel
 https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8
 
-#EXTINF:-1 tvg-id="f40b7a42-a781-46f7-b173-cc4f1188ecd3" tvg-name="The NBA Channel" group-title="Pluto TV",The NBA Channel
+#EXTINF:-1 tvg-id="05069f60-6113-432a-882b-738b50d54c9c" tvg-name="The NBA Channel" group-title="Pluto TV",The NBA Channel
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 
 #EXTINF:-1 tvg-id="TheNewDetectives.us@US" tvg-name="The New Detectives" group-title="Pluto TV",The New Detectives
@@ -1048,10 +1048,10 @@ https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" tvg-name="The Walking Dead Universe" group-title="Pluto TV",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 
-#EXTINF:-1 tvg-id="3057ca30-7ecf-4189-a814-5603315d2c4e" tvg-name="The Wild Wild West" group-title="Pluto TV",The Wild Wild West
+#EXTINF:-1 tvg-id="3a6ce3ff-6c18-4cef-8d3d-9cca7e3d605e" tvg-name="The Wild Wild West" group-title="Pluto TV",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 
-#EXTINF:-1 tvg-id="08e80578-6533-45cc-b01e-524a267cc181" tvg-name="The X-Files" group-title="Pluto TV",The X-Files
+#EXTINF:-1 tvg-id="cf200221-f06c-4733-97cc-926738cf0dd0" tvg-name="The X-Files" group-title="Pluto TV",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 
 #EXTINF:-1 tvg-id="ThisOldHouse.us@SD" tvg-name="This Old House" group-title="Pluto TV",This Old House
@@ -1069,28 +1069,28 @@ https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 #EXTINF:-1 tvg-id="TODAYAllDay.us@SD" tvg-name="TODAY All Day" group-title="Pluto TV",TODAY All Day
 https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 
-#EXTINF:-1 tvg-id="7ec6fab8-68eb-4abe-8c71-67a187edc4c6" tvg-name="Tony Robbins Network" group-title="Pluto TV",Tony Robbins Network
+#EXTINF:-1 tvg-id="ae1e5e31-2d25-4291-8f0b-68a15af458a5" tvg-name="Tony Robbins Network" group-title="Pluto TV",Tony Robbins Network
 https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8
 
 #EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-name="Top Gear" group-title="Pluto TV",Top Gear
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
 
-#EXTINF:-1 tvg-id="752801a6-a206-4b51-9c3f-17dd8cfdaa1f" tvg-name="Top Rank Classics" group-title="Pluto TV",Top Rank Classics
+#EXTINF:-1 tvg-id="a4fd5d55-d628-4e14-b6cd-f831995bd151" tvg-name="Top Rank Classics" group-title="Pluto TV",Top Rank Classics
 https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
 
-#EXTINF:-1 tvg-id="47aba77d-0d57-4fd8-84e7-3739dd7e415b" tvg-name="Tosh.0" group-title="Pluto TV",Tosh.0
+#EXTINF:-1 tvg-id="6a994cf6-8561-48cf-afb1-1a1ff3a12d64" tvg-name="Tosh.0" group-title="Pluto TV",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 
 #EXTINF:-1 tvg-id="TotallyTurtles.us@US" tvg-name="TOTALLY TURTLES" group-title="Pluto TV",TOTALLY TURTLES
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 
-#EXTINF:-1 tvg-id="11dd4d62-fc6f-4a3d-9182-ea3de6caf57a" tvg-name="Tough Jobs" group-title="Pluto TV",Tough Jobs
+#EXTINF:-1 tvg-id="1b73d82e-68f4-403c-bb2d-3c131c9801a1" tvg-name="Tough Jobs" group-title="Pluto TV",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 
-#EXTINF:-1 tvg-id="3815149d-d7b2-410a-9463-7cc58113230b" tvg-name="Transformers TV" group-title="Pluto TV",Transformers TV
+#EXTINF:-1 tvg-id="38c1f8cb-5896-4683-9add-81eee48e4eb5" tvg-name="Transformers TV" group-title="Pluto TV",Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 
-#EXTINF:-1 tvg-id="358b9920-13b6-4802-9da3-c119f5f90b58" tvg-name="Triton Poker" group-title="Pluto TV",Triton Poker
+#EXTINF:-1 tvg-id="4c89b5fd-bde9-436c-84ba-d2ba45f80896" tvg-name="Triton Poker" group-title="Pluto TV",Triton Poker
 https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
 
 #EXTINF:-1 tvg-id="TVLandDrama.us@SD" tvg-name="TV Land Drama" group-title="Pluto TV",TV Land Drama
@@ -1105,28 +1105,28 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="TVLandSitcoms.us@SD" tvg-name="TV Land Sitcoms" group-title="Pluto TV",TV Land Sitcoms
 https://jmp2.uk/plu-61bd0b57872c650008ed2e38.m3u8
 
-#EXTINF:-1 tvg-id="a5b33d3e-2c17-443f-bfd6-a4c38c099f34" tvg-name="UEFA Champions League" group-title="Pluto TV",UEFA Champions League
+#EXTINF:-1 tvg-id="73b0f910-809e-44d4-9b92-f281f87ab4cf" tvg-name="UEFA Champions League" group-title="Pluto TV",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-#EXTINF:-1 tvg-id="73fd581b-a347-4a27-830d-aaca65c76054" tvg-name="UFC" group-title="Pluto TV",UFC
+#EXTINF:-1 tvg-id="2bdef950-e2e4-4a6a-9f5e-84a076ec5399" tvg-name="UFC" group-title="Pluto TV",UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 
-#EXTINF:-1 tvg-id="23d6be07-86e1-4562-b319-9e6180c7ea4d" tvg-name="Ultimate Builds" group-title="Pluto TV",Ultimate Builds
+#EXTINF:-1 tvg-id="341da291-9925-4215-9951-57ad5c64b760" tvg-name="Ultimate Builds" group-title="Pluto TV",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 
-#EXTINF:-1 tvg-id="32dfe4ed-e3c8-4e7a-b193-16ff43ece1af" tvg-name="Universal Action" group-title="Pluto TV",Universal Action
+#EXTINF:-1 tvg-id="95593053-6a8a-4821-949d-474bb353ea7f" tvg-name="Universal Action" group-title="Pluto TV",Universal Action
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-name="Universal Crime" group-title="Pluto TV",Universal Crime
 https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 
-#EXTINF:-1 tvg-id="e586bcef-b74c-4a2d-8292-25da87be085f" tvg-name="Universal Monsters" group-title="Pluto TV",Universal Monsters
+#EXTINF:-1 tvg-id="063cf517-f638-49d7-9f09-7f78d74d85f3" tvg-name="Universal Monsters" group-title="Pluto TV",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
 
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" tvg-name="Unsolved Mysteries" group-title="Pluto TV",Unsolved Mysteries
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 
-#EXTINF:-1 tvg-id="0b7e5ea2-add7-4929-9745-66e41f5ca26f" tvg-name="UnXplained Zone" group-title="Pluto TV",UnXplained Zone
+#EXTINF:-1 tvg-id="cd1e0c0f-57bb-4570-9204-5900aec11457" tvg-name="UnXplained Zone" group-title="Pluto TV",UnXplained Zone
 https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 
 #EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-name="Vevo 2K" group-title="Pluto TV",Vevo 2K
@@ -1144,7 +1144,7 @@ https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 #EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-name="Vevo Country" group-title="Pluto TV",Vevo Country
 https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
-#EXTINF:-1 tvg-id="a2dc7ffc-2fc4-4975-babe-cef280a248dc" tvg-name="Vevo Íconos Latinos" group-title="Pluto TV",Vevo Íconos Latinos
+#EXTINF:-1 tvg-id="cbdda5f4-872e-4fc2-8177-ddc0463f37aa" tvg-name="Vevo Íconos Latinos" group-title="Pluto TV",Vevo Íconos Latinos
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
 #EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-name="Vevo Pop" group-title="Pluto TV",Vevo Pop
@@ -1153,37 +1153,37 @@ https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 #EXTINF:-1 tvg-id="VevoRB.us@SD" tvg-name="Vevo R&B" group-title="Pluto TV",Vevo R&B
 https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
-#EXTINF:-1 tvg-id="b8b8ecce-e784-4c04-a7da-3434f995201a" tvg-name="Vevo Regional Mexicano" group-title="Pluto TV",Vevo Regional Mexicano
+#EXTINF:-1 tvg-id="ec9bf0b5-1e64-468e-a385-1b609ba3451c" tvg-name="Vevo Regional Mexicano" group-title="Pluto TV",Vevo Regional Mexicano
 https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
 
-#EXTINF:-1 tvg-id="8aca7959-c3e1-4101-a83b-3c24d681f573" tvg-name="Vevo Rock" group-title="Pluto TV",Vevo Rock
+#EXTINF:-1 tvg-id="d867f0c8-d549-4522-8576-d516e16006e0" tvg-name="Vevo Rock" group-title="Pluto TV",Vevo Rock
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
-#EXTINF:-1 tvg-id="64f53afa-cac7-4203-b2c8-b631ed3416c9" tvg-name="Vevo True School Hip-Hop" group-title="Pluto TV",Vevo True School Hip-Hop
+#EXTINF:-1 tvg-id="c55f8c97-1b57-4db3-a089-a527d34e8c94" tvg-name="Vevo True School Hip-Hop" group-title="Pluto TV",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
-#EXTINF:-1 tvg-id="ae168dfa-7cf1-425d-946e-cdeaa5172ec5" tvg-name="VH1 Queens of Reality" group-title="Pluto TV",VH1 Queens of Reality
+#EXTINF:-1 tvg-id="926d3b27-faee-4b08-8fb4-0c3843593b06" tvg-name="VH1 Queens of Reality" group-title="Pluto TV",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
-#EXTINF:-1 tvg-id="1c9cc98f-b500-433d-9c15-27c98b44ee3e" tvg-name="Vidas Extremas" group-title="Pluto TV",Vidas Extremas
+#EXTINF:-1 tvg-id="1ca7fc31-bb5d-4178-9ae1-b49990dd97e7" tvg-name="Vidas Extremas" group-title="Pluto TV",Vidas Extremas
 https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
 
-#EXTINF:-1 tvg-id="26c29bc6-d3f7-4b93-9cb4-db0aee8f50ab" tvg-name="Warner Bros. TV Say Yes to the Dress" group-title="Pluto TV",Warner Bros. TV Say Yes to the Dress
+#EXTINF:-1 tvg-id="d4575b98-1f74-4829-871e-1360ccc17835" tvg-name="Warner Bros. TV Say Yes to the Dress" group-title="Pluto TV",Warner Bros. TV Say Yes to the Dress
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
 
-#EXTINF:-1 tvg-id="f451a093-56da-4e22-8595-8b3690e3f6c5" tvg-name="Warner Bros. TV Sweet Escapes" group-title="Pluto TV",Warner Bros. TV Sweet Escapes
+#EXTINF:-1 tvg-id="66945fcb-3ac4-4346-8f5a-5c0c7c2bf638" tvg-name="Warner Bros. TV Sweet Escapes" group-title="Pluto TV",Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-name="WeatherNation" group-title="Pluto TV",WeatherNation
 https://jmp2.uk/plu-5d2cb7ac552e3773bc48982e.m3u8
 
-#EXTINF:-1 tvg-id="d9d8b988-6d7c-4b8f-a71f-4cf63801b0dc" tvg-name="WeatherNation Seattle" group-title="Pluto TV",WeatherNation Seattle
+#EXTINF:-1 tvg-id="8a1035ad-eaa9-4748-bcae-69b2c2a611d6" tvg-name="WeatherNation Seattle" group-title="Pluto TV",WeatherNation Seattle
 https://jmp2.uk/plu-628bf0057007a30007e99af9.m3u8
 
-#EXTINF:-1 tvg-id="cdaa7776-10be-4119-8565-e2837730174e" tvg-name="Western TV" group-title="Pluto TV",Western TV
+#EXTINF:-1 tvg-id="3b4c2d2c-0673-4f1b-9c75-dd70c6e7b744" tvg-name="Western TV" group-title="Pluto TV",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 
-#EXTINF:-1 tvg-id="c0cb2799-f6b8-45b8-903f-fdbf9c88aee1" tvg-name="Wicked Tuna" group-title="Pluto TV",Wicked Tuna
+#EXTINF:-1 tvg-id="a86aef36-6972-486d-9b9f-baa7b19a3d76" tvg-name="Wicked Tuna" group-title="Pluto TV",Wicked Tuna
 https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8
 
 #EXTINF:-1 tvg-id="WildNOut.us@SD" tvg-name="Wild 'N Out" group-title="Pluto TV",Wild 'N Out
@@ -1192,25 +1192,25 @@ https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-name="Women's Sports Network" group-title="Pluto TV",Women's Sports Network
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
 
-#EXTINF:-1 tvg-id="94693649-d950-40d5-bfda-dc00b72dd860" tvg-name="World of Love Island" group-title="Pluto TV",World of Love Island
+#EXTINF:-1 tvg-id="ea6cf416-8785-4b83-b118-a344f83f990c" tvg-name="World of Love Island" group-title="Pluto TV",World of Love Island
 https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-name="World Poker Tour" group-title="Pluto TV",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
 
-#EXTINF:-1 tvg-id="959248bb-3803-4062-9b61-3e6e2e356b9a" tvg-name="Wrestling Central" group-title="Pluto TV",Wrestling Central
+#EXTINF:-1 tvg-id="80f45ebc-efb3-4cba-a9b1-81a3eea07a08" tvg-name="Wrestling Central" group-title="Pluto TV",Wrestling Central
 https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
 
-#EXTINF:-1 tvg-id="e5a963e3-b361-4db5-bf3a-8e42ca22fd1e" tvg-name="XITE Classic Country" group-title="Pluto TV",XITE Classic Country
+#EXTINF:-1 tvg-id="001426fc-c3fa-4259-9786-70a742fab815" tvg-name="XITE Classic Country" group-title="Pluto TV",XITE Classic Country
 https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 
-#EXTINF:-1 tvg-id="415c3b49-1406-4a3a-b895-fd43b3ed32ec" tvg-name="XITE Gospel" group-title="Pluto TV",XITE Gospel
+#EXTINF:-1 tvg-id="7c0cde16-c432-4ab6-a6fd-0c4cc02ae58f" tvg-name="XITE Gospel" group-title="Pluto TV",XITE Gospel
 https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
-#EXTINF:-1 tvg-id="1d1120e0-638a-4b4a-920f-90d3f353f509" tvg-name="XITE Rock x Metal" group-title="Pluto TV",XITE Rock x Metal
+#EXTINF:-1 tvg-id="9775e481-5d26-47d2-93b8-e034a51d3cc1" tvg-name="XITE Rock x Metal" group-title="Pluto TV",XITE Rock x Metal
 https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 
-#EXTINF:-1 tvg-id="f8023665-b183-437f-bbe2-17b1c579e61e" tvg-name="Xtreme Outdoor by HISTORY" group-title="Pluto TV",Xtreme Outdoor by HISTORY
+#EXTINF:-1 tvg-id="1ac22429-2d9f-4b9d-a58f-c5c41c4ac7d7" tvg-name="Xtreme Outdoor by HISTORY" group-title="Pluto TV",Xtreme Outdoor by HISTORY
 https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
 
 #EXTINF:-1 tvg-id="YoMTV.us@SD" tvg-name="Yo! MTV" group-title="Pluto TV",Yo! MTV
