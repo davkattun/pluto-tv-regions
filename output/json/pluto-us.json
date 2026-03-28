@@ -1,6 +1,6 @@
 [
   {
-    "id": "a3c6c88f-7a4a-4d33-adea-8451baeefe7c",
+    "id": "dd6f6b9d-0455-4aca-a9ee-715686b37c4f",
     "name": "00s Replay",
     "region": "us",
     "category": "Pluto TV",
@@ -9,22 +9,22 @@
   },
   {
     "id": "48Hours.us@US",
-    "name": "48 Hours",
+    "name": "48 Hours (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8"
   },
   {
-    "id": "bb8176eb-7892-46ff-8c57-d8e47d456186",
-    "name": "50 Cent Action",
+    "id": "a01bde86-b98c-4330-ab13-13dcb9a2a9cf",
+    "name": "50 Cent Action (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8"
   },
   {
-    "id": "076f07a3-00c6-4c53-91c0-48e067d180ed",
+    "id": "b9fac424-0310-404c-b08c-eeb78d573c01",
     "name": "60 Minutes",
     "region": "us",
     "category": "Pluto TV",
@@ -48,7 +48,7 @@
     "streamUrl": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8"
   },
   {
-    "id": "f017ad16-b867-4d21-95bf-004963424435",
+    "id": "30cf8a3f-5cc5-4c13-95cf-46ee9be53711",
     "name": "90's Kids",
     "region": "us",
     "category": "Pluto TV",
@@ -56,7 +56,7 @@
     "streamUrl": "https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8"
   },
   {
-    "id": "9b72d4c0-b0d7-49b4-94cb-dae111847bd8",
+    "id": "c05419bd-5613-4e93-bd6e-70a3446df47a",
     "name": "90s Kids TV 2",
     "region": "us",
     "category": "Pluto TV",
@@ -72,8 +72,8 @@
     "streamUrl": "https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8"
   },
   {
-    "id": "4b9a2eef-30ea-4eb3-b1a6-6cabf26bf715",
-    "name": "A&E Crime 360",
+    "id": "2ee4efc2-d300-4003-ac9a-13f025d85b83",
+    "name": "A&E Crime 360 (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": "ABCNewsLive.us@SD",
-    "name": "ABC News Live",
+    "name": "ABC News Live (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": "AllRealitybyWEtv.us@SD",
-    "name": "All Reality WE tv",
+    "name": "All Reality WE tv (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -112,7 +112,7 @@
     "streamUrl": "https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8"
   },
   {
-    "id": "439a0b8b-4705-44ae-a422-ad2493269f23",
+    "id": "d22e5a00-ba93-447f-bdaf-442de8e07836",
     "name": "America's Funniest Home Videos",
     "region": "us",
     "category": "Pluto TV",
@@ -120,7 +120,7 @@
     "streamUrl": "https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8"
   },
   {
-    "id": "cbfa96a8-57df-44bc-ba40-18fd21db5f77",
+    "id": "e91ace73-45aa-4c25-af89-e95c02b56a26",
     "name": "America's Next Top Model",
     "region": "us",
     "category": "Pluto TV",
@@ -129,7 +129,7 @@
   },
   {
     "id": "AmericasTestKitchen.us@SD",
-    "name": "America's Test Kitchen",
+    "name": "America's Test Kitchen (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -137,23 +137,23 @@
   },
   {
     "id": "AmericasVoiceNews.us@SD",
-    "name": "America's Voice News",
+    "name": "America's Voice News (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8"
   },
   {
-    "id": "600a8682-ccbe-4f42-a9ec-fe4fc8673983",
-    "name": "American Crimes",
+    "id": "df95d1f0-9de3-496e-9734-af52bd2a713c",
+    "name": "American Crimes (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8"
   },
   {
-    "id": "b191b226-b470-45e0-8a17-5c8d02239399",
-    "name": "Ancient Aliens",
+    "id": "b60a49ab-b413-4fa4-9bf7-9df204591d08",
+    "name": "Ancient Aliens (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -177,15 +177,15 @@
   },
   {
     "id": "AntiquesRoadshowUK.us@SD",
-    "name": "Antiques Roadshow UK",
+    "name": "Antiques Roadshow UK (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8"
   },
   {
-    "id": "096f96c2-8b59-498b-8c52-5cd5a20e313f",
-    "name": "AWSN",
+    "id": "ea857b09-f95b-45f4-a0c2-99d494ac4234",
+    "name": "AWSN (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -200,8 +200,8 @@
     "streamUrl": "https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8"
   },
   {
-    "id": "144406fc-75fb-4a98-ac65-50af4e6e2813",
-    "name": "Bad Girls Club",
+    "id": "bedd8067-b2ce-4e8f-a098-057346ac872b",
+    "name": "Bad Girls Club (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -217,7 +217,7 @@
   },
   {
     "id": "BBCEarth.uk@US",
-    "name": "BBC Earth",
+    "name": "BBC Earth (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -225,15 +225,15 @@
   },
   {
     "id": "BBCNews.uk@Africa",
-    "name": "BBC News",
+    "name": "BBC News (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8"
   },
   {
-    "id": "97c3c03a-5f8f-4f3e-b293-a749491c1195",
-    "name": "Beach Day",
+    "id": "d1e4f8fb-38c0-47d7-873d-be6513b0a9e6",
+    "name": "Beach Day (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -248,15 +248,15 @@
     "streamUrl": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8"
   },
   {
-    "id": "2df2a7f7-0ac4-45ae-9656-b62c51167416",
-    "name": "Best of Bobby Flay by Food Network",
+    "id": "9c25a902-f78f-47e1-bc47-eadb536a7608",
+    "name": "Best of Bobby Flay by Food Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8"
   },
   {
-    "id": "19b26976-c193-4001-9617-e793e727608f",
+    "id": "d72fe2d2-c166-4e64-8295-144c9e998c3d",
     "name": "Best of Dr. Phil",
     "region": "us",
     "category": "Pluto TV",
@@ -280,7 +280,7 @@
     "streamUrl": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8"
   },
   {
-    "id": "4645967a-5fc8-4130-be9d-983c6cb2ce78",
+    "id": "5f295dcf-723c-4d93-a4dc-1bfbc12ad8bb",
     "name": "BET Comedy Movies",
     "region": "us",
     "category": "Pluto TV",
@@ -296,7 +296,7 @@
     "streamUrl": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
   },
   {
-    "id": "be5d3e47-abc5-4f0f-aefc-5cd9caf92def",
+    "id": "00499211-2550-4bcb-a2c4-54bea48392a9",
     "name": "BET Throwbacks",
     "region": "us",
     "category": "Pluto TV",
@@ -304,7 +304,7 @@
     "streamUrl": "https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8"
   },
   {
-    "id": "67553d01-9b0e-4d2b-be08-9c0d34379617",
+    "id": "52bf7b31-2e93-4c65-9cf3-681527e18bd7",
     "name": "BET Visionaries",
     "region": "us",
     "category": "Pluto TV",
@@ -312,16 +312,16 @@
     "streamUrl": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8"
   },
   {
-    "id": "ec008f67-f8cd-4471-b094-eeb4cfb19d42",
-    "name": "BET x Tyler Perry Comedy",
+    "id": "90aaaa0c-9139-4ddc-a0ae-11a69c7a27a4",
+    "name": "BET x Tyler Perry Comedy (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8"
   },
   {
-    "id": "a8294363-5dfb-4d9a-a0cc-a7c8ea321402",
-    "name": "BET x Tyler Perry Drama",
+    "id": "004a7780-9c00-415a-a2be-0cc9d97e2f1c",
+    "name": "BET x Tyler Perry Drama (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -344,7 +344,7 @@
     "streamUrl": "https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8"
   },
   {
-    "id": "3764e5bb-2145-4d12-9733-5015f1b20e60",
+    "id": "cca32c9d-eafc-4aed-8345-3e3e58a742a2",
     "name": "Beyond the Gates",
     "region": "us",
     "category": "Pluto TV",
@@ -352,7 +352,7 @@
     "streamUrl": "https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8"
   },
   {
-    "id": "e9b3be6d-413a-4748-b0e0-dd9bbf8421b0",
+    "id": "6e24babf-7dbe-4d11-8fd5-d78eed182670",
     "name": "Big Brother",
     "region": "us",
     "category": "Pluto TV",
@@ -360,7 +360,7 @@
     "streamUrl": "https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8"
   },
   {
-    "id": "49c612da-e79f-4b30-b34e-3411180644c6",
+    "id": "71fd512e-b53c-4feb-acbb-deba09d8eb8c",
     "name": "Black Family Sitcoms",
     "region": "us",
     "category": "Pluto TV",
@@ -377,7 +377,7 @@
   },
   {
     "id": "BlazeLive.us@SD",
-    "name": "Blaze Live",
+    "name": "Blaze Live (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -385,7 +385,7 @@
   },
   {
     "id": "BloombergTV.us@Plus",
-    "name": "Bloomberg TV+",
+    "name": "Bloomberg TV+ (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -400,7 +400,7 @@
     "streamUrl": "https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8"
   },
   {
-    "id": "a8267d6a-390f-4c82-b49d-084296674469",
+    "id": "6bd77773-a7d3-4914-ab6f-a7651be1edc4",
     "name": "Bonanza",
     "region": "us",
     "category": "Pluto TV",
@@ -416,8 +416,8 @@
     "streamUrl": "https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8"
   },
   {
-    "id": "954de5a4-8e30-4c8f-bb8f-7512e0ccf708",
-    "name": "Bravo Vault",
+    "id": "90c6d010-d155-4fd0-bd31-66530e082470",
+    "name": "Bravo Vault (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -425,7 +425,7 @@
   },
   {
     "id": "BritBoxMysteries.us@SD",
-    "name": "BritBox Mysteries",
+    "name": "BritBox Mysteries (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -433,22 +433,22 @@
   },
   {
     "id": "Buzzr.us@SD",
-    "name": "BUZZR",
+    "name": "BUZZR (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8"
   },
   {
-    "id": "e17695e9-c397-4cbb-a938-9b973640335d",
-    "name": "Car Chase",
+    "id": "c0a15f6f-06fb-4c0e-a4f6-866e990dc0c8",
+    "name": "Car Chase (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8"
   },
   {
-    "id": "de94ea69-c1e8-4ede-8afb-3a93de92f3d5",
+    "id": "14a2430c-83cd-4a47-bd30-f502da3d5c1c",
     "name": "Casos de la Dra. Polo",
     "region": "us",
     "category": "Pluto TV",
@@ -456,7 +456,7 @@
     "streamUrl": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8"
   },
   {
-    "id": "3067797e-8df2-42d1-b8b6-0d26f9cffcb6",
+    "id": "dd4d164f-0ca0-4728-ad36-d80da3a77c24",
     "name": "CBS en español",
     "region": "us",
     "category": "Pluto TV",
@@ -465,7 +465,7 @@
   },
   {
     "id": "CBSNews247.us@SD",
-    "name": "CBS News 24/7",
+    "name": "CBS News 24/7 (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -473,7 +473,7 @@
   },
   {
     "id": "CBSNewsBaltimore.us@SD",
-    "name": "CBS News Baltimore",
+    "name": "CBS News Baltimore (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -481,7 +481,7 @@
   },
   {
     "id": "CBSNewsBayArea.us@SD",
-    "name": "CBS News Bay Area",
+    "name": "CBS News Bay Area (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -497,7 +497,7 @@
   },
   {
     "id": "CBSNewsBoston.us@SD",
-    "name": "CBS News Boston",
+    "name": "CBS News Boston (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -505,7 +505,7 @@
   },
   {
     "id": "CBSNewsChicago.us@SD",
-    "name": "CBS News Chicago",
+    "name": "CBS News Chicago (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -513,7 +513,7 @@
   },
   {
     "id": "CBSNewsColorado.us@SD",
-    "name": "CBS News Colorado",
+    "name": "CBS News Colorado (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -521,7 +521,7 @@
   },
   {
     "id": "CBSNewsDetroit.us@SD",
-    "name": "CBS News Detroit",
+    "name": "CBS News Detroit (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -529,7 +529,7 @@
   },
   {
     "id": "CBSNewsLosAngeles.us@SD",
-    "name": "CBS News Los Angeles",
+    "name": "CBS News Los Angeles (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -537,7 +537,7 @@
   },
   {
     "id": "CBSNewsLosAngeles.us@SD",
-    "name": "CBS News Los Angeles",
+    "name": "CBS News Los Angeles (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -545,7 +545,7 @@
   },
   {
     "id": "CBSNewsMiami.us@SD",
-    "name": "CBS News Miami",
+    "name": "CBS News Miami (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -561,7 +561,7 @@
   },
   {
     "id": "CBSNewsMinnesota.us@SD",
-    "name": "CBS News Minnesota",
+    "name": "CBS News Minnesota (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -569,7 +569,7 @@
   },
   {
     "id": "CBSNewsNewYork.us@SD",
-    "name": "CBS News New York",
+    "name": "CBS News New York (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -577,15 +577,15 @@
   },
   {
     "id": "CBSNewsNewYork.us@SD",
-    "name": "CBS News New York",
+    "name": "CBS News New York (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8"
   },
   {
-    "id": "e9b474c6-9b41-4a58-8799-e8525bedc133",
-    "name": "CBS News Philadelphia",
+    "id": "9a216791-6ff5-4911-b6cf-961a1c16dca2",
+    "name": "CBS News Philadelphia (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -593,7 +593,7 @@
   },
   {
     "id": "CBSNewsPittsburgh.us@SD",
-    "name": "CBS News Pittsburgh",
+    "name": "CBS News Pittsburgh (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -601,15 +601,15 @@
   },
   {
     "id": "CBSNewsSacramento.us@SD",
-    "name": "CBS News Sacramento",
+    "name": "CBS News Sacramento (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8"
   },
   {
-    "id": "0a6ad6da-26f0-432c-9127-47d5b0a3436c",
-    "name": "CBS News Texas",
+    "id": "701c7c3d-e973-41b7-b741-1341b7d034b2",
+    "name": "CBS News Texas (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -617,14 +617,14 @@
   },
   {
     "id": "CBSSportsHQ.us@SD",
-    "name": "CBS Sports HQ",
+    "name": "CBS Sports HQ (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8"
   },
   {
-    "id": "d4a7423b-7eb2-4fa0-9465-6db7ba900491",
+    "id": "bc2878f3-6c6e-422e-a96c-739673df5f87",
     "name": "Cheaters",
     "region": "us",
     "category": "Pluto TV",
@@ -632,7 +632,7 @@
     "streamUrl": "https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8"
   },
   {
-    "id": "ba1d3b9b-983b-4e07-bb41-09e3645f2e75",
+    "id": "0a59e16e-b337-4ae6-9860-3340532579b5",
     "name": "Cheers + Frasier",
     "region": "us",
     "category": "Pluto TV",
@@ -640,16 +640,16 @@
     "streamUrl": "https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8"
   },
   {
-    "id": "205c573a-b781-400f-a310-f699cd06a140",
-    "name": "Chef vs Chef by Food Network",
+    "id": "4ae958a8-77cf-4523-809f-55c204c4cb69",
+    "name": "Chef vs Chef by Food Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8"
   },
   {
-    "id": "8be23016-40d3-484c-8c00-dffccc679915",
-    "name": "Chip & Jo: Feels Like Home by Magnolia Network",
+    "id": "5c9c6248-8f00-47ec-9fa6-4758545d7e71",
+    "name": "Chip & Jo: Feels Like Home by Magnolia Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -664,7 +664,7 @@
     "streamUrl": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8"
   },
   {
-    "id": "be08b69b-4810-493b-8f15-a547631f281b",
+    "id": "231bfcbb-dc0e-4f89-b1e7-a11f3dd3ad3d",
     "name": "Cine Amor",
     "region": "us",
     "category": "Pluto TV",
@@ -672,7 +672,7 @@
     "streamUrl": "https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8"
   },
   {
-    "id": "bb85a561-f587-4450-96bf-6d1011eca2de",
+    "id": "1a437f3d-25d9-41c0-ae46-a9dfd2e3b9fc",
     "name": "Cine aventura",
     "region": "us",
     "category": "Pluto TV",
@@ -696,7 +696,7 @@
     "streamUrl": "https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8"
   },
   {
-    "id": "b6743f9d-dbc3-4544-82d4-14c68f47b066",
+    "id": "37775954-0e97-4769-9bb4-5d5554342bc9",
     "name": "Cine Crimen",
     "region": "us",
     "category": "Pluto TV",
@@ -704,7 +704,7 @@
     "streamUrl": "https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8"
   },
   {
-    "id": "864730bf-9f96-4e3b-9ce9-5be7a71d6860",
+    "id": "afe295c0-1f10-42cf-afdb-4f1b0d5a1c97",
     "name": "Cine en español",
     "region": "us",
     "category": "Pluto TV",
@@ -728,7 +728,7 @@
     "streamUrl": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8"
   },
   {
-    "id": "e05c2356-1c88-4e97-a82a-4dc986b7498f",
+    "id": "66adcc52-857f-4175-98c5-c281c20a4074",
     "name": "Classic Movie Westerns",
     "region": "us",
     "category": "Pluto TV",
@@ -752,7 +752,7 @@
     "streamUrl": "https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8"
   },
   {
-    "id": "d9ab65b3-e4bf-46f3-a1d5-c06ac1f6f8dd",
+    "id": "b627b059-a22b-45cb-9b57-f2e9b43a2ca4",
     "name": "Classic TV Crime Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -777,7 +777,7 @@
   },
   {
     "id": "Classica.us@SD",
-    "name": "Classica",
+    "name": "Classica (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -785,14 +785,14 @@
   },
   {
     "id": "CMTEqualPlay.us@SD",
-    "name": "CMT Equal Play",
+    "name": "CMT Equal Play (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8"
   },
   {
-    "id": "0607c5f4-6df6-4b10-a30f-07fcc0718410",
+    "id": "e217b66a-3a06-4302-aa56-3697b2d630b7",
     "name": "Cold Case Files by A&E",
     "region": "us",
     "category": "Pluto TV",
@@ -816,7 +816,7 @@
     "streamUrl": "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8"
   },
   {
-    "id": "f80a8528-1095-48e7-85fc-de6d50343a84",
+    "id": "a21aeffd-d464-4cb0-aa4f-52af6ae4c1a3",
     "name": "Confess by Nosey",
     "region": "us",
     "category": "Pluto TV",
@@ -824,7 +824,7 @@
     "streamUrl": "https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8"
   },
   {
-    "id": "daf92d7b-830f-4024-963b-b7eb2be3041c",
+    "id": "7a4c2aca-dc32-4a13-bb38-d047f4ac25ef",
     "name": "Construcciones Asombrosas",
     "region": "us",
     "category": "Pluto TV",
@@ -841,15 +841,15 @@
   },
   {
     "id": "CourtTV.us@SD",
-    "name": "Court TV",
+    "name": "Court TV (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8"
   },
   {
-    "id": "7ff584e8-eb7e-4940-a37f-5a68679ae558",
-    "name": "Crimen",
+    "id": "4f7e8e79-ceaa-4359-8609-0b28e405040e",
+    "name": "Crimen (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -864,7 +864,7 @@
     "streamUrl": "https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8"
   },
   {
-    "id": "ed9dfd6f-5f49-4cf3-b27f-b5a6838ccfbf",
+    "id": "5ea4c639-51d5-4bf3-8603-c3647e7e3039",
     "name": "Criminal Minds",
     "region": "us",
     "category": "Pluto TV",
@@ -872,8 +872,8 @@
     "streamUrl": "https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8"
   },
   {
-    "id": "c4095d0e-d45b-4f72-bc22-252add3c99a8",
-    "name": "Crunchyroll",
+    "id": "8eda02ff-bcf7-4e61-8021-588c8c35c45b",
+    "name": "Crunchyroll (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -896,7 +896,7 @@
     "streamUrl": "https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8"
   },
   {
-    "id": "bb3506da-28f9-43dc-a1fb-948aa5c8bd05",
+    "id": "aaa5f2bf-c9aa-41b4-9a16-72897107e1d8",
     "name": "CSI: Miami",
     "region": "us",
     "category": "Pluto TV",
@@ -904,7 +904,7 @@
     "streamUrl": "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8"
   },
   {
-    "id": "51967787-e46c-4f72-ad8c-3033a95461db",
+    "id": "0fc0872f-9498-48b6-9225-c4da8aacefd6",
     "name": "CSI: Miami en español",
     "region": "us",
     "category": "Pluto TV",
@@ -912,7 +912,7 @@
     "streamUrl": "https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8"
   },
   {
-    "id": "4106d92e-2e59-4cfc-af30-3fb98997522d",
+    "id": "fb4ac0b4-ff8f-4763-bd2c-5bed6546f8ed",
     "name": "CSI: NY",
     "region": "us",
     "category": "Pluto TV",
@@ -920,7 +920,7 @@
     "streamUrl": "https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8"
   },
   {
-    "id": "42008738-5c1a-418a-b60b-e8ead7a5e499",
+    "id": "4c4f4130-26d3-434e-aec5-030fc8620dfa",
     "name": "CSI: NY en español",
     "region": "us",
     "category": "Pluto TV",
@@ -929,14 +929,14 @@
   },
   {
     "id": "Dateline247.us@SD",
-    "name": "Dateline 24/7",
+    "name": "Dateline 24/7 (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8"
   },
   {
-    "id": "caa4d607-da2d-4e0b-a565-09c10450e863",
+    "id": "b7b6814c-53a2-41ba-921a-43b51fe09e48",
     "name": "Dating Disasters",
     "region": "us",
     "category": "Pluto TV",
@@ -944,7 +944,7 @@
     "streamUrl": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8"
   },
   {
-    "id": "050e1367-fd65-4436-95c4-879d88e1e496",
+    "id": "b614873c-b032-4b49-9eda-bacc895c8dbc",
     "name": "DAZN Ringside",
     "region": "us",
     "category": "Pluto TV",
@@ -952,7 +952,7 @@
     "streamUrl": "https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8"
   },
   {
-    "id": "972aa701-2d00-4f3d-ad2f-071728cb618f",
+    "id": "c103f907-af42-46a3-803d-f087453d7389",
     "name": "DCC: Making the Team",
     "region": "us",
     "category": "Pluto TV",
@@ -976,7 +976,7 @@
     "streamUrl": "https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8"
   },
   {
-    "id": "e064bfb1-f6de-4033-8cfe-f02a0c5a9189",
+    "id": "f7e183e9-eff3-4b39-92b6-07b2a9c77f1a",
     "name": "Degrassi VIDAA TEST",
     "region": "us",
     "category": "Pluto TV",
@@ -984,15 +984,15 @@
     "streamUrl": "https://jmp2.uk/plu-67c0a90621445314490642c8.m3u8"
   },
   {
-    "id": "8b090013-68de-4cdc-a82e-3fee2ea6fa5d",
-    "name": "Delicious Eats by Food Network",
+    "id": "95904776-3b82-43dd-8ae8-7eff2b88a0c4",
+    "name": "Delicious Eats by Food Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8"
   },
   {
-    "id": "51bfff09-7fab-490e-ba73-550eb11e19ca",
+    "id": "ddc45ec3-e9b0-481f-952c-c95640ee8084",
     "name": "Dinos 24/7",
     "region": "us",
     "category": "Pluto TV",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "DoctorWhoClassic.us@US",
-    "name": "Doctor Who Classic",
+    "name": "Doctor Who Classic (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1016,15 +1016,15 @@
     "streamUrl": "https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8"
   },
   {
-    "id": "669847cf-5f56-499b-b16e-e0656c7f28cd",
-    "name": "Dog Whisperer with Cesar Millan",
+    "id": "0053a0b0-c0e4-4c0c-b6e3-bb724cf70a85",
+    "name": "Dog Whisperer with Cesar Millan (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8"
   },
   {
-    "id": "90c9e1b5-feb3-464b-a458-c73553bdaec9",
+    "id": "57acf3b5-4323-4cab-9143-9ed3e1f6272e",
     "name": "Dynasty",
     "region": "us",
     "category": "Pluto TV",
@@ -1032,8 +1032,8 @@
     "streamUrl": "https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8"
   },
   {
-    "id": "093b5ca5-5507-4dcd-8c97-2911def2b2c2",
-    "name": "Ebony TV Drama",
+    "id": "f82476a0-0837-4c08-a475-dee6cab83e71",
+    "name": "Ebony TV Drama (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1048,8 +1048,8 @@
     "streamUrl": "https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8"
   },
   {
-    "id": "5ab7c96e-848d-4064-bbe5-6867adefcb7a",
-    "name": "El Rey Rebel",
+    "id": "acbf5507-de87-4561-84b9-5b43a31c2d59",
+    "name": "El Rey Rebel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": "EstrellaNews.us@SD",
-    "name": "Estrella News",
+    "name": "Estrella News (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1065,7 +1065,7 @@
   },
   {
     "id": "EstrellaTV.us@SD",
-    "name": "EstrellaTV",
+    "name": "EstrellaTV (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "EntertainmentTonight.us@SD",
-    "name": "ET",
+    "name": "ET (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "F1Channel.ie@SD",
-    "name": "F1 Channel",
+    "name": "F1 Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1096,16 +1096,16 @@
     "streamUrl": "https://jmp2.uk/plu-554158e864526b29254ff105.m3u8"
   },
   {
-    "id": "93d4e4a0-788d-4945-86f8-f2cde32df858",
-    "name": "Family Feud",
+    "id": "d52e8892-6690-4123-b842-6a7bcbba910e",
+    "name": "Family Feud (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8"
   },
   {
-    "id": "41a41950-d7ce-4b24-8c9b-dd53529062f5",
-    "name": "Family Feud Classic",
+    "id": "a2bab735-38d3-4b38-8fc5-f471a8a079a0",
+    "name": "Family Feud Classic (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1120,15 +1120,15 @@
     "streamUrl": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8"
   },
   {
-    "id": "633016a7-dc22-498f-9265-c5ee8f3eeb4d",
-    "name": "FanDuel TV Extra",
+    "id": "57b05542-bb33-47d7-9b02-a7a4c1ce8a1e",
+    "name": "FanDuel TV Extra (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8"
   },
   {
-    "id": "63ffd148-79de-44be-8098-d79dabcde624",
+    "id": "a3acc2f4-7511-4b74-8ce3-5abad0bface8",
     "name": "Feel Good Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -1168,7 +1168,7 @@
     "streamUrl": "https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8"
   },
   {
-    "id": "df92f2f4-05a6-4ca3-8e5f-ebf3fd8784e2",
+    "id": "ccef1e22-6d5e-4000-a29c-85df9eecdd73",
     "name": "FOX LOCAL Seattle",
     "region": "us",
     "category": "Pluto TV",
@@ -1176,8 +1176,8 @@
     "streamUrl": "https://jmp2.uk/plu-667f36eda1d7ad00085f588e.m3u8"
   },
   {
-    "id": "f675aa1b-1b5e-4fe7-861f-da1666683e2b",
-    "name": "FOX Sports",
+    "id": "c361939c-6083-49db-a509-1f58d9064138",
+    "name": "FOX Sports (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "FoxWeather.us@SD",
-    "name": "FOX Weather",
+    "name": "FOX Weather (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": "GameShowCentral.us@SD",
-    "name": "Game Show Central",
+    "name": "Game Show Central (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1232,7 +1232,7 @@
     "streamUrl": "https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8"
   },
   {
-    "id": "933cebe3-9082-42c4-b0aa-bff2ee57fe22",
+    "id": "54f48fd9-a558-4b11-a257-2bb4c653e996",
     "name": "Go Go Gadget!",
     "region": "us",
     "category": "Pluto TV",
@@ -1241,15 +1241,15 @@
   },
   {
     "id": "CBSSportsGolazoNetwork.us@SD",
-    "name": "Golazo Network",
+    "name": "Golazo Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8"
   },
   {
-    "id": "5ce54895-c978-46f1-b92c-95d1130a4701",
-    "name": "GolfPass",
+    "id": "6d5e7605-5958-4d3c-81c1-5ed0620c92c1",
+    "name": "GolfPass (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1273,7 +1273,7 @@
   },
   {
     "id": "HallmarkMoviesMore.us@SD",
-    "name": "Hallmark Movies & More",
+    "name": "Hallmark Movies & More (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1296,7 +1296,7 @@
     "streamUrl": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8"
   },
   {
-    "id": "300e8fb5-58ca-498a-bc8c-11ad5fe84a2e",
+    "id": "439ea965-f309-4612-ab65-cbc1ffb8a64a",
     "name": "Heartland VIDAA TEST",
     "region": "us",
     "category": "Pluto TV",
@@ -1304,15 +1304,15 @@
     "streamUrl": "https://jmp2.uk/plu-67c0ac57214453144906eb48.m3u8"
   },
   {
-    "id": "b2f91a00-e1df-47ae-b483-19d93ee198e6",
-    "name": "Hit Sitcoms",
+    "id": "2177a137-fe99-4293-b4bb-62ed1bcb9879",
+    "name": "Hit Sitcoms (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8"
   },
   {
-    "id": "6fefae7b-9559-498b-9f4a-fe07ab8626d1",
+    "id": "1690694b-0556-4296-b422-bad51f8bc66f",
     "name": "Hogan's Heroes",
     "region": "us",
     "category": "Pluto TV",
@@ -1320,7 +1320,7 @@
     "streamUrl": "https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8"
   },
   {
-    "id": "895e2687-315e-4bf8-a29c-e40dba640e13",
+    "id": "f9f3746f-bc8a-4042-8dd6-2958a573975e",
     "name": "Home Cooking by Food Network",
     "region": "us",
     "category": "Pluto TV",
@@ -1328,24 +1328,24 @@
     "streamUrl": "https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8"
   },
   {
-    "id": "99a88ee3-3dfb-4d40-813b-8083b03be982",
-    "name": "Home.Made.Nation",
+    "id": "da50b10a-f9f1-4d8a-86c1-3ae9e368c919",
+    "name": "Home.Made.Nation (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8"
   },
   {
-    "id": "3039f19d-f368-4a41-8c59-6d37407cefd5",
-    "name": "Homeful",
+    "id": "8369d28f-fa4b-4f95-98e7-e3a64e3e0cbf",
+    "name": "Homeful (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8"
   },
   {
-    "id": "1ef8f98d-7d08-4976-aa8b-37b9fc963e2f",
-    "name": "Hot Bench",
+    "id": "39a64563-4a88-4c95-8dfc-8c3b49f3d24c",
+    "name": "Hot Bench (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1353,14 +1353,14 @@
   },
   {
     "id": "HSN.us@East",
-    "name": "HSN",
+    "name": "HSN (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8"
   },
   {
-    "id": "46035e78-e565-440f-9c8f-913de240febd",
+    "id": "dcf9c0b8-1284-427f-a56a-ba0b6f9982d2",
     "name": "I Love Lucy",
     "region": "us",
     "category": "Pluto TV",
@@ -1384,7 +1384,7 @@
     "streamUrl": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8"
   },
   {
-    "id": "766bb3b9-ef84-4df0-8b31-bca9c11c9fdf",
+    "id": "12dfd563-a2f8-4ea8-ad2c-7f8ac148a374",
     "name": "Inuyasha",
     "region": "us",
     "category": "Pluto TV",
@@ -1392,7 +1392,7 @@
     "streamUrl": "https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8"
   },
   {
-    "id": "b2822398-0035-4d87-967b-a639db8cddf5",
+    "id": "58cf67ce-e141-465e-b0fb-a0f102cee321",
     "name": "Investiga",
     "region": "us",
     "category": "Pluto TV",
@@ -1400,8 +1400,8 @@
     "streamUrl": "https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8"
   },
   {
-    "id": "0949c4b2-5e71-4705-8096-8e49208b4761",
-    "name": "ION",
+    "id": "51dcd204-81d3-40d1-adcd-e0d171ad9387",
+    "name": "ION (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1432,15 +1432,15 @@
     "streamUrl": "https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8"
   },
   {
-    "id": "726a8b9e-1128-4398-b8c2-59a0fd354b50",
-    "name": "KIRO Seattle",
+    "id": "4d067100-d2ed-40eb-9beb-705b2a1c7ded",
+    "name": "KIRO Seattle (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-632b619c8d2a6c0007ff534e.m3u8"
   },
   {
-    "id": "43df6540-9b37-4e21-aae8-d80df9c0de48",
+    "id": "4ed44e41-fdae-4f0a-8647-8121c093dd8c",
     "name": "La Familia del Barrio",
     "region": "us",
     "category": "Pluto TV",
@@ -1448,8 +1448,8 @@
     "streamUrl": "https://jmp2.uk/plu-668c566d08d5490008075948.m3u8"
   },
   {
-    "id": "df19f4d5-6570-4c63-99e6-d1e4e1dcb5f4",
-    "name": "Law & Order",
+    "id": "c7e82b29-6a2e-476c-914e-f8acea89ccb0",
+    "name": "Law & Order (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1464,23 +1464,23 @@
     "streamUrl": "https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8"
   },
   {
-    "id": "ff03bd7a-73b7-434b-accb-5a31605c4916",
-    "name": "Let's Make A Deal",
+    "id": "926c71d4-91ad-4e26-baca-b3e46a7c772d",
+    "name": "Let's Make A Deal (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8"
   },
   {
-    "id": "0a22da2b-0d40-4741-b881-7e704d77c107",
-    "name": "Lifetime Movie Favorites",
+    "id": "fbfde510-2896-4ca7-86ad-50916c3335aa",
+    "name": "Lifetime Movie Favorites (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-63335b193583440007c859fb.m3u8"
   },
   {
-    "id": "89877411-f2d7-4198-a60e-96409b6e0525",
+    "id": "2270a53e-afc6-4195-a746-ad5fd815e135",
     "name": "Little Angel's Playroom",
     "region": "us",
     "category": "Pluto TV",
@@ -1488,7 +1488,7 @@
     "streamUrl": "https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8"
   },
   {
-    "id": "629d3219-0bdb-4712-acc8-5ddf40bc9302",
+    "id": "3746549c-60f0-40b0-9441-87b568856355",
     "name": "Little Angel's Playroom en Español",
     "region": "us",
     "category": "Pluto TV",
@@ -1496,8 +1496,8 @@
     "streamUrl": "https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8"
   },
   {
-    "id": "bcc5895f-f579-457f-84ff-a50e9ff05467",
-    "name": "Little House on the Prairie",
+    "id": "3a6b188b-d1cf-4706-9a2f-6115531fc740",
+    "name": "Little House on the Prairie (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1512,7 +1512,7 @@
     "streamUrl": "https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8"
   },
   {
-    "id": "29c25f2b-3a51-4f2c-a648-e126f4195538",
+    "id": "db1d1d33-9f39-4dcb-b2dd-a31f20ca858d",
     "name": "Live Music",
     "region": "us",
     "category": "Pluto TV",
@@ -1520,8 +1520,8 @@
     "streamUrl": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8"
   },
   {
-    "id": "b515271c-cd85-4d77-a824-f607c593e789",
-    "name": "Live PD Presents",
+    "id": "c4a7d45a-8ac3-4f89-bec2-dfe837fa3993",
+    "name": "Live PD Presents (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1529,15 +1529,15 @@
   },
   {
     "id": "LiveNOWfromFOX.us@SD",
-    "name": "LiveNOW from FOX",
+    "name": "LiveNOW from FOX (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8"
   },
   {
-    "id": "6d5a8dda-5281-47a4-b025-8f1693ab2bcf",
-    "name": "Living With Evil",
+    "id": "18823901-399b-444e-aec2-7501a6bb7e33",
+    "name": "Living With Evil (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "LoveNature.ca@SD",
-    "name": "Love Nature",
+    "name": "Love Nature (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1576,7 +1576,7 @@
     "streamUrl": "https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8"
   },
   {
-    "id": "a52f07b4-e307-4588-b0ed-5cc54b94fe29",
+    "id": "e24965ab-1445-46dd-8741-821789f7bc82",
     "name": "Más adrenalina",
     "region": "us",
     "category": "Pluto TV",
@@ -1584,8 +1584,8 @@
     "streamUrl": "https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8"
   },
   {
-    "id": "d931d429-9d45-4b7f-955b-2a9b26fc00a2",
-    "name": "Matched Married Meet by Lifetime",
+    "id": "db41efa3-6003-47fc-8e0f-a6260cfbe277",
+    "name": "Matched Married Meet by Lifetime (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1608,8 +1608,8 @@
     "streamUrl": "https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8"
   },
   {
-    "id": "97b10ead-7080-4ea3-808f-f88fbd699c17",
-    "name": "Million Dollar Listing Vault",
+    "id": "5172c512-0bc5-44a2-9510-2a322e013718",
+    "name": "Million Dollar Listing Vault (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1624,7 +1624,7 @@
     "streamUrl": "https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8"
   },
   {
-    "id": "f884cf3a-ecca-4cf6-8b9f-ff10009f6c8a",
+    "id": "efdda046-f076-40a9-a119-8c8cc3af20f7",
     "name": "Mister Rogers' Neighborhood",
     "region": "us",
     "category": "Pluto TV",
@@ -1641,15 +1641,15 @@
   },
   {
     "id": "MLB.us@SD",
-    "name": "MLB",
+    "name": "MLB (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8"
   },
   {
-    "id": "a85a7927-a4a1-4a68-aa51-b54c7b870c07",
-    "name": "Modern Marvels by HISTORY",
+    "id": "fac466e3-47a5-4743-b791-d7cd2eeb9dbe",
+    "name": "Modern Marvels by HISTORY (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1664,7 +1664,7 @@
     "streamUrl": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8"
   },
   {
-    "id": "2299dcbd-c670-4439-9948-83afdaf606d6",
+    "id": "b59f9465-113d-4353-b0c8-5807bd6ae1db",
     "name": "More True Crime",
     "region": "us",
     "category": "Pluto TV",
@@ -1696,8 +1696,8 @@
     "streamUrl": "https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8"
   },
   {
-    "id": "1f38bf62-0363-4c31-8a6f-b7dcb2d9bbe6",
-    "name": "MovieSphere by Lionsgate",
+    "id": "3be2bc88-01a3-4b04-b803-8d162de8a223",
+    "name": "MovieSphere by Lionsgate (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1713,7 +1713,7 @@
   },
   {
     "id": "MTVBiggestPop.us@US",
-    "name": "MTV Biggest Pop",
+    "name": "MTV Biggest Pop (1080p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1728,8 +1728,8 @@
     "streamUrl": "https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8"
   },
   {
-    "id": "b951fb0e-3cd7-4f2a-a39b-ea9fda5bcd51",
-    "name": "MTV Flow Latino",
+    "id": "1f08bef5-4774-4967-80fd-63d7e3c1f033",
+    "name": "MTV Flow Latino (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1745,15 +1745,15 @@
   },
   {
     "id": "MTVSpankinNew.us@US",
-    "name": "MTV Spankin' New",
+    "name": "MTV Spankin' New (1080p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"
   },
   {
-    "id": "a6e0ba2b-9961-4ebb-8cea-43a52721ce2d",
-    "name": "Murder She Wrote",
+    "id": "df1b06e6-bb32-4442-94b7-601603f54c4f",
+    "name": "Murder She Wrote (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1776,7 +1776,7 @@
     "streamUrl": "https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8"
   },
   {
-    "id": "fa53f32b-cb98-4b70-ab6b-ec41ebd0d063",
+    "id": "28ab5dc2-3c67-4739-a4db-c36f825a4ca7",
     "name": "Nash Bridges",
     "region": "us",
     "category": "Pluto TV",
@@ -1784,8 +1784,8 @@
     "streamUrl": "https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8"
   },
   {
-    "id": "7b3b950a-00b1-4043-a345-7da42d8d9f6b",
-    "name": "Naturescape",
+    "id": "0650bd63-9a87-434b-9787-419e8d457271",
+    "name": "Naturescape (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "NBCNewsNOW.us@SD",
-    "name": "NBC News NOW",
+    "name": "NBC News NOW (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": "NBCSportsNOW.us@SD",
-    "name": "NBC Sports NOW",
+    "name": "NBC Sports NOW (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1809,7 +1809,7 @@
   },
   {
     "id": "News12NewYork.us@SD",
-    "name": "News 12 New York",
+    "name": "News 12 New York (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1817,7 +1817,7 @@
   },
   {
     "id": "Newsmax2.us@SD",
-    "name": "Newsmax2",
+    "name": "Newsmax2 (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1825,15 +1825,15 @@
   },
   {
     "id": "NFLChannel.us@SD",
-    "name": "NFL Channel",
+    "name": "NFL Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8"
   },
   {
-    "id": "5cc39466-ba2f-43eb-9026-970c0d00fca8",
-    "name": "Nick Jr. Pluto TV",
+    "id": "7f11ae63-caa9-4b20-b22b-0c05cea82959",
+    "name": "Nick Jr. Pluto TV (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1849,22 +1849,22 @@
   },
   {
     "id": "NickPlutoTV.us@US",
-    "name": "Nickelodeon Pluto TV",
+    "name": "Nickelodeon Pluto TV (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
   },
   {
-    "id": "06b853de-84b0-46a2-b834-4de68785f378",
-    "name": "No Reservations",
+    "id": "343e7e3b-9db0-4024-9347-cbccb4ecee21",
+    "name": "No Reservations (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8"
   },
   {
-    "id": "f34c65d7-f6d9-4e90-a20a-577101691338",
+    "id": "c88960f7-7bcc-44ec-b618-612c4d507998",
     "name": "Nosey",
     "region": "us",
     "category": "Pluto TV",
@@ -1873,15 +1873,15 @@
   },
   {
     "id": "OANPlus.us@SD",
-    "name": "OAN Plus",
+    "name": "OAN Plus (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8"
   },
   {
-    "id": "6c10b421-8e55-476f-ba94-926fa3e5e9fc",
-    "name": "ONE Championship TV",
+    "id": "7f712af7-7171-479f-a92f-3e6d183a53cf",
+    "name": "ONE Championship TV (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1896,7 +1896,7 @@
     "streamUrl": "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8"
   },
   {
-    "id": "20200ae7-0152-4f7c-a2ac-15d4c064beb4",
+    "id": "4b6b33a8-cc6f-4f5a-b8b1-6f06880f83be",
     "name": "OuterSphere",
     "region": "us",
     "category": "Pluto TV",
@@ -1904,15 +1904,15 @@
     "streamUrl": "https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8"
   },
   {
-    "id": "76b11a53-3faa-4981-a603-2983ee1100f4",
-    "name": "Oxygen True Crime Archives",
+    "id": "4dc93168-4c90-431d-8743-670f4dc0cd3f",
+    "name": "Oxygen True Crime Archives (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8"
   },
   {
-    "id": "02038b39-d765-4781-a7f9-3b7bf4ad5eb9",
+    "id": "a634dcf5-f56a-4505-bc5c-710b8f9e8968",
     "name": "P+ VLL",
     "region": "us",
     "category": "Pluto TV",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": "PBRRidePass.us@SD",
-    "name": "PBR RidePass",
+    "name": "PBR RidePass (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1945,7 +1945,7 @@
   },
   {
     "id": "PBSAntiquesRoadshow.us@SD",
-    "name": "PBS Antiques Roadshow",
+    "name": "PBS Antiques Roadshow (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -1953,14 +1953,14 @@
   },
   {
     "id": "PBSNature.us@SD",
-    "name": "PBS Nature",
+    "name": "PBS Nature (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8"
   },
   {
-    "id": "b837c95a-b7c3-44b7-a0c9-4432f6a5b568",
+    "id": "1404cf1f-3036-40e8-829e-abf5ec054d3d",
     "name": "Peppa Pig",
     "region": "us",
     "category": "Pluto TV",
@@ -1992,7 +1992,7 @@
     "streamUrl": "https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8"
   },
   {
-    "id": "e60fe24e-73d1-499c-8c75-fbb721f97cc8",
+    "id": "18763071-5fbe-400c-811e-6f3536be20a3",
     "name": "Pickers & Pawn",
     "region": "us",
     "category": "Pluto TV",
@@ -2056,7 +2056,7 @@
     "streamUrl": "https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8"
   },
   {
-    "id": "df00519c-5f58-4dad-9e5a-69959554fff2",
+    "id": "77e0806a-438b-4900-846d-cdd333147297",
     "name": "Pluto TV Competition",
     "region": "us",
     "category": "Pluto TV",
@@ -2128,7 +2128,7 @@
     "streamUrl": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8"
   },
   {
-    "id": "b607cd8c-96cc-4854-aaac-357b13c6b8b7",
+    "id": "7d4ebbac-26ed-44d8-a041-e1dd6aca3635",
     "name": "Pluto TV Icons",
     "region": "us",
     "category": "Pluto TV",
@@ -2144,7 +2144,7 @@
     "streamUrl": "https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8"
   },
   {
-    "id": "60efc70a-bdf0-4135-ad76-345c5812974a",
+    "id": "abf8a6b1-f378-4503-a09f-4b1ad7ac65f0",
     "name": "Pluto TV Love Stories",
     "region": "us",
     "category": "Pluto TV",
@@ -2200,7 +2200,7 @@
     "streamUrl": "https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8"
   },
   {
-    "id": "4272ab78-753a-40bf-acb0-a3682e864b93",
+    "id": "94a58ea5-2466-4838-94ce-46305220709d",
     "name": "Pluto TV Sci-Fi",
     "region": "us",
     "category": "Pluto TV",
@@ -2248,7 +2248,7 @@
     "streamUrl": "https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8"
   },
   {
-    "id": "16ebe38b-64fe-4162-80ae-8ae00113a870",
+    "id": "218382e8-b195-4ce3-9176-452fb7d2cb13",
     "name": "Pluto TV Trending Now",
     "region": "us",
     "category": "Pluto TV",
@@ -2296,7 +2296,7 @@
     "streamUrl": "https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8"
   },
   {
-    "id": "d1eb3027-7349-471f-b6b3-d9b1f9f80b04",
+    "id": "1b75b11c-5da1-4c8e-8265-684552c40887",
     "name": "Project Runway",
     "region": "us",
     "category": "Pluto TV",
@@ -2304,7 +2304,7 @@
     "streamUrl": "https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8"
   },
   {
-    "id": "3fd64009-1a6c-4681-b09b-27870a10ef54",
+    "id": "67e96f94-e6c9-428b-97da-6a3ab0595f97",
     "name": "QVC",
     "region": "us",
     "category": "Pluto TV",
@@ -2312,7 +2312,7 @@
     "streamUrl": "https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8"
   },
   {
-    "id": "2f0833aa-f595-48c0-8f22-ea236dabbd36",
+    "id": "67075445-bb25-4908-9254-3fb57e419e5f",
     "name": "QVC2",
     "region": "us",
     "category": "Pluto TV",
@@ -2320,7 +2320,7 @@
     "streamUrl": "https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8"
   },
   {
-    "id": "4f600ec9-a748-4a9d-ac28-917bdbf0d458",
+    "id": "77a8052b-4904-426b-92df-9d79e7c57468",
     "name": "Rawhide",
     "region": "us",
     "category": "Pluto TV",
@@ -2328,7 +2328,7 @@
     "streamUrl": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8"
   },
   {
-    "id": "d24c3b7e-1571-4c81-8f99-8cbd9f372499",
+    "id": "af3d42be-a74c-48ab-bb0a-b7380fe90fc5",
     "name": "Real Disaster Channel",
     "region": "us",
     "category": "Pluto TV",
@@ -2336,7 +2336,7 @@
     "streamUrl": "https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8"
   },
   {
-    "id": "dd2961f6-78cb-4f74-8865-db69a0724a89",
+    "id": "8990bd2c-c5d5-4193-9e2b-53ad83439f96",
     "name": "Real Housewives Vault",
     "region": "us",
     "category": "Pluto TV",
@@ -2360,7 +2360,7 @@
     "streamUrl": "https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8"
   },
   {
-    "id": "4aa50fd3-75f5-49aa-91de-08b3a6473017",
+    "id": "81c92016-789d-41da-9973-5e1574bd6c64",
     "name": "Robot Wars by MECH+",
     "region": "us",
     "category": "Pluto TV",
@@ -2368,7 +2368,7 @@
     "streamUrl": "https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8"
   },
   {
-    "id": "5ba1e5cb-f28c-4e81-a920-8fb8fe3a3cf7",
+    "id": "e0d87366-7da7-4579-8bad-094640569a9a",
     "name": "Rustic Retreats",
     "region": "us",
     "category": "Pluto TV",
@@ -2384,7 +2384,7 @@
     "streamUrl": "https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8"
   },
   {
-    "id": "f9c26c4d-23bb-4bb4-b75f-52f276615707",
+    "id": "c824afd5-82c5-4355-bf2f-cf6e51f25136",
     "name": "S.W.A.T.",
     "region": "us",
     "category": "Pluto TV",
@@ -2392,7 +2392,7 @@
     "streamUrl": "https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8"
   },
   {
-    "id": "17ef3079-cbe5-4a8e-af11-4861030130ce",
+    "id": "85f94dc7-f7a1-4636-91c8-932773aa8027",
     "name": "Sailor Moon",
     "region": "us",
     "category": "Pluto TV",
@@ -2400,7 +2400,7 @@
     "streamUrl": "https://jmp2.uk/plu-637e55347427a40007fac703.m3u8"
   },
   {
-    "id": "30b35a82-48e2-4d46-b9ef-5f625f8ff39a",
+    "id": "6bb85b76-270f-419d-8500-41a860276aed",
     "name": "Sala de Emergencias: Historias Inéditas",
     "region": "us",
     "category": "Pluto TV",
@@ -2408,7 +2408,7 @@
     "streamUrl": "https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8"
   },
   {
-    "id": "0e151a6a-d48f-4fd2-b7b9-87346d848f2c",
+    "id": "d83b12f9-1937-4f63-af19-2e3ab30a4778",
     "name": "Salem News Channel",
     "region": "us",
     "category": "Pluto TV",
@@ -2424,7 +2424,7 @@
     "streamUrl": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8"
   },
   {
-    "id": "04581b3a-62d9-4873-b361-703c26b792b3",
+    "id": "3d54576e-6d6b-4503-9449-c5f2b101835e",
     "name": "Shop LC",
     "region": "us",
     "category": "Pluto TV",
@@ -2432,7 +2432,7 @@
     "streamUrl": "https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8"
   },
   {
-    "id": "accb3854-84bf-4772-8e5a-604e453d164a",
+    "id": "4adb0f8f-8579-4ee6-b10c-251a92cb83ae",
     "name": "Sitcom Legends",
     "region": "us",
     "category": "Pluto TV",
@@ -2440,7 +2440,7 @@
     "streamUrl": "https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8"
   },
   {
-    "id": "ca6d5e6c-d92a-472a-aa41-8ab919df3a1b",
+    "id": "c2f816d7-aac2-4843-8545-72c3bd893fd7",
     "name": "Sketchy AF",
     "region": "us",
     "category": "Pluto TV",
@@ -2488,7 +2488,7 @@
     "streamUrl": "https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8"
   },
   {
-    "id": "f3cc3dd7-395e-41ca-bd48-dee3e64ca0f1",
+    "id": "66d5fd29-e4a1-4480-8436-d540befa7b1f",
     "name": "Star Trek: Deep Space Nine",
     "region": "us",
     "category": "Pluto TV",
@@ -2496,7 +2496,7 @@
     "streamUrl": "https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8"
   },
   {
-    "id": "dfd86295-8989-4ca2-b8e4-cb662d5d57c5",
+    "id": "74ed9c4a-a68b-47af-b023-0f58fb0fd74b",
     "name": "Star Trek: The Next Generation",
     "region": "us",
     "category": "Pluto TV",
@@ -2504,7 +2504,7 @@
     "streamUrl": "https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8"
   },
   {
-    "id": "3df8d3a7-fe98-4bfb-9a4e-ed598cb6c764",
+    "id": "00d262bf-fa09-455d-b058-d71ad75143e7",
     "name": "Star Trek: Voyager",
     "region": "us",
     "category": "Pluto TV",
@@ -2512,7 +2512,7 @@
     "streamUrl": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8"
   },
   {
-    "id": "4c93230e-2bf4-4087-acb4-9c7acaae0123",
+    "id": "aa84e20e-3d29-4f8a-b833-8be147d35293",
     "name": "Stargate",
     "region": "us",
     "category": "Pluto TV",
@@ -2520,7 +2520,7 @@
     "streamUrl": "https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8"
   },
   {
-    "id": "a6a30718-9a9a-4116-b72d-9323d287c763",
+    "id": "0772060b-523c-42de-80ef-e64719024439",
     "name": "Stingray Holidayscapes",
     "region": "us",
     "category": "Pluto TV",
@@ -2528,8 +2528,8 @@
     "streamUrl": "https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8"
   },
   {
-    "id": "84c44aac-e56d-4499-8f8b-53c96bfd27f0",
-    "name": "Storage Wars by A&E",
+    "id": "479fce35-a51a-4785-bfa3-9762f9a8043f",
+    "name": "Storage Wars by A&E (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2544,7 +2544,7 @@
     "streamUrl": "https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8"
   },
   {
-    "id": "4382dccb-ddd5-47ae-a256-05c80ce26973",
+    "id": "51e0bdff-9bf3-4dad-945b-88033301c997",
     "name": "Strawberry Shortcake and Friends",
     "region": "us",
     "category": "Pluto TV",
@@ -2552,7 +2552,7 @@
     "streamUrl": "https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8"
   },
   {
-    "id": "38a1564d-a6e9-43ed-9b72-9ba42d3931d8",
+    "id": "d997e3a3-8c7d-4162-bcc8-b765dfe799a8",
     "name": "Supermarket Sweep",
     "region": "us",
     "category": "Pluto TV",
@@ -2560,7 +2560,7 @@
     "streamUrl": "https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8"
   },
   {
-    "id": "a1d94244-0f6a-4248-9948-48484246e90b",
+    "id": "21e16e1b-2c74-46a5-959e-d1755274fc64",
     "name": "Supernatural Drama",
     "region": "us",
     "category": "Pluto TV",
@@ -2577,15 +2577,15 @@
   },
   {
     "id": "SwerveSports.us@SD",
-    "name": "Swerve Sports",
+    "name": "Swerve Sports (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8"
   },
   {
-    "id": "880439fe-af51-46b8-8ba7-8c9f0716f629",
-    "name": "Tastemade Smokehouse",
+    "id": "e875e51e-7761-4f9b-967b-b1d69d3388e7",
+    "name": "Tastemade Smokehouse (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2609,7 +2609,7 @@
   },
   {
     "id": "TennisChannel.us@Plus2",
-    "name": "TennisChannel 2",
+    "name": "TennisChannel 2 (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2656,8 +2656,8 @@
     "streamUrl": "https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8"
   },
   {
-    "id": "f95c09e3-60c5-4572-9426-b54f405dcc8a",
-    "name": "The Emeril Lagasse Channel",
+    "id": "a4e2462c-df8d-4dd5-9022-277a9b30f461",
+    "name": "The Emeril Lagasse Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2672,8 +2672,8 @@
     "streamUrl": "https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8"
   },
   {
-    "id": "63d415b9-b62b-41b5-9364-e61246f1095d",
-    "name": "The First 48 by A&E",
+    "id": "f3176cee-c34f-4d8a-a323-3e79f051ab20",
+    "name": "The First 48 by A&E (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": "TheJamieOliverChannel.us@SD",
-    "name": "The Jamie Oliver Channel",
+    "name": "The Jamie Oliver Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2689,15 +2689,15 @@
   },
   {
     "id": "TheJudgeJudyChannel.us@SD",
-    "name": "The Judge Judy Channel",
+    "name": "The Judge Judy Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8"
   },
   {
-    "id": "4d2b3bcb-5a6e-4765-b6c7-a8269269cd32",
-    "name": "The Lone Ranger",
+    "id": "19a42bff-0190-493f-b757-cdcf2e4ba599",
+    "name": "The Lone Ranger (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2712,16 +2712,16 @@
     "streamUrl": "https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8"
   },
   {
-    "id": "8527618a-65ba-4320-a659-4443658cc926",
-    "name": "The Martha Stewart Channel",
+    "id": "24ec4117-d306-463a-8a1d-c52d4aee6aa7",
+    "name": "The Martha Stewart Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8"
   },
   {
-    "id": "bdea1208-8879-4bbe-91a8-2100aa462608",
-    "name": "The NBA Channel",
+    "id": "5b16531a-6d3e-4783-ab7d-029e299200a3",
+    "name": "The NBA Channel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2737,7 +2737,7 @@
   },
   {
     "id": "ThePetCollective.us@US",
-    "name": "The Pet Collective",
+    "name": "The Pet Collective (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2753,7 +2753,7 @@
   },
   {
     "id": "ThePriceIsRightTheBarkerEra.us@SD",
-    "name": "The Price Is Right: The Barker Era",
+    "name": "The Price Is Right: The Barker Era (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2777,7 +2777,7 @@
   },
   {
     "id": "TheWalkingDeadenEspanol.us@SD",
-    "name": "The Walking Dead en español",
+    "name": "The Walking Dead en español (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2785,14 +2785,14 @@
   },
   {
     "id": "TheWalkingDeadUniverse.us@SD",
-    "name": "The Walking Dead Universe",
+    "name": "The Walking Dead Universe (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8"
   },
   {
-    "id": "787cee36-c0f5-414b-b09c-793d56a363ea",
+    "id": "5a551b2b-8d37-4b7a-9ebb-33e016da778b",
     "name": "The Wild Wild West",
     "region": "us",
     "category": "Pluto TV",
@@ -2800,7 +2800,7 @@
     "streamUrl": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8"
   },
   {
-    "id": "4c18ceb2-64e9-4227-9401-5c22e511c900",
+    "id": "5e7f4458-d7b1-4b8a-a7bc-e306d916fe02",
     "name": "The X-Files",
     "region": "us",
     "category": "Pluto TV",
@@ -2825,7 +2825,7 @@
   },
   {
     "id": "TinyHouseNation.us@SD",
-    "name": "Tiny House Nation",
+    "name": "Tiny House Nation (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2833,7 +2833,7 @@
   },
   {
     "id": "TNAWrestlingChannel.pl@SD",
-    "name": "TNA Wrestling",
+    "name": "TNA Wrestling (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2848,8 +2848,8 @@
     "streamUrl": "https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8"
   },
   {
-    "id": "10b37862-fc1b-48ca-b09b-bd4bb3275670",
-    "name": "Tony Robbins Network",
+    "id": "1e1b4444-99d0-4f89-9e94-7d29363cbcaa",
+    "name": "Tony Robbins Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2857,14 +2857,14 @@
   },
   {
     "id": "TopGear.uk@SD",
-    "name": "Top Gear",
+    "name": "Top Gear (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8"
   },
   {
-    "id": "e2a133ea-83ff-4116-acf3-3ce94f6314e5",
+    "id": "aa849481-5b5b-4a13-a978-81a844c6e589",
     "name": "Top Rank Classics",
     "region": "us",
     "category": "Pluto TV",
@@ -2872,7 +2872,7 @@
     "streamUrl": "https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8"
   },
   {
-    "id": "17f89e6d-a1a6-4350-8b4d-afd8f7aa0bb2",
+    "id": "fc8e7104-baa9-4716-8789-f03dfa077a5d",
     "name": "Tosh.0",
     "region": "us",
     "category": "Pluto TV",
@@ -2888,7 +2888,7 @@
     "streamUrl": "https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8"
   },
   {
-    "id": "55a68418-c4d5-44f8-b5a6-3e3df14d3967",
+    "id": "c8317141-1fa5-4fab-99c3-5832dc316b76",
     "name": "Tough Jobs",
     "region": "us",
     "category": "Pluto TV",
@@ -2896,7 +2896,7 @@
     "streamUrl": "https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8"
   },
   {
-    "id": "ed205a29-aa0a-45e6-bc32-718f46b88cce",
+    "id": "b0b2d276-7cc2-41c6-8995-717f336cf3c7",
     "name": "Transformers TV",
     "region": "us",
     "category": "Pluto TV",
@@ -2904,8 +2904,8 @@
     "streamUrl": "https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8"
   },
   {
-    "id": "38ab7227-9f32-40d1-9ddd-9b737086de59",
-    "name": "Triton Poker",
+    "id": "17a9bb39-b7a5-40f3-a0f3-a5c1f74d19aa",
+    "name": "Triton Poker (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2944,15 +2944,15 @@
     "streamUrl": "https://jmp2.uk/plu-61bd0b57872c650008ed2e38.m3u8"
   },
   {
-    "id": "a5d30273-af95-4680-be08-c721967c5d83",
-    "name": "UEFA Champions League",
+    "id": "30bfc16a-cb3a-42e0-96db-1653631eef41",
+    "name": "UEFA Champions League (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8"
   },
   {
-    "id": "abd9ac41-0735-40f2-a9bb-07eb2fda3a2a",
+    "id": "fde4471e-912a-4573-bc28-6bd5184af05b",
     "name": "UFC",
     "region": "us",
     "category": "Pluto TV",
@@ -2960,16 +2960,16 @@
     "streamUrl": "https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8"
   },
   {
-    "id": "5612c99f-cb7d-43ed-a3ce-30436f0c907a",
-    "name": "Ultimate Builds",
+    "id": "52fb9a06-8ef9-4beb-abd5-8afdd00be015",
+    "name": "Ultimate Builds (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8"
   },
   {
-    "id": "0fed1248-3fa2-405b-8196-80a097c78b4f",
-    "name": "Universal Action",
+    "id": "203372cf-c27a-4373-8cc2-eccfbc140ac3",
+    "name": "Universal Action (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -2977,15 +2977,15 @@
   },
   {
     "id": "UniversalCrime.us@East",
-    "name": "Universal Crime",
+    "name": "Universal Crime (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8"
   },
   {
-    "id": "a17cd3dd-6b4b-4d8d-b1ac-3bb57feb0e76",
-    "name": "Universal Monsters",
+    "id": "c7f387d2-6331-4349-b888-0aaed51544aa",
+    "name": "Universal Monsters (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -3000,7 +3000,7 @@
     "streamUrl": "https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8"
   },
   {
-    "id": "f8405252-ef7b-49ae-bf5d-2123750292c2",
+    "id": "69af7ddb-230a-40e7-b6d9-f9e12d0b735e",
     "name": "UnXplained Zone",
     "region": "us",
     "category": "Pluto TV",
@@ -3048,7 +3048,7 @@
     "streamUrl": "https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8"
   },
   {
-    "id": "fad5c44a-e17b-4fd5-8dbd-488628412dc8",
+    "id": "157d738e-64ba-4d5b-a6fd-8c359a53c7c6",
     "name": "Vevo Íconos Latinos",
     "region": "us",
     "category": "Pluto TV",
@@ -3072,7 +3072,7 @@
     "streamUrl": "https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8"
   },
   {
-    "id": "4c0d3052-a83d-4182-8240-a8fad6099c95",
+    "id": "25e82601-a2e9-4f8a-9dd4-55fd8deb28ed",
     "name": "Vevo Regional Mexicano",
     "region": "us",
     "category": "Pluto TV",
@@ -3080,7 +3080,7 @@
     "streamUrl": "https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8"
   },
   {
-    "id": "8de251d7-810d-43df-8a34-9e5e504f5c2f",
+    "id": "2636171e-1554-4c98-983b-bedb2641fd20",
     "name": "Vevo Rock",
     "region": "us",
     "category": "Pluto TV",
@@ -3088,7 +3088,7 @@
     "streamUrl": "https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8"
   },
   {
-    "id": "526492f3-23eb-4408-af68-3ea54940107c",
+    "id": "083288d6-63c4-457d-bb6d-7f64b2ff7d40",
     "name": "Vevo True School Hip-Hop",
     "region": "us",
     "category": "Pluto TV",
@@ -3096,7 +3096,7 @@
     "streamUrl": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8"
   },
   {
-    "id": "9ad39540-fbf1-42f5-a16b-03b8cc5eef1e",
+    "id": "ded61e69-0c75-49be-bc76-37140e00267f",
     "name": "VH1 Queens of Reality",
     "region": "us",
     "category": "Pluto TV",
@@ -3104,7 +3104,7 @@
     "streamUrl": "https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8"
   },
   {
-    "id": "65a184a3-e72a-429d-b6a4-c26266345c96",
+    "id": "d9834c62-e658-4f1b-a809-c22d1df7392d",
     "name": "Vidas Extremas",
     "region": "us",
     "category": "Pluto TV",
@@ -3112,15 +3112,15 @@
     "streamUrl": "https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8"
   },
   {
-    "id": "2c07d83a-1da0-4ddb-9872-7589a52acb63",
-    "name": "Warner Bros. TV Say Yes to the Dress",
+    "id": "3b268925-0f90-4898-820f-874c7ed22fe6",
+    "name": "Warner Bros. TV Say Yes to the Dress (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8"
   },
   {
-    "id": "e9849b09-346d-412b-8bbb-af0bd009b8de",
+    "id": "c5845a6f-de2c-4a6b-b10c-f3d1f641f191",
     "name": "Warner Bros. TV Sweet Escapes",
     "region": "us",
     "category": "Pluto TV",
@@ -3136,7 +3136,7 @@
     "streamUrl": "https://jmp2.uk/plu-5d2cb7ac552e3773bc48982e.m3u8"
   },
   {
-    "id": "39cbf041-933b-4018-8a63-3b08379a625c",
+    "id": "9808a993-433e-40c6-8629-5abc1b663faf",
     "name": "WeatherNation Seattle",
     "region": "us",
     "category": "Pluto TV",
@@ -3144,7 +3144,7 @@
     "streamUrl": "https://jmp2.uk/plu-628bf0057007a30007e99af9.m3u8"
   },
   {
-    "id": "dd5df79d-0c7b-4bbd-b174-63fcafaed067",
+    "id": "14b1d916-84ae-47d0-bdbd-6461ed1eda5c",
     "name": "Western TV",
     "region": "us",
     "category": "Pluto TV",
@@ -3152,8 +3152,8 @@
     "streamUrl": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8"
   },
   {
-    "id": "1ecbc764-3252-4c2d-a520-1f17b41aea29",
-    "name": "Wicked Tuna",
+    "id": "ba2df9cc-32b9-4621-8172-a6cea309a6a8",
+    "name": "Wicked Tuna (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -3169,15 +3169,15 @@
   },
   {
     "id": "WomensSportsNetwork.us@SD",
-    "name": "Women's Sports Network",
+    "name": "Women's Sports Network (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8"
   },
   {
-    "id": "8fd2e523-3c93-42e2-bddb-b000285056e4",
-    "name": "World of Love Island",
+    "id": "0a001fe5-4c38-4023-a15e-d0bb58474f88",
+    "name": "World of Love Island (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
@@ -3192,7 +3192,7 @@
     "streamUrl": "https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8"
   },
   {
-    "id": "1dd854b2-d1aa-4468-865a-1d30334f6462",
+    "id": "f166569c-e8eb-419c-9f5f-0be673e5cc74",
     "name": "Wrestling Central",
     "region": "us",
     "category": "Pluto TV",
@@ -3200,31 +3200,31 @@
     "streamUrl": "https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8"
   },
   {
-    "id": "ebf647aa-637b-4225-ba51-d67d3c02d0c7",
-    "name": "XITE Classic Country",
+    "id": "79c65226-da21-483f-a61f-f3b963a3c278",
+    "name": "XITE Classic Country (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8"
   },
   {
-    "id": "33e68b96-4226-4ece-9eba-9037d7eea161",
-    "name": "XITE Gospel",
+    "id": "aa4a20a0-17e1-4da2-9360-c324fea7ccc9",
+    "name": "XITE Gospel (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8"
   },
   {
-    "id": "725d60be-55bd-45cf-95c3-84bec6b22276",
-    "name": "XITE Rock x Metal",
+    "id": "5c1d2f46-2fbd-477a-951a-7d56a4e0c1f4",
+    "name": "XITE Rock x Metal (720p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
     "streamUrl": "https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8"
   },
   {
-    "id": "c194915b-b88a-486f-ac34-b4f95df92157",
+    "id": "b948dc86-8060-445a-9a83-041f984e980e",
     "name": "Xtreme Outdoor by HISTORY",
     "region": "us",
     "category": "Pluto TV",
@@ -3233,7 +3233,7 @@
   },
   {
     "id": "YoMTV.us@SD",
-    "name": "Yo! MTV",
+    "name": "Yo! MTV (1080p)",
     "region": "us",
     "category": "Pluto TV",
     "logo": "",
