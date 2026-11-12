@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-id="19bab732-b129-4963-8fae-ea517d3faef5" tvg-name="21 Jump Street" group-title="Pluto TV",21 Jump Street
+#EXTINF:-1 tvg-id="74751caf-fccf-4937-9f2d-34b74057c7f3" tvg-name="21 Jump Street" group-title="Pluto TV",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 
 #EXTINF:-1 tvg-id="90210.de@DACH" tvg-name="90210" group-title="Pluto TV",90210
@@ -19,16 +19,16 @@ https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.de@DACH" tvg-name="Auction Hunters" group-title="Pluto TV",Auction Hunters
 https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
 
-#EXTINF:-1 tvg-id="db1e6f9c-7428-40f0-b904-01f5b1191d09" tvg-name="Auto Motor Sport" group-title="Pluto TV",Auto Motor Sport
+#EXTINF:-1 tvg-id="cabb32ac-9f32-4c22-8627-88714343339a" tvg-name="Auto Motor Sport" group-title="Pluto TV",Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 
 #EXTINF:-1 tvg-id="Awkward.de@DACH" tvg-name="Awkward" group-title="Pluto TV",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 
-#EXTINF:-1 tvg-id="91904f71-69e6-453a-93ed-3eed3d151ead" tvg-name="Ax Men Die Holzfäller (720p)" group-title="Pluto TV",Ax Men Die Holzfäller (720p)
+#EXTINF:-1 tvg-id="8372059e-dd17-4caf-82c2-98810e7eb372" tvg-name="Ax Men Die Holzfäller (720p)" group-title="Pluto TV",Ax Men Die Holzfäller (720p)
 https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
 
-#EXTINF:-1 tvg-id="b2062750-beaa-4461-98f7-8d62f392be49" tvg-name="Axel!" group-title="Pluto TV",Axel!
+#EXTINF:-1 tvg-id="cd69b308-a849-4fd1-aa9f-72904685d06a" tvg-name="Axel!" group-title="Pluto TV",Axel!
 https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
 
 #EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-name="BBC Travel" group-title="Pluto TV",BBC Travel
@@ -37,22 +37,22 @@ https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 tvg-id="Becker.de@DACH" tvg-name="Becker" group-title="Pluto TV",Becker
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 
-#EXTINF:-1 tvg-id="b053852b-7b91-416d-b517-81e448867935" tvg-name="Beverly Hills 90210" group-title="Pluto TV",Beverly Hills 90210
+#EXTINF:-1 tvg-id="b23fec02-0b5e-467b-9998-af17c6250168" tvg-name="Beverly Hills 90210" group-title="Pluto TV",Beverly Hills 90210
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 
 #EXTINF:-1 tvg-id="BIGBROTHERCLASSIC.de@DACH" tvg-name="BIG BROTHER CLASSIC" group-title="Pluto TV",BIG BROTHER CLASSIC
 https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
 
-#EXTINF:-1 tvg-id="a045c9b0-d81b-4e11-9da0-453bfc41e8b5" tvg-name="Blue Mountain State" group-title="Pluto TV",Blue Mountain State
+#EXTINF:-1 tvg-id="bb239fea-0d61-4ed9-bde1-7de123be3d09" tvg-name="Blue Mountain State" group-title="Pluto TV",Blue Mountain State
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
 
-#EXTINF:-1 tvg-id="c13e4691-0179-45d6-98b1-2be9355b73b5" tvg-name="Bronco (720p)" group-title="Pluto TV",Bronco (720p)
+#EXTINF:-1 tvg-id="eaf4c309-2960-419b-ac42-d56f6f2ee594" tvg-name="Bronco (720p)" group-title="Pluto TV",Bronco (720p)
 https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
 
-#EXTINF:-1 tvg-id="c915e16c-510c-400a-8dcc-5a2276548412" tvg-name="BVB-Frauen" group-title="Pluto TV",BVB-Frauen
+#EXTINF:-1 tvg-id="f1f4f734-0e5f-444a-aa0a-5bb083938330" tvg-name="BVB-Frauen" group-title="Pluto TV",BVB-Frauen
 https://jmp2.uk/plu-66337ea1307fa300082c28a0.m3u8
 
-#EXTINF:-1 tvg-id="c99f0465-2fdf-458d-8365-71dd36d44f6b" tvg-name="Call My Agent!" group-title="Pluto TV",Call My Agent!
+#EXTINF:-1 tvg-id="ab759d5b-022c-4658-91c6-f9d5e3920db0" tvg-name="Call My Agent!" group-title="Pluto TV",Call My Agent!
 https://jmp2.uk/plu-69776f2b2c00406316a01945.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" group-title="Pluto TV",CBS News 24/7
@@ -64,16 +64,16 @@ https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 tvg-id="ChaosCity.us@Germany" tvg-name="Chaos City" group-title="Pluto TV",Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 
-#EXTINF:-1 tvg-id="4573a2ea-63cb-4ee9-8bc2-8a7dc8c7bd67" tvg-name="Cheers" group-title="Pluto TV",Cheers
+#EXTINF:-1 tvg-id="e921fe53-c9fb-4440-b922-70711bd5cc99" tvg-name="Cheers" group-title="Pluto TV",Cheers
 https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
 
-#EXTINF:-1 tvg-id="a6634471-c6d3-480c-bee4-e57535a5c3c2" tvg-name="CNN Headlines International" group-title="Pluto TV",CNN Headlines International
+#EXTINF:-1 tvg-id="47e6ad33-c06c-47f4-a110-e2b9a777a8dc" tvg-name="CNN Headlines International" group-title="Pluto TV",CNN Headlines International
 https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8
 
-#EXTINF:-1 tvg-id="fcfc5a94-ce9c-4fa7-a294-57034abcac9f" tvg-name="Comedy Central South Park" group-title="Pluto TV",Comedy Central South Park
+#EXTINF:-1 tvg-id="bbfbccc4-3c65-47af-9323-5b5e2f2ccf84" tvg-name="Comedy Central South Park" group-title="Pluto TV",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 
-#EXTINF:-1 tvg-id="5856ff96-ee2f-4fb0-8547-47532821d792" tvg-name="Dating hinter Gittern" group-title="Pluto TV",Dating hinter Gittern
+#EXTINF:-1 tvg-id="67656f64-7159-4260-b0bb-3de7dd8ea855" tvg-name="Dating hinter Gittern" group-title="Pluto TV",Dating hinter Gittern
 https://jmp2.uk/plu-691b2b690d121b44ad4a53ef.m3u8
 
 #EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de@DACH" tvg-name="DAZN Darts x Pluto TV" group-title="Pluto TV",DAZN Darts x Pluto TV
@@ -82,127 +82,127 @@ https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de@DACH" tvg-name="DAZN Heldinnen x Pluto TV" group-title="Pluto TV",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 
-#EXTINF:-1 tvg-id="e44d3c51-c4ba-4c3f-b889-ba07eb45893d" tvg-name="Der Bergdoktor" group-title="Pluto TV",Der Bergdoktor
+#EXTINF:-1 tvg-id="70d6e9ad-7cac-403d-85a0-0b0afc1a53ff" tvg-name="Der Bergdoktor" group-title="Pluto TV",Der Bergdoktor
 https://jmp2.uk/plu-69b0167477cdde1f05c8a625.m3u8
 
-#EXTINF:-1 tvg-id="84a980aa-aae4-421e-b721-52f2a0832ca7" tvg-name="Der Chef (720p)" group-title="Pluto TV",Der Chef (720p)
+#EXTINF:-1 tvg-id="324697fc-14a5-4fb7-ba48-2b3a8facc069" tvg-name="Der Chef (720p)" group-title="Pluto TV",Der Chef (720p)
 https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8
 
-#EXTINF:-1 tvg-id="701297f2-d039-4991-87d7-f288df9834ca" tvg-name="Der Denver-Clan" group-title="Pluto TV",Der Denver-Clan
+#EXTINF:-1 tvg-id="b183f54c-8cd8-46e2-8048-418e1af562e5" tvg-name="Der Denver-Clan" group-title="Pluto TV",Der Denver-Clan
 https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
 
-#EXTINF:-1 tvg-id="4d33159f-ff87-4858-a6bc-de289ebd4cfb" tvg-name="Die fliegenden Ärzte" group-title="Pluto TV",Die fliegenden Ärzte
+#EXTINF:-1 tvg-id="9642445c-3b1d-45a6-bcfd-b860962f2ea5" tvg-name="Die fliegenden Ärzte" group-title="Pluto TV",Die fliegenden Ärzte
 https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
 
-#EXTINF:-1 tvg-id="0f36f5bf-fded-419d-a270-064fa43c4c64" tvg-name="Die glorreichen Sieben" group-title="Pluto TV",Die glorreichen Sieben
+#EXTINF:-1 tvg-id="d1564656-8b1f-40d7-8632-1c987dde798c" tvg-name="Die glorreichen Sieben" group-title="Pluto TV",Die glorreichen Sieben
 https://jmp2.uk/plu-69c2ac2b14c0213702da7a29.m3u8
 
-#EXTINF:-1 tvg-id="fff4c529-ab17-44fd-92da-e2f758ffba89" tvg-name="Die Nanny" group-title="Pluto TV",Die Nanny
+#EXTINF:-1 tvg-id="2c404c1b-5903-4d8f-a863-240090ffc9c6" tvg-name="Die Nanny" group-title="Pluto TV",Die Nanny
 https://jmp2.uk/plu-66c6fc06489bab0008b6f9da.m3u8
 
-#EXTINF:-1 tvg-id="ee4dfc26-a498-452d-a90f-c20b8801e9ab" tvg-name="Die Sieben-Millionen-Dollar-Frau (684p)" group-title="Pluto TV",Die Sieben-Millionen-Dollar-Frau (684p)
+#EXTINF:-1 tvg-id="bd242992-13cd-4f41-8820-47fae6b8fc8c" tvg-name="Die Sieben-Millionen-Dollar-Frau (684p)" group-title="Pluto TV",Die Sieben-Millionen-Dollar-Frau (684p)
 https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
 
-#EXTINF:-1 tvg-id="4a661ef3-02d5-4888-afd2-45cfa6af2d6b" tvg-name="Dominance FC TV" group-title="Pluto TV",Dominance FC TV
+#EXTINF:-1 tvg-id="66683d68-d582-4604-bc4c-5087d8ed3cdb" tvg-name="Dominance FC TV" group-title="Pluto TV",Dominance FC TV
 https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8
 
-#EXTINF:-1 tvg-id="e3914b07-2486-4196-a770-54066ab975cf" tvg-name="Don Matteo (720p)" group-title="Pluto TV",Don Matteo (720p)
+#EXTINF:-1 tvg-id="a0a65889-775d-4eb7-9656-32408e3d3e1b" tvg-name="Don Matteo (720p)" group-title="Pluto TV",Don Matteo (720p)
 https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
 
 #EXTINF:-1 tvg-id="DrakeJosh.de@DACH" tvg-name="Drake & Josh" group-title="Pluto TV",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 
-#EXTINF:-1 tvg-id="209f0532-2113-406d-92be-0a76d6a05ace" tvg-name="Dyn Sport Mix (720p)" group-title="Pluto TV",Dyn Sport Mix (720p)
+#EXTINF:-1 tvg-id="aa9ee892-f0d7-4a98-90ae-8922b3113962" tvg-name="Dyn Sport Mix (720p)" group-title="Pluto TV",Dyn Sport Mix (720p)
 https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
 
-#EXTINF:-1 tvg-id="879743b4-565e-41cc-a0f3-cf025a5c7b98" tvg-name="Ein Engel auf Erden" group-title="Pluto TV",Ein Engel auf Erden
+#EXTINF:-1 tvg-id="67dd0f19-5ae7-4c16-a4f7-c9e8b28d127e" tvg-name="Ein Engel auf Erden" group-title="Pluto TV",Ein Engel auf Erden
 https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
 
-#EXTINF:-1 tvg-id="0d8d6e57-91b0-4390-940d-d6d3f1c9a0c6" tvg-name="Eine himmlische Familie" group-title="Pluto TV",Eine himmlische Familie
+#EXTINF:-1 tvg-id="a4a984b7-10d2-41d5-8be9-3fb58f776f28" tvg-name="Eine himmlische Familie" group-title="Pluto TV",Eine himmlische Familie
 https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8
 
-#EXTINF:-1 tvg-id="09a2338a-4cdb-43dd-a300-93b99b0eba96" tvg-name="Eine schrecklich nette Familie" group-title="Pluto TV",Eine schrecklich nette Familie
+#EXTINF:-1 tvg-id="c39fc75d-f228-4969-a65e-0f269eeb2212" tvg-name="Eine schrecklich nette Familie" group-title="Pluto TV",Eine schrecklich nette Familie
 https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews (720p)" group-title="Pluto TV",Euronews (720p)
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 
-#EXTINF:-1 tvg-id="20d0d88e-092e-4147-bf41-556a1199d74f" tvg-name="F.B.I. Files" group-title="Pluto TV",F.B.I. Files
+#EXTINF:-1 tvg-id="eaaa7faa-d360-45a6-a0ee-ae8745a013de" tvg-name="F.B.I. Files" group-title="Pluto TV",F.B.I. Files
 https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
 
-#EXTINF:-1 tvg-id="ce005a6d-bd86-4bb8-b9c5-78ea21cfbbb1" tvg-name="Farmland TV (720p)" group-title="Pluto TV",Farmland TV (720p)
+#EXTINF:-1 tvg-id="4bef374b-576f-4a26-b67f-2b2e71b1cff1" tvg-name="Farmland TV (720p)" group-title="Pluto TV",Farmland TV (720p)
 https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-name="FIFA+ (720p)" group-title="Pluto TV",FIFA+ (720p)
 https://jmp2.uk/plu-660bfc032433010008def35a.m3u8
 
-#EXTINF:-1 tvg-id="95ceaf06-16dd-421a-bfdd-2f818279ac8c" tvg-name="Filmgold (720p)" group-title="Pluto TV",Filmgold (720p)
+#EXTINF:-1 tvg-id="45162ea1-e5aa-4146-be7b-4b840e2a647f" tvg-name="Filmgold (720p)" group-title="Pluto TV",Filmgold (720p)
 https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
 
-#EXTINF:-1 tvg-id="a96b0478-da46-47f7-b285-e109a932cd40" tvg-name="Flipper" group-title="Pluto TV",Flipper
+#EXTINF:-1 tvg-id="fb7f0ff5-57ad-46f3-b9c8-5f658b269257" tvg-name="Flipper" group-title="Pluto TV",Flipper
 https://jmp2.uk/plu-68d277fb12bf71eaaed3e9f1.m3u8
 
-#EXTINF:-1 tvg-id="af2315bd-6659-4bfc-967e-b5c3b3dd3dd2" tvg-name="Fluss-Monster" group-title="Pluto TV",Fluss-Monster
+#EXTINF:-1 tvg-id="6950df4e-a2f8-4fa8-adf4-2bae1c79091b" tvg-name="Fluss-Monster" group-title="Pluto TV",Fluss-Monster
 https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
 
-#EXTINF:-1 tvg-id="10b67ee5-2c78-4ffc-b58a-fc5a61c4633d" tvg-name="Frasier" group-title="Pluto TV",Frasier
+#EXTINF:-1 tvg-id="f58282b2-0937-4516-bd14-8366f0324a50" tvg-name="Frasier" group-title="Pluto TV",Frasier
 https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
 
 #EXTINF:-1 tvg-id="FrasierBeruhmteGaste.de@DACH" tvg-name="Frasier: Berühmte Gäste" group-title="Pluto TV",Frasier: Berühmte Gäste
 https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
 
-#EXTINF:-1 tvg-id="c64a78ec-fe2c-458c-86cc-fb15935226fb" tvg-name="Fury" group-title="Pluto TV",Fury
+#EXTINF:-1 tvg-id="83142482-6154-4fa7-809e-32ff21a6db41" tvg-name="Fury" group-title="Pluto TV",Fury
 https://jmp2.uk/plu-6270ea4345f5bc0007823048.m3u8
 
 #EXTINF:-1 tvg-id="GermanyShore.de@DACH" tvg-name="Germany Shore" group-title="Pluto TV",Germany Shore
 https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
 
-#EXTINF:-1 tvg-id="0227dda0-c726-4f8c-b034-372a79a51cd5" tvg-name="Gigolos" group-title="Pluto TV",Gigolos
+#EXTINF:-1 tvg-id="0e1919ac-ba03-42c6-95f6-5c742f7e83db" tvg-name="Gigolos" group-title="Pluto TV",Gigolos
 https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
 
-#EXTINF:-1 tvg-id="d02c6be0-6a9a-4663-ad80-32d61e1deb28" tvg-name="Hausmeister Krause" group-title="Pluto TV",Hausmeister Krause
+#EXTINF:-1 tvg-id="ed92151e-9ec3-4029-abbf-fdd3b4bc73ff" tvg-name="Hausmeister Krause" group-title="Pluto TV",Hausmeister Krause
 https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
 
 #EXTINF:-1 tvg-id="HellsKitchen.us@UK" tvg-name="Hell's Kitchen (720p)" group-title="Pluto TV",Hell's Kitchen (720p)
 https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8
 
-#EXTINF:-1 tvg-id="b2e3fbb3-d3b8-44e7-bffa-5a71035b1e9f" tvg-name="iCarly" group-title="Pluto TV",iCarly
+#EXTINF:-1 tvg-id="605e7dfa-a968-464a-9150-bf8f2a3b32aa" tvg-name="iCarly" group-title="Pluto TV",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
 
 #EXTINF:-1 tvg-id="IcePilots.us@Germany" tvg-name="Ice Pilots" group-title="Pluto TV",Ice Pilots
 https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 
-#EXTINF:-1 tvg-id="91373469-3f0f-4d2e-8d21-b720b8525419" tvg-name="Just.fishing" group-title="Pluto TV",Just.fishing
+#EXTINF:-1 tvg-id="469df29b-3caf-4c01-a022-69ce1b3ccdf6" tvg-name="Just.fishing" group-title="Pluto TV",Just.fishing
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
-#EXTINF:-1 tvg-id="29bc09cf-73ae-4e15-a460-cac43a5b34a2" tvg-name="KultKrimi" group-title="Pluto TV",KultKrimi
+#EXTINF:-1 tvg-id="55bfe2c6-452a-4749-b404-d46e215bc40c" tvg-name="KultKrimi" group-title="Pluto TV",KultKrimi
 https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
 
-#EXTINF:-1 tvg-id="3ddbb0da-1305-44e9-b947-d3566b854cb7" tvg-name="KultKrimi: Der Alte" group-title="Pluto TV",KultKrimi: Der Alte
+#EXTINF:-1 tvg-id="f46b95c6-1b31-465e-803d-ed435a8c32f7" tvg-name="KultKrimi: Der Alte" group-title="Pluto TV",KultKrimi: Der Alte
 https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
 
-#EXTINF:-1 tvg-id="180e9290-d5e9-4df2-b392-f732f36165ed" tvg-name="KultKrimi: Der Kommissar" group-title="Pluto TV",KultKrimi: Der Kommissar
+#EXTINF:-1 tvg-id="e55cfdb3-449e-44fb-ba2d-cdf58064a8c9" tvg-name="KultKrimi: Der Kommissar" group-title="Pluto TV",KultKrimi: Der Kommissar
 https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
 
-#EXTINF:-1 tvg-id="e17af275-486e-4271-888d-4dd43dcc9f79" tvg-name="KultKrimi: Derrick" group-title="Pluto TV",KultKrimi: Derrick
+#EXTINF:-1 tvg-id="08b3ce1a-c890-48d7-968e-63edb4ede730" tvg-name="KultKrimi: Derrick" group-title="Pluto TV",KultKrimi: Derrick
 https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
 
-#EXTINF:-1 tvg-id="421c2b06-ae02-4dc2-ab60-9a8123a47ff6" tvg-name="KultKrimi: Die Rettungsflieger" group-title="Pluto TV",KultKrimi: Die Rettungsflieger
+#EXTINF:-1 tvg-id="6476f057-6fbd-427e-8c4f-cc1798192fe8" tvg-name="KultKrimi: Die Rettungsflieger" group-title="Pluto TV",KultKrimi: Die Rettungsflieger
 https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
 
-#EXTINF:-1 tvg-id="cab64a53-2515-4c15-8cf7-dd8b35a31301" tvg-name="KultKrimi: Ein Fall für zwei" group-title="Pluto TV",KultKrimi: Ein Fall für zwei
+#EXTINF:-1 tvg-id="893a9d19-c684-4b33-bd73-ac3f4fdceb97" tvg-name="KultKrimi: Ein Fall für zwei" group-title="Pluto TV",KultKrimi: Ein Fall für zwei
 https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
 
-#EXTINF:-1 tvg-id="d6d3e6a4-625a-4be6-ba73-3a0b71f64f00" tvg-name="KultKrimi: Küstenwache" group-title="Pluto TV",KultKrimi: Küstenwache
+#EXTINF:-1 tvg-id="74f42157-53c7-4bd8-ab1e-b8b6bdd65289" tvg-name="KultKrimi: Küstenwache" group-title="Pluto TV",KultKrimi: Küstenwache
 https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
 
-#EXTINF:-1 tvg-id="75f09106-6254-4ef2-9912-6ca54f3416a5" tvg-name="Ladykracher" group-title="Pluto TV",Ladykracher
+#EXTINF:-1 tvg-id="c113e2dd-d1a1-4891-968f-04639f784e15" tvg-name="Ladykracher" group-title="Pluto TV",Ladykracher
 https://jmp2.uk/plu-667d3534ca74680008696051.m3u8
 
-#EXTINF:-1 tvg-id="bfc32680-d979-4413-8db8-39a89c436354" tvg-name="Liebe Sünde" group-title="Pluto TV",Liebe Sünde
+#EXTINF:-1 tvg-id="3cae62f7-2903-421d-92bf-603a6da6b857" tvg-name="Liebe Sünde" group-title="Pluto TV",Liebe Sünde
 https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
 
-#EXTINF:-1 tvg-id="4039653b-4f31-4f12-87a2-1c3b2874da98" tvg-name="Love Boat" group-title="Pluto TV",Love Boat
+#EXTINF:-1 tvg-id="a2c1d989-82fa-4e8b-809c-3629adb7e8a6" tvg-name="Love Boat" group-title="Pluto TV",Love Boat
 https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
 
 #EXTINF:-1 tvg-id="McLeodsTochter.de@DACH" tvg-name="McLeods Töchter" group-title="Pluto TV",McLeods Töchter
@@ -211,40 +211,40 @@ https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us@Spain" tvg-name="Melrose Place" group-title="Pluto TV",Melrose Place
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 
-#EXTINF:-1 tvg-id="561c89e3-bbc0-48f8-8da8-9d425e959f1b" tvg-name="Merhaba Türkische Serien (720p)" group-title="Pluto TV",Merhaba Türkische Serien (720p)
+#EXTINF:-1 tvg-id="44e47c6c-9399-4c0b-bb93-c9b4787b88c4" tvg-name="Merhaba Türkische Serien (720p)" group-title="Pluto TV",Merhaba Türkische Serien (720p)
 https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8
 
-#EXTINF:-1 tvg-id="940d2fee-7ac8-4e91-8acf-724642f51993" tvg-name="Mission Impossible" group-title="Pluto TV",Mission Impossible
+#EXTINF:-1 tvg-id="4bf57fa1-1e10-4cbf-adae-b936e01502c4" tvg-name="Mission Impossible" group-title="Pluto TV",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 
-#EXTINF:-1 tvg-id="b6cf0771-5bc5-4f26-a2ad-b7290091e864" tvg-name="Missions" group-title="Pluto TV",Missions
+#EXTINF:-1 tvg-id="f5b072e2-5818-4e1b-aff7-004b89722535" tvg-name="Missions" group-title="Pluto TV",Missions
 https://jmp2.uk/plu-6824539e1295f98347e95242.m3u8
 
-#EXTINF:-1 tvg-id="f73e28b8-0158-4886-b7fd-3936361a3040" tvg-name="MODUS Super Series Darts (720p)" group-title="Pluto TV",MODUS Super Series Darts (720p)
+#EXTINF:-1 tvg-id="82bc5a9e-5647-425d-a9a8-95a259851998" tvg-name="MODUS Super Series Darts (720p)" group-title="Pluto TV",MODUS Super Series Darts (720p)
 https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8
 
-#EXTINF:-1 tvg-id="887f77aa-5691-4e2a-b855-fa9660395a0f" tvg-name="Mork vom Ork" group-title="Pluto TV",Mork vom Ork
+#EXTINF:-1 tvg-id="06c39d7a-0c0a-4993-96ae-7102d1058294" tvg-name="Mork vom Ork" group-title="Pluto TV",Mork vom Ork
 https://jmp2.uk/plu-642ad2127ef83900085f8910.m3u8
 
 #EXTINF:-1 tvg-id="Moviedome.us@Germany" tvg-name="MOVIEDOME (720p)" group-title="Pluto TV",MOVIEDOME (720p)
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 
-#EXTINF:-1 tvg-id="c179feb9-87d1-466c-ad23-06354d949530" tvg-name="MTV Catfish TV Show (720p)" group-title="Pluto TV",MTV Catfish TV Show (720p)
+#EXTINF:-1 tvg-id="75dc7d7b-588d-4979-9399-e9d56f32f97b" tvg-name="MTV Catfish TV Show (720p)" group-title="Pluto TV",MTV Catfish TV Show (720p)
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
 
-#EXTINF:-1 tvg-id="41f5a8b2-eb8b-402a-aa24-0917806fc135" tvg-name="MTV Dating (720p)" group-title="Pluto TV",MTV Dating (720p)
+#EXTINF:-1 tvg-id="fd80b572-4dc7-4151-86e6-92085bbe49f8" tvg-name="MTV Dating (720p)" group-title="Pluto TV",MTV Dating (720p)
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
 
-#EXTINF:-1 tvg-id="3278ea2f-1d5b-4aba-af6a-74b97a4726e8" tvg-name="MTV Pluto TV" group-title="Pluto TV",MTV Pluto TV
+#EXTINF:-1 tvg-id="e03afe2c-d0b4-4f8f-9628-e863aae0f9ef" tvg-name="MTV Pluto TV" group-title="Pluto TV",MTV Pluto TV
 https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
 
-#EXTINF:-1 tvg-id="e2e499c3-a6f7-45ff-99ca-6403a8790850" tvg-name="MTV Reality (720p)" group-title="Pluto TV",MTV Reality (720p)
+#EXTINF:-1 tvg-id="590ad8d3-d889-457f-8af0-c665c78ccd7e" tvg-name="MTV Reality (720p)" group-title="Pluto TV",MTV Reality (720p)
 https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
 
-#EXTINF:-1 tvg-id="652c3c14-f5c4-4b92-b947-4e89b3acb480" tvg-name="MTV Ridiculousness" group-title="Pluto TV",MTV Ridiculousness
+#EXTINF:-1 tvg-id="7d7688e7-b0ec-4966-9a89-c7ae33030a49" tvg-name="MTV Ridiculousness" group-title="Pluto TV",MTV Ridiculousness
 https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
 
-#EXTINF:-1 tvg-id="b573f417-c4d1-4c52-bc38-b0773519ec8d" tvg-name="MTV Teen Mom (720p)" group-title="Pluto TV",MTV Teen Mom (720p)
+#EXTINF:-1 tvg-id="71c0dabd-2015-46cc-8f13-a369862fe0e2" tvg-name="MTV Teen Mom (720p)" group-title="Pluto TV",MTV Teen Mom (720p)
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
 
 #EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-name="N24 Doku" group-title="Pluto TV",N24 Doku
@@ -259,19 +259,19 @@ https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-name="Nickelodeon Classics (720p)" group-title="Pluto TV",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 
-#EXTINF:-1 tvg-id="f33b04b4-d8b4-425f-85a1-85ba3163908c" tvg-name="Nickelodeon Teen (720p)" group-title="Pluto TV",Nickelodeon Teen (720p)
+#EXTINF:-1 tvg-id="249a4ba1-2755-4453-a1d3-0f11e0da9fca" tvg-name="Nickelodeon Teen (720p)" group-title="Pluto TV",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 
-#EXTINF:-1 tvg-id="92c02faa-00cf-411c-9c62-cddf143b9933" tvg-name="Nickelodeon Toons (720p)" group-title="Pluto TV",Nickelodeon Toons (720p)
+#EXTINF:-1 tvg-id="d7d15084-7960-434c-8add-a38259181ef2" tvg-name="Nickelodeon Toons (720p)" group-title="Pluto TV",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 
-#EXTINF:-1 tvg-id="169c1657-1303-405e-a20f-a1f8fbf071a4" tvg-name="Pastewka" group-title="Pluto TV",Pastewka
+#EXTINF:-1 tvg-id="bc637c2a-2853-44c0-a2b4-bc121b5d0624" tvg-name="Pastewka" group-title="Pluto TV",Pastewka
 https://jmp2.uk/plu-686cfef52704ca31d85c4bf1.m3u8
 
-#EXTINF:-1 tvg-id="29e44179-13d2-4361-bb48-857bafe3c714" tvg-name="Perry Mason" group-title="Pluto TV",Perry Mason
+#EXTINF:-1 tvg-id="7ad332e0-c38c-479e-bdd1-ef40f4167a51" tvg-name="Perry Mason" group-title="Pluto TV",Perry Mason
 https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 
-#EXTINF:-1 tvg-id="01744df6-6f3f-4a3b-bab9-50c5d24800b9" tvg-name="Pluto TV Action" group-title="Pluto TV",Pluto TV Action
+#EXTINF:-1 tvg-id="61889785-2573-4365-824a-9e94ce32f49f" tvg-name="Pluto TV Action" group-title="Pluto TV",Pluto TV Action
 https://jmp2.uk/plu-65004605110545000842035d.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de@DACH" tvg-name="Pluto TV Adult Animation" group-title="Pluto TV",Pluto TV Adult Animation
@@ -280,7 +280,7 @@ https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimals.de@DACH" tvg-name="Pluto TV Animals" group-title="Pluto TV",Pluto TV Animals
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
 
-#EXTINF:-1 tvg-id="39cc12dd-4977-416e-b532-0112eb74dcae" tvg-name="Pluto TV Anime" group-title="Pluto TV",Pluto TV Anime
+#EXTINF:-1 tvg-id="2f1c6074-1482-4f8a-8d16-7940f7d778d6" tvg-name="Pluto TV Anime" group-title="Pluto TV",Pluto TV Anime
 https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVBritischeSerien.de@DACH" tvg-name="Pluto TV Britische Serien" group-title="Pluto TV",Pluto TV Britische Serien
@@ -316,10 +316,10 @@ https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistorischeSerien.de@DACH" tvg-name="Pluto TV Historische Serien" group-title="Pluto TV",Pluto TV Historische Serien
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 
-#EXTINF:-1 tvg-id="064b51a1-938d-44c6-8c7f-d2b195219d0c" tvg-name="Pluto TV History" group-title="Pluto TV",Pluto TV History
+#EXTINF:-1 tvg-id="1c85542e-bfa1-47e1-9fa3-9e0dd45af951" tvg-name="Pluto TV History" group-title="Pluto TV",Pluto TV History
 https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
 
-#EXTINF:-1 tvg-id="caf2f9ca-f56e-44a1-b7b6-0beabc7f8f9e" tvg-name="Pluto TV Horror" group-title="Pluto TV",Pluto TV Horror
+#EXTINF:-1 tvg-id="822c492f-9444-4dfa-a29e-69da607f1954" tvg-name="Pluto TV Horror" group-title="Pluto TV",Pluto TV Horror
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVHorrorSerien.de@DACH" tvg-name="Pluto TV Horror-Serien" group-title="Pluto TV",Pluto TV Horror-Serien
@@ -346,7 +346,7 @@ https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNordicCrime.de@DACH" tvg-name="Pluto TV Nordic Crime" group-title="Pluto TV",Pluto TV Nordic Crime
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 
-#EXTINF:-1 tvg-id="289113f4-04ab-46d1-8a2f-c6c3e6dea291" tvg-name="Pluto TV Paranormal" group-title="Pluto TV",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="42c2fa85-4224-415a-a4af-9f62a1c5e049" tvg-name="Pluto TV Paranormal" group-title="Pluto TV",Pluto TV Paranormal
 https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVPolizeiserien.de@DACH" tvg-name="Pluto TV Polizeiserien" group-title="Pluto TV",Pluto TV Polizeiserien
@@ -355,13 +355,13 @@ https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReportagen.de@DACH" tvg-name="Pluto TV Reportagen" group-title="Pluto TV",Pluto TV Reportagen
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 
-#EXTINF:-1 tvg-id="7034aec2-c920-40f5-b655-5642c6de4937" tvg-name="Pluto TV Romance" group-title="Pluto TV",Pluto TV Romance
+#EXTINF:-1 tvg-id="58f1d6ee-4006-45e4-92fd-b6da87599fb1" tvg-name="Pluto TV Romance" group-title="Pluto TV",Pluto TV Romance
 https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 
-#EXTINF:-1 tvg-id="698c5ba8-3c64-48fb-8c08-90e46c68aca8" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="1f23220a-7fc3-4c0d-98d8-8c5997ab4815" tvg-name="Pluto TV Sci-Fi" group-title="Pluto TV",Pluto TV Sci-Fi
 https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 
-#EXTINF:-1 tvg-id="cc8839a7-54d9-4912-9e06-59ad0f58bb04" tvg-name="Pluto TV Science" group-title="Pluto TV",Pluto TV Science
+#EXTINF:-1 tvg-id="a6f3f298-c251-483f-980e-a6b987f2f0c1" tvg-name="Pluto TV Science" group-title="Pluto TV",Pluto TV Science
 https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSerie.de@DACH" tvg-name="Pluto TV Serie" group-title="Pluto TV",Pluto TV Serie
@@ -370,7 +370,7 @@ https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de@DACH" tvg-name="Pluto TV Sitcoms" group-title="Pluto TV",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 
-#EXTINF:-1 tvg-id="5c948fb6-a91c-482d-891c-4c1ec713c3e4" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Pluto TV",Pluto TV Snooker 900 (720p)
+#EXTINF:-1 tvg-id="9d3b6669-ed54-4269-aeea-677538344bee" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Pluto TV",Pluto TV Snooker 900 (720p)
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSpace.de@DACH" tvg-name="Pluto TV Space" group-title="Pluto TV",Pluto TV Space
@@ -382,7 +382,7 @@ https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrekAnimation.de@DACH" tvg-name="Pluto TV Star Trek: Animation" group-title="Pluto TV",Pluto TV Star Trek: Animation
 https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 
-#EXTINF:-1 tvg-id="f7facbd6-b258-4352-9f76-3dfda18eebfb" tvg-name="Pluto TV True Crime" group-title="Pluto TV",Pluto TV True Crime
+#EXTINF:-1 tvg-id="f3dc8d67-77f0-41d9-8aeb-f949635b8ac8" tvg-name="Pluto TV True Crime" group-title="Pluto TV",Pluto TV True Crime
 https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVWeihnachtenimSommer.de@DACH" tvg-name="Pluto TV Weihnachten im Sommer" group-title="Pluto TV",Pluto TV Weihnachten im Sommer
@@ -397,46 +397,46 @@ https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWorstofBundy.de@DACH" tvg-name="Pluto TV Worst of Bundy" group-title="Pluto TV",Pluto TV Worst of Bundy
 https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
 
-#EXTINF:-1 tvg-id="f9c9dc33-7c4f-4cd5-863a-2d8b32b7aff2" tvg-name="Profiling Paris" group-title="Pluto TV",Profiling Paris
+#EXTINF:-1 tvg-id="c1a80fd0-dc19-4f68-8479-7b3339baf9f3" tvg-name="Profiling Paris" group-title="Pluto TV",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
 
-#EXTINF:-1 tvg-id="c85c86f8-beae-4812-90af-c94f9f66fa89" tvg-name="Quantum Leap (720p)" group-title="Pluto TV",Quantum Leap (720p)
+#EXTINF:-1 tvg-id="acd939cb-4737-4284-b8af-acb334ca85a4" tvg-name="Quantum Leap (720p)" group-title="Pluto TV",Quantum Leap (720p)
 https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
 
-#EXTINF:-1 tvg-id="1ce90e32-1363-4002-b3ee-be059c8990ce" tvg-name="Rauchende Colts" group-title="Pluto TV",Rauchende Colts
+#EXTINF:-1 tvg-id="3f50a6f2-6cbb-4235-a58c-9ff69176ccca" tvg-name="Rauchende Colts" group-title="Pluto TV",Rauchende Colts
 https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
 
-#EXTINF:-1 tvg-id="a2a55329-8bb7-48f6-9ae2-f5222a97ce50" tvg-name="Rawhide Tausend Meilen Staub" group-title="Pluto TV",Rawhide Tausend Meilen Staub
+#EXTINF:-1 tvg-id="e27afa26-2bf9-4e69-b3cd-41f307b487d6" tvg-name="Rawhide Tausend Meilen Staub" group-title="Pluto TV",Rawhide Tausend Meilen Staub
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-name="Red Bull TV DE (720p)" group-title="Pluto TV",Red Bull TV DE (720p)
 https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
 
-#EXTINF:-1 tvg-id="0d8eb864-3dfc-46f7-ba0c-f0fe5b5ecd47" tvg-name="Red Shoe Diaries" group-title="Pluto TV",Red Shoe Diaries
+#EXTINF:-1 tvg-id="bab0f121-9ded-4a28-bbc0-b0583bdfcd8c" tvg-name="Red Shoe Diaries" group-title="Pluto TV",Red Shoe Diaries
 https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
 
-#EXTINF:-1 tvg-id="ae954535-d008-405c-a7a0-0104484e3d26" tvg-name="RoboCop" group-title="Pluto TV",RoboCop
+#EXTINF:-1 tvg-id="f5df2f14-7b80-4540-847f-647ac2f91673" tvg-name="RoboCop" group-title="Pluto TV",RoboCop
 https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
 
-#EXTINF:-1 tvg-id="181fea31-9a81-4f63-bae3-08b326b531db" tvg-name="Rules of Engagement" group-title="Pluto TV",Rules of Engagement
+#EXTINF:-1 tvg-id="56d7fdda-cd31-492f-bb6c-d3c6d008ac5f" tvg-name="Rules of Engagement" group-title="Pluto TV",Rules of Engagement
 https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
 
 #EXTINF:-1 tvg-id="SabrinaTotalverhext.de@DACH" tvg-name="Sabrina Total verhext!" group-title="Pluto TV",Sabrina Total verhext!
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 
-#EXTINF:-1 tvg-id="8a125ad4-a964-46ab-b3fc-497539bf5a7b" tvg-name="Saving Hope" group-title="Pluto TV",Saving Hope
+#EXTINF:-1 tvg-id="37c19875-2b98-4ae5-a7f4-5f5f3dfb816d" tvg-name="Saving Hope" group-title="Pluto TV",Saving Hope
 https://jmp2.uk/plu-666fe4768768aa0008c31ddf.m3u8
 
-#EXTINF:-1 tvg-id="52d1b271-ac23-4afe-b235-a4518caaf2ec" tvg-name="Schlosshotel Orth" group-title="Pluto TV",Schlosshotel Orth
+#EXTINF:-1 tvg-id="aa45e251-b4e1-4eee-a30b-ddb79fd1f63a" tvg-name="Schlosshotel Orth" group-title="Pluto TV",Schlosshotel Orth
 https://jmp2.uk/plu-69b01641a9b840a456a11c18.m3u8
 
-#EXTINF:-1 tvg-id="e14de483-93d6-4483-9526-eaf69733d06d" tvg-name="Schnell ermittelt" group-title="Pluto TV",Schnell ermittelt
+#EXTINF:-1 tvg-id="26fc2e3a-6342-4960-8ee9-dfab3942b669" tvg-name="Schnell ermittelt" group-title="Pluto TV",Schnell ermittelt
 https://jmp2.uk/plu-69b968a58323ef2714d1aa36.m3u8
 
-#EXTINF:-1 tvg-id="98eb1ed8-7598-48df-aa5b-d2a6343b9ebc" tvg-name="Sea Patrol" group-title="Pluto TV",Sea Patrol
+#EXTINF:-1 tvg-id="3340004f-0ba8-48a0-a49b-cbbf412a38ca" tvg-name="Sea Patrol" group-title="Pluto TV",Sea Patrol
 https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8
 
-#EXTINF:-1 tvg-id="082b3dc2-a647-49cf-bc5a-ce92e7fc7a6c" tvg-name="Seaquest" group-title="Pluto TV",Seaquest
+#EXTINF:-1 tvg-id="6ce3b7d1-2d78-4575-b199-b6c2dabc835a" tvg-name="Seaquest" group-title="Pluto TV",Seaquest
 https://jmp2.uk/plu-69b14863dd687227e1e4b6b2.m3u8
 
 #EXTINF:-1 tvg-id="SouthParkButtersCollection.de@DACH" tvg-name="South Park: Butters Collection" group-title="Pluto TV",South Park: Butters Collection
@@ -463,13 +463,13 @@ https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8
 #EXTINF:-1 tvg-id="CuriosityChannel.de@SD" tvg-name="SPIEGEL TV (720p)" group-title="Pluto TV",SPIEGEL TV (720p)
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 
-#EXTINF:-1 tvg-id="3d7db231-9192-4e5f-8461-2889af6ea5bd" tvg-name="SPIEGEL TV Konflikte" group-title="Pluto TV",SPIEGEL TV Konflikte
+#EXTINF:-1 tvg-id="d812b2ab-0f4c-4750-a5d6-fefc26312810" tvg-name="SPIEGEL TV Konflikte" group-title="Pluto TV",SPIEGEL TV Konflikte
 https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
 
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-name="SpongeBob Schwammkopf (720p)" group-title="Pluto TV",SpongeBob Schwammkopf (720p)
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 
-#EXTINF:-1 tvg-id="9d56fa3a-acd5-4596-a924-d10046a6f085" tvg-name="Stand-up Comedy (720p)" group-title="Pluto TV",Stand-up Comedy (720p)
+#EXTINF:-1 tvg-id="aaf0bc9f-afd1-4ae5-8886-b9b9e3b0fa97" tvg-name="Stand-up Comedy (720p)" group-title="Pluto TV",Stand-up Comedy (720p)
 https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de@DACH" tvg-name="Star Trek: The Next Generation" group-title="Pluto TV",Star Trek: The Next Generation
@@ -478,19 +478,19 @@ https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de@DACH" tvg-name="Star Trek: The Original Series" group-title="Pluto TV",Star Trek: The Original Series
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 
-#EXTINF:-1 tvg-id="a58c6fed-a071-499b-a5b1-e9f8158429e4" tvg-name="Stromberg" group-title="Pluto TV",Stromberg
+#EXTINF:-1 tvg-id="844068e1-d778-4a4f-8ce6-c0533bade078" tvg-name="Stromberg" group-title="Pluto TV",Stromberg
 https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
 
-#EXTINF:-1 tvg-id="fc759c38-7197-41ee-8934-c0c19bc5dddb" tvg-name="Swamp People" group-title="Pluto TV",Swamp People
+#EXTINF:-1 tvg-id="9f0b1b2e-d67b-4a6b-bcde-e3e8c361e5ff" tvg-name="Swamp People" group-title="Pluto TV",Swamp People
 https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
 
 #EXTINF:-1 tvg-id="TakeshisCastle.de@DACH" tvg-name="Takeshi's Castle" group-title="Pluto TV",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 
-#EXTINF:-1 tvg-id="8478afe3-538d-48dd-bb7b-80b5e0fe9406" tvg-name="Täterjagd" group-title="Pluto TV",Täterjagd
+#EXTINF:-1 tvg-id="a8a00329-9172-4517-929c-7ff140fc9924" tvg-name="Täterjagd" group-title="Pluto TV",Täterjagd
 https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
 
-#EXTINF:-1 tvg-id="f2f9262f-fea8-4fa0-8a9e-35dc81f9926e" tvg-name="Telenovela ZDF" group-title="Pluto TV",Telenovela ZDF
+#EXTINF:-1 tvg-id="c4f8fe24-b038-4ed1-b5dc-08c9bbe8cab1" tvg-name="Telenovela ZDF" group-title="Pluto TV",Telenovela ZDF
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-name="Tennis Channel" group-title="Pluto TV",Tennis Channel
@@ -502,43 +502,43 @@ https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
 #EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de@DACH" tvg-name="The L Word – Wenn Frauen lieben" group-title="Pluto TV",The L Word – Wenn Frauen lieben
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 
-#EXTINF:-1 tvg-id="a2341f13-191b-427f-a918-b69c5c7fec50" tvg-name="The Librarians" group-title="Pluto TV",The Librarians
+#EXTINF:-1 tvg-id="0bd64035-5633-42c8-ad57-287c14e39cae" tvg-name="The Librarians" group-title="Pluto TV",The Librarians
 https://jmp2.uk/plu-6989b64839dd847194cadcd7.m3u8
 
-#EXTINF:-1 tvg-id="d2cb8235-0678-45f6-ada7-55593c6914de" tvg-name="The Nanny & Mr Sheffield A Fine Romance" group-title="Pluto TV",The Nanny & Mr Sheffield A Fine Romance
+#EXTINF:-1 tvg-id="d80ec14b-9c47-430c-90a4-d47790fd1e5e" tvg-name="The Nanny & Mr Sheffield A Fine Romance" group-title="Pluto TV",The Nanny & Mr Sheffield A Fine Romance
 https://jmp2.uk/plu-6996f0335452cb4f0a2c4153.m3u8
 
-#EXTINF:-1 tvg-id="baa162e8-be2b-4fad-9246-3dc83484454b" tvg-name="The Outer Limits" group-title="Pluto TV",The Outer Limits
+#EXTINF:-1 tvg-id="a6c8ceae-ebf0-4ca5-b532-248913fc3c3f" tvg-name="The Outer Limits" group-title="Pluto TV",The Outer Limits
 https://jmp2.uk/plu-68ad90673efb41cd97c95825.m3u8
 
-#EXTINF:-1 tvg-id="63466100-b2ec-436e-a9f5-449faa23a47c" tvg-name="The Real Housewives (720p)" group-title="Pluto TV",The Real Housewives (720p)
+#EXTINF:-1 tvg-id="b3bd4992-5220-4b10-bc04-3eabf3786e75" tvg-name="The Real Housewives (720p)" group-title="Pluto TV",The Real Housewives (720p)
 https://jmp2.uk/plu-677fb0231da79bfe4fb0bf4e.m3u8
 
 #EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-name="Top Gear" group-title="Pluto TV",Top Gear
 https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
 
-#EXTINF:-1 tvg-id="52c48ddb-3dce-49f3-9757-ae58f436604b" tvg-name="Top Gear Challenge" group-title="Pluto TV",Top Gear Challenge
+#EXTINF:-1 tvg-id="4551e7d2-19ac-464d-8fd5-bf03b1dff821" tvg-name="Top Gear Challenge" group-title="Pluto TV",Top Gear Challenge
 https://jmp2.uk/plu-66a10384d5125900089dfd04.m3u8
 
 #EXTINF:-1 tvg-id="TotallyTurtles.de@DACH" tvg-name="Totally Turtles (720p)" group-title="Pluto TV",Totally Turtles (720p)
 https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 
-#EXTINF:-1 tvg-id="6c22fe45-61ce-452d-a143-99d6c577ec82" tvg-name="Unentdeckt – Mörder unter uns (720p)" group-title="Pluto TV",Unentdeckt – Mörder unter uns (720p)
+#EXTINF:-1 tvg-id="d814c138-54cf-4cac-8a7b-e24150a892a8" tvg-name="Unentdeckt – Mörder unter uns (720p)" group-title="Pluto TV",Unentdeckt – Mörder unter uns (720p)
 https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
 
-#EXTINF:-1 tvg-id="d5983f00-7c7e-4a94-a02c-de51ccfd7f5a" tvg-name="Vier Frauen und ein Todesfall" group-title="Pluto TV",Vier Frauen und ein Todesfall
+#EXTINF:-1 tvg-id="a55a40f4-158e-4525-8a7b-a8ab368a9033" tvg-name="Vier Frauen und ein Todesfall" group-title="Pluto TV",Vier Frauen und ein Todesfall
 https://jmp2.uk/plu-69b0160da9b840a456a11b4a.m3u8
 
-#EXTINF:-1 tvg-id="2cba6d80-8347-4791-a39a-563b77bc0513" tvg-name="Wicked Tuna" group-title="Pluto TV",Wicked Tuna
+#EXTINF:-1 tvg-id="2ce92f03-27a7-489e-b50d-e5c2f70599b2" tvg-name="Wicked Tuna" group-title="Pluto TV",Wicked Tuna
 https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
 
-#EXTINF:-1 tvg-id="324f0b0e-3b81-47a1-b733-8ce863d3cd8b" tvg-name="Will&Grace (720p)" group-title="Pluto TV",Will&Grace (720p)
+#EXTINF:-1 tvg-id="279cdf66-385f-4b22-a42f-1dc103d158db" tvg-name="Will&Grace (720p)" group-title="Pluto TV",Will&Grace (720p)
 https://jmp2.uk/plu-697a0577f9c3aa5a215a4ef8.m3u8
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-name="World Poker Tour" group-title="Pluto TV",World Poker Tour
 https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
 
-#EXTINF:-1 tvg-id="8337d95b-ad63-4323-80fe-0cbec245c9c4" tvg-name="X-Factor: Das Unfassbare" group-title="Pluto TV",X-Factor: Das Unfassbare
+#EXTINF:-1 tvg-id="5b0ba64d-297e-46b1-848a-6f43421e18d3" tvg-name="X-Factor: Das Unfassbare" group-title="Pluto TV",X-Factor: Das Unfassbare
 https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
 
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-name="Yu-Gi-Oh!" group-title="Pluto TV",Yu-Gi-Oh!
